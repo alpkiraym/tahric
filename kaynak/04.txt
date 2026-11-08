@@ -1,0 +1,202 @@
+# İkinci Yol: Metnin İlk Lafzı
+> Hadis metninin ilk lafzı biliniyorsa başvurulan eserler: halk dilinde meşhur hadis kitapları, rivâyetleri alfabetik düzenlenmiş eserler (el-Câmiu’s-sağîr ve rumuzları) ve fihrist kitapları.
+
+## Halk Dilinde Meşhur Hadis Kitapları
+¶ Hadis metninin ilk lafzı esas alınarak tertib edilmiş eserlerden yararlanma. Bu yolda başvurulan ilk grup, halk dilinde yaygın olarak kullanılan rivâyetlerin derlendiği eserlerdir (halk dilinde meşhur hadis kitapları).
+¶ Genelde alfabetik tarzda hazırlanmış olup, insanların dilinde yaygın olan sözler hakkında bilgi veren eserlerdir.
+¶ İnsanların dilinde yaygın olan sözlerden kasıt; Hz. Peygamber’e nisbet ederek aralarında yaygınca naklettikleri sözlerdir. Bunların bir kısmı sahih, bir kısmı hasen olmakla birlikte pek çoğu zayıf, mevzu’ veya senedsiz olan rivâyetlerdir. Çoğunluğu mevzu’ olan bu tür rivâyetlerin yayılması, toplum tarafından benimsenmesi, bunların Hz. Peygamber’in sözü olduğu şeklinde yanlış bir inanca yol açar ki bu da insanların dinlerini ifsâd eder. Bundan dolayı, mütehassıs hadis âlimleri insanların dillerinde hadis olarak dolaşan sözler hakkında eserler te’lif ettiler. Bu eserlerde sahih hadisleri, zayıf ya da uydurma olanlarından ayırdılar. Bunları kimlerin rivâyet ettiğini açıkladılar. Şayet hadisin aslı, senedi varsa; eser sahiplerinin kitaplarından bu hadislerin tahricini yaptılar. Senedsiz, uydurma bir söz ise; insanlara bunlarla amel etmemeleri için ikâzda bulundular.
+!! Halk dilinde meşhur olan sözler denildiği zaman buradaki şöhret (meşhurluk), ıstılâhî anlamdaki ‘her tabakada en az üç veya daha fazla râvî tarafından rivâyet edilen, mütevâtir derecesine ulaşamayan hadis’ mânâsında değildir. Kasdedilen mânâ; lügavî mânâdaki şöhrettir. Yani, bu sözlerin insanların dillerinde yayılması ve bu sözlerin insanların birçoğunca bilinmesidir.
+¶ Bu sahada kaleme alınan eserlerin pek çoğu, metnin ilk kelimesine göre alfabetik olarak tertib edilmişlerdir.
+### Bazı örnekler
+1. et-Tezkira fi’l-ehâdîsi’l-müştehira; Bedrüddin Muhammed b. Abdullah ez-Zerkeşî (ö.794/1392). Eserde 234 rivâyet vardır.
+2. ed-Dürerü’l-münteşira fi’l-ehâdîsi’l-müştehira; Celâlüddin Abdurrahman es-Süyûtî (ö.911/1505). Eserde 299 rivâyet vardır.
+3. el-Leâli’l-mensûra fi’l-ehâdîsi’l-meşhûra; İbn Hacer el-Askalânî (ö.852/1448).
+4. el-Makâsıdü’l-hasene fî beyâni kesîrin mine’l-ehâdîsi’l-müştehira ale’l-elsine; Muhammed b. Abdurrahman es-Sehâvî (ö.902/1496). Eserde 1356 rivâyet vardır. Eser tek cilt olup rivâyetler alfabetik tarzda düzenlenmiştir.
+5. Temyîzü’t-tayyib mine’l-habîs fî mâ yedûru alâ elsineti’n-nâs mine’l-hadîs; Abdurrahman b. Ali b. ed-Deyba’ eş-Şeybânî (ö.944/1537). Bu eser el-Makâsıdü’l-Hasene’nin özetidir.
+6. el-Bedru’l-münîr fî ğarîbi ehâdîsi’l-beşîri’n-nezîr; Abdülvehhab b. Ahmed eş-Şa’rânî (ö.973/1565).
+7. Teshîlü’s-sebîl ilâ keşfi’l-iltibâs ammâ dâra mine’l-ehâdîsi beyne’n-nâs; Muhammed b. Ahmed el-Halîlî (ö.1057/1647). Bu eser daha çok önceki dönemlerde yapılan çalışmalara yönelik bir eserdir.
+8. İtkânu mâ yahsünu mine’l-ehâdîsi’d-dâire ale’l-elsine; Necmüddin Muhammed b. Muhammed el-Ğazzî (ö.985/1577). el-Ğazzî bu eserinde kendi ilâveleriyle birlikte; Zerkeşî, Süyûtî ve Sehâvî’nin kitaplarını da bir araya getirmiştir.
+9. Keşfü’l-hafâ ve müzîlü’l-ilbâs ammâ iştehera mine’l-ehâdîsi alâ elsineti’n-nâs; İsmail b. Muhammed el-Aclûnî (ö.1162/1749). 2 cilt olan bu eserde 3280 rivâyet vardır. Alfabetik olmakla birlikte eserin sonunda konu fihristi de bulunmaktadır.
+10. Esne’l-metâlib fî ehâdîsi muhtelifeti’l-merâtib; Muhammed b. Derviş eş-Şehîr bi’l-Hût el-Beyrûtî (ö.1276/1860). Rivâyetleri bir araya getirip derleyen ise; oğlu Ebû Zeyd Abdurrahman’dır.
+11. eş-Şezera fi’l-ehâdîsi’l-müştehira; İbn Tûlûn (ö.953/1546). Eser 2 cilt olup fihristi 2. cilttedir.
+12. en-Nevâfihü’l-atira; İbn Cârullah el-Yemenî (ö.1181/1767). en-Nevâfih’in özelliği; rivâyetin başka hangi eserlerde geçtiğini dipnot olarak vermesidir.
+13. el-Muhtasar ale’l-Makâsıd; ez-Zürkânî (ö.1138/1726).
+| Eser | Müellif | Not
+| **et-Tezkira fi’l-ehâdîsi’l-müştehira** | Zerkeşî (794) | 234 rivâyet
+| **ed-Dürerü’l-münteşira** | Süyûtî (911) | 299 rivâyet
+| **el-Leâli’l-mensûra** | İbn Hacer (852) | —
+| **el-Makâsıdü’l-hasene** | Sehâvî (902) | 1356 rivâyet, tek cilt, alfabetik
+| **Temyîzü’t-tayyib** | İbnü’d-Deyba’ eş-Şeybânî (944) | el-Makâsıd’ın özeti
+| **el-Bedru’l-münîr fî ğarîbi ehâdîsi’l-beşîri’n-nezîr** | Şa’rânî (973) | —
+| **Teshîlü’s-sebîl** | el-Halîlî (1057) | Önceki çalışmalara yönelik
+| **İtkânu mâ yahsünu** | Necmüddin el-Ğazzî (985) | Zerkeşî, Süyûtî ve Sehâvî’yi birleştirir
+| **Keşfü’l-hafâ** | Aclûnî (1162) | 2 cilt, 3280 rivâyet, sonunda konu fihristi
+| **Esne’l-metâlib** | el-Hût el-Beyrûtî (1276) | Derleyen oğlu Ebû Zeyd Abdurrahman
+| **eş-Şezera** | İbn Tûlûn (953) | 2 cilt
+| **en-Nevâfihü’l-atira** | İbn Cârullah el-Yemenî (1181) | Diğer kaynakları dipnotta verir
+| **el-Muhtasar ale’l-Makâsıd** | Zürkânî (1138) | —
+* Halk dilinde meşhur sözler: Hz. Peygamber’e nisbet edilerek yaygınca nakledilir; bir kısmı sahih/hasen, pek çoğu zayıf, mevzu’ veya senedsiz. Buradaki şöhret ıstılâhî değil lügavîdir.
+* Bu eserlerin çoğu metnin ilk kelimesine göre alfabetiktir.
+
+## el-Makâsıdü’l-Hasene
+¶ el-Makâsıdü’l-hasene fî beyâni kesîrin mine’l-ehâdîsi’l-müştehira ale’l-elsine:
+¶ Şemseddin es-Sehâvî’nin (ö.902/1497) halk arasında meşhur olan hadislere dair eseri. Sahih, zayıf, hatta mevzû olmakla beraber halk arasında yayılan hadislerin bir araya getirilerek değerlendirildiği en önemli kaynaklardan biridir. Hadislerin alfabetik olarak düzenlendiği kitapta son hadis 1356 numarayı taşımakla birlikte bunlardan 191’i atıflardan ibarettir, on dört haber üzerinde ise herhangi bir değerlendirme yapılmamıştır.
+¶ Sehâvî kitabındaki hadisleri harf sırasına göre tertip etmiş, böylece aranan hadisin bulunmasını kolaylaştırmıştır. Müellif kaydettiği rivayetin bir senedine veya aslına ulaşabilmişse nerelerde geçtiğini göstermiş, sıhhat derecesini açıklamış, âlimlerin bu hadis hakkında söylediklerini yeter derecede zikretmiştir. Hadisin bir aslı yoksa ve hiçbir kitapta da bulamamışsa, bunu beyan etmiş ve “aslı yok” demiştir. Eğer hadisi bulamamış, ancak aslı yok demeye de cesaret edememişse, “bilmiyorum” demiştir.
+¶ Müellifin talebesi Abdurrahman b. Ali bu kitabı “Temyîzü’t-Tayyib” adıyla kısaltmıştır. el-Menûfî (936/1529) el-Vesâilü’s-Seniyye adlı eserinde özetlemiştir.
+| Sehâvî’nin ifadesi | Ne zaman kullanır?
+| **“Aslı yok”** | Hadisin bir aslı yoksa ve hiçbir kitapta bulamamışsa
+| **“Bilmiyorum”** | Hadisi bulamamış, ancak aslı yok demeye de cesaret edememişse
+* el-Makâsıdü’l-hasene: Sehâvî (902); alfabetik, son hadis 1356 (191’i atıf, 14’ü değerlendirmesiz). Bulamazsa “aslı yok”, emin değilse “bilmiyorum” der.
+* el-Makâsıd’ın özetleri: talebesi Abdurrahman b. Ali’nin Temyîzü’t-Tayyib’i ve el-Menûfî’nin el-Vesâilü’s-Seniyye’si.
+
+## Temyîzü’t-Tayyib
+¶ Temyîzü’t-tayyib mine’l-habîs fî mâ yedûru alâ elsineti’n-nâs mine’l-hadîs; Abdurrahman b. Ali b. ed-Deyba’ eş-Şeybânî (ö.944/1537).
+¶ Bu eser el-Makâsıdü’l-Hasene’nin özetidir. Bu muhtasar çalışmasında müellif her hadisin yer aldığı kaynağı ve sıhhat derecesini belirtmiş ve hadisin ravileri niçin zayıf veya metruk olduğunu açıklama hususunda fazla tafsilata girmemiştir. Ana kitapta yer alan hadislerde bir eksiltmeye gitmediği gibi, biraz ilavelerde de bulunmuş ve ilavelerini başta “derim ki” sonunda da “Allah bilir” ifadeleriyle ayırmıştır. Tertip olarak ana kitap düzenine uymuştur. Ancak Sehâvî’nin kitabının sonunda bulunan ve rivayetlerin konularına göre tekrar sıralandığı bölüm bu esere alınmamıştır.
+* Temyîzü’t-Tayyib: İbnü’d-Deyba’ (944), el-Makâsıd’ın özeti; eksiltme yapmaz, ilavelerini “derim ki … Allah bilir” ile ayırır; konulara göre sıralanan son bölüm alınmamıştır.
+
+## Keşfü’l-Hafâ
+¶ Keşfü’l-hafâ ve müzîlü’l-ilbâs ammâ iştehera mine’l-ehâdîsi alâ elsineti’n-nâs; İsmail b. Muhammed el-Aclûnî (ö.1162/1749).
+¶ 2 cilt olan bu eserde 3280 rivâyet vardır. Alfabetik olmakla birlikte eserin sonunda konu fihristi de bulunmaktadır. Müellif eserini bu sahada ulaşabildiği eserleri birleştirmek ve özetlemek maksadıyla yazdığını ifade etmektedir. Eserini oluştururken “Makâsıd”daki hadislerle yetinmemiş, bu konuda daha önce yazılan İbn Hacer’in el-Leâli’l-Mensûra ve Süyûtî’nin ed-Dürerü’l-Münteşira’sı gibi diğer eserlerden de hadisleri eklemiştir. Genel olarak hadisin derecesinin ne olduğunu belirtmiş ve âlimlerin bu hadis hakkındaki görüşlerini kaydetmiştir. Eğer hadisin aslı yoksa bunu da belirtmiştir. Kaydettiği rivayet hadis değilse bunu “hadis değildir, sahabe sözüdür, hikmetli sözdür, âlimlerden birinin sözüdür” vb. ifadelerle açıklamıştır.
+¶ Eserin 23 sayfalık hatime kısmında meşhur imamlar ve âlimler hakkındaki efsanevi rivayet ve asılsız isnatlara, bazı meşhur âlimlerin yanlış anlaşılan ve yanlış yorumlanan görüşlerine ve birçok yararlı konuya değinmektedir. Bu kısım bir nevi kitabın yazılış gayesini özetlemektedir. Kitap, basılan nüshasında rakamlanmış olarak 3281 hadis ihtiva etmektedir.
+* Keşfü’l-hafâ: Aclûnî (1162), 2 cilt, 3280 rivâyet (basılı nüshada 3281); alfabetik, sonunda konu fihristi. el-Makâsıd’a İbn Hacer’in el-Leâli’si ve Süyûtî’nin ed-Dürer’inden hadisler ekler. 23 sayfalık hatime.
+
+## Esne’l-Metâlib
+¶ Esne’l-metâlib fî ehâdîsi muhtelifeti’l-merâtib; Muhammed b. Derviş eş-Şehîr bi’l-Hût el-Beyrûtî (ö.1276/1860).
+¶ Müellif bu eserini Sehâvî’nin mezkûr kitabını ihtisar eden Abdurrahman ed-Deyba’ın eserinden seçerek ve ilavelerde bulunarak oluşturmuştur. Müellifin oğlu Abdurrahman babasının ölümünden sonra eserine birçok ilavede bulunarak eseri alfabetik olarak tertiplemiştir. Hacminin küçüklüğüne rağmen eser çok hadis ihtiva etmektedir. Hadisler hakkında genel olarak çok kısa bilgi verilmiştir. Bazen de söz uzatılmıştır. Eser kısa yoldan neticeye ulaşmak isteyenler için yararlıdır.
+>> **el-Makâsıdü’l-hasene:** Sehâvî (902)
+>> **Temyîzü’t-tayyib:** İbnü’d-Deyba’ (944), özeti
+>> **Esne’l-metâlib:** el-Hût el-Beyrûtî (1276), Temyîz’den seçme + ilaveler; oğlu Abdurrahman alfabetik tertipledi
+* Esne’l-metâlib: el-Hût el-Beyrûtî (1276); Temyîzü’t-Tayyib’den seçme ve ilavelerle; oğlu Abdurrahman ölümünden sonra alfabetik tertipledi. Kısa yoldan neticeye ulaşmak isteyenler için.
+
+## Rivâyetleri Alfabetik Düzenlenmiş Eserler
+¶ Bu gruptaki kitapların mütekaddimûn döneminden ziyâde müteahhirûn döneminde kaleme alındığını görüyoruz. Genel itibarıyla bu grupta yer alan kitapların en belirgin özellikleri şunlardır:
+1. Rivâyetler çeşitli aslî hadis kitaplarından alınmıştır.
+2. Senedleri hazfedilmiştir.
+3. Araştırmacılara kolaylık olması için rivâyetler alfabetik tarzda düzenlenmiştir.
+4. Genellikle hadislerin hükümlerine yer verilmiştir.
+### Bazı örnekler
+1. Süyûtî’nin (ö.911/1505) el-Câmiu’s-sağîr min hadîsi’l-beşîri’n-nezîr’i.
+2. Süyûtî’nin ez-Ziyâde alâ Câmii’s-sağîr’i.
+3. Süyûtî’nin el-Câmiu’l-kebîr’i. 20141 hadis ihtiva eder.
+4. Yusuf en-Nebhânî’nin el-Fethu’l-Kebîr fî Dammi’z-ziyâdeti ile’l-Câmii’s-Sağîr’i.
+* Alfabetik eserler müteahhirûn dönemindedir: aslî kitaplardan alınır, senedleri hazfedilir, alfabetik düzenlenir, genellikle hükümleri verilir.
+* Süyûtî: el-Câmiu’s-sağîr, ez-Ziyâde, el-Câmiu’l-kebîr (20141 hadis). Nebhânî: el-Fethu’l-Kebîr.
+
+## el-Câmiu’s-Sağîr
+¶ Süyûtî’nin (ö.911/1505) el-Câmiu’s-sağîr min hadîsi’l-beşîri’n-nezîr’i:
+¶ Bu sahada yazılmış en önemli eserlerden birisidir. Süyûtî’nin bu eserinin matbu’ olan nüshasında 10.031 rivâyet bulunmaktadır. Bu rivâyetleri yine kendisine ait olan bir tür derleme niteliğindeki Cem’u’l-cevâmi’ isimli eserinden seçmiştir. Araştırıcıya kolaylık olması için rivâyetleri alfabetik tarzda düzenlemiş, veciz rivâyetleri tercih etmiştir. Ahkâm ile ilgili rivâyetlere çok az yer vermiştir. Eserinde kendi görüşüne göre, uydurmacı ve yalancı damgası vurulmuş râvîlerin rivâyetlerine yer vermemiş, bilakis sahih, hasen ve zayıf rivâyetleri zikretmiştir.
+### Eserinde izlediği yöntem
+¶ Hadisi rivâyet eden sahâbî de dâhil olmak üzere ilgili rivâyeti senedsiz zikreder. Rivâyetin sonunda hadisi kimin tahric ettiğini (eserinde zikrettiğini) rumuzlarla, hangi sahâbî tarîkıyla geldiğini sahâbî ismi zikrederek belirtir. Daha sonra hadisin sıhhat derecesine rumuzlarla işaret eder.
+### Sıhhat derecesi rumuzları
+¶ Hadisin sıhhat derecesine işaret ettiği rumuzlar üç tanedir:
+| Rumuz | Anlamı
+| «صح» | Sahih
+| «ح» | Hasen
+| «ض» | Zayıf
+### Musannif rumuzları
+¶ Hadislerine yer verdiği musanniflerin rumuzları 30 tanedir:
+| No | Musannif / eser | Rumuz
+| 1 | Buhârî | «خ»
+| 2 | Müslim | «م»
+| 3 | Müttefekun aleyh | «ق»
+| 4 | Ebû Dâvûd | «د»
+| 5 | Tirmizî | «ت»
+| 6 | Nesâî | «ن»
+| 7 | İbn Mâce | «ه»
+| 8 | Dört Sünen sahibi | 4
+| 9 | İbn Mâce hariç diğer üç sünen | 3
+| 10 | Ahmed b. Hanbel’in Müsned’i | «حم»
+| 11 | Ahmed b. Hanbel’in oğlu [[Abdullah]]’ın Zevâid’i | «عم»
+| 12 | Hâkim’in Müstedrek’i | «ك»
+| 13 | Buhârî’nin Edeb’i | «خد»
+| 14 | Buhârî’nin Tarih’i | «تخ»
+| 15 | İbn Hibbân’ın Sahih’i | «حب»
+| 16 | Taberânî’nin Kebîr’i | «طب»
+| 17 | Taberânî’nin Evsat’ı | «طس»
+| 18 | Taberânî’nin Sağîr’i | «طص»
+| 19 | Said b. Mansur’un Sünen’i | «ص»
+| 20 | İbn Ebî Şeybe | «ش»
+| 21 | Abdürrezzak’ın Câmi’i | «عب»
+| 22 | Ebû Ya’lâ’nın Müsned’i | «ع»
+| 23 | Dârekutnî’nin Sünen’i | «قط»
+| 24 | Deylemî’nin Müsnedü’l-firdevs’i | «فر»
+| 25 | Ebû Nuaym’ın Hilye’si | «حل»
+| 26 | Beyhakî’nin Şuabü’l-îmân’ı | «هب»
+| 27 | Beyhakî’nin Sünen’i | «هق»
+| 28 | İbn Adiyy’in Kâmil’i | «عد»
+| 29 | Ukaylî’nin Zuafâ’sı | «عق»
+| 30 | Hatîb el-Bağdâdî’nin Tarih’i | «خط»
+!! Süyûtî hadisin sıhhati konusunda vermiş olduğu hükümlerde bazen mütesâhil davranmıştır. Bundan dolayı Münâvî (ö.1032/1623), Câmiu’s-sağîr’i şerhettiği Feyzü’l-kadîr isimli eserinde bu tür rivâyetleri değerlendirmeye almış, hükümleri konusunda kendi kanaatini de belirterek Süyûtî’ye muhâlefet etmiştir. Bundan dolayı Süyûtî’nin ilgili rivâyet için vermiş olduğu hüküm konusunda Münâvî’nin görüşüne mürâcaat etmek isâbetli olacaktır.
+* el-Câmiu’s-sağîr: Süyûtî; 10.031 rivâyet, Cem’u’l-cevâmi’den seçme; alfabetik, veciz rivâyetler, ahkâm az; uydurmacı ve yalancı râvîlerin rivâyetleri yok.
+* Sıhhat rumuzları: «صح» sahih, «ح» hasen, «ض» zayıf. Musannif rumuzları 30 tane.
+* Câmiu’s-sağîr rumuzları: «ق» müttefekun aleyh, «ه» İbn Mâce, «حم» Müsned, «عم» Zevâid, «ك» Müstedrek, «طب» Kebîr, «ش» İbn Ebî Şeybe, «عب» Abdürrezzak, «حل» Hilye, «هب» Şuab, «هق» Sünen-i Beyhakî, «خط» Tarih-i Bağdâd.
+* Süyûtî hükümlerde mütesâhildir; Münâvî’nin şerhi Feyzü’l-kadîr’e mürâcaat edilir.
+
+## Fihrist Kitapları
+¶ Bazı âlimler belirli kitaplara alfabetik sıraya göre kullanımı kolaylaştırmak ve vakitten istifade edip hızlıca hadise ulaşılmak maksadıyla fihrist kitapları yazmışlardır.
+### Fihrist kitapları
+1. Miftâhu’s-Sahîhayn; Tokâdî.
+2. Miftâhu’t-Tertîb li-ehâdîsi Târîhi’l-Hatîb; Seyyid Ahmed el-Gumârî.
+3. el-Buğye fî tertîbi ehâdîsi’l-Hilye; Seyyid Abdülaziz el-Gumârî.
+4. Fihrisün li-tertîbi ehâdîsi “Sahîhi Müslim”; Muhammed Fuad Abdülbâkî.
+5. Miftâhun li-ehâdîsi Muvatta’ Mâlik; Muhammed Fuad Abdülbâkî.
+6. Fihrisün li-tertîbi ehâdîsi “Süneni İbn Mâce”; Muhammed Fuad Abdülbâkî.
+| Fihrist | Müellif | Hangi eserin fihristi?
+| **Miftâhu’s-Sahîhayn** | Tokâdî | Buhârî ve Müslim
+| **Miftâhu’t-Tertîb** | Seyyid Ahmed el-Gumârî | Hatîb el-Bağdâdî’nin Târîh’i
+| **el-Buğye** | Seyyid Abdülaziz el-Gumârî | Ebû Nuaym’ın Hilye’si
+| **Fihrisün li-tertîbi ehâdîsi Sahîhi Müslim** | Muhammed Fuad Abdülbâkî | Sahîh-i Müslim
+| **Miftâhun li-ehâdîsi Muvatta’** | Muhammed Fuad Abdülbâkî | Muvatta’
+| **Fihrisün li-tertîbi ehâdîsi Süneni İbn Mâce** | Muhammed Fuad Abdülbâkî | Sünen-i İbn Mâce
+* Fihrist kitapları belirli kitaplara alfabetik sıraya göre yazılır. Muhammed Fuad Abdülbâkî: Müslim, Muvatta’ ve İbn Mâce fihristleri.
+
+## Miftâhu’s-Sahîhayn
+- Muhammed Şerif b. Mustafa Tokâdî hicrî 1312 senesinde telifi tamamlamıştır.
+- Buhârî ve Müslim’deki kavlî hadislerin etrâfını (başından bir kısmını) toplamış. Alfabetik bir şekilde tertib etmiştir. Sonra her hadisin karşısına kitab ismi, bab no ve rakamını yazmıştır. Aynı şekilde en meşhur şerhlerinin de sayfa ve cilt numaralarını vererek oradaki yerlerini de belirtmiştir.
+- Buhârî’de kitap ismini ve bab no’sunu, cilt ve sayfa numarasını verdikten sonra Aynî, Askalânî ve Kastallânî’nin şerhlerindeki cilt ve sayfa numaralarını da vermiştir.
+- Müslim’deki hadisin kitap ismini ve bab no’sunu, cilt ve sayfa numarasını verdikten sonra Nevevî şerhindeki cilt ve sayfa numarasını da vermiştir.
+- İstifade yolu: Kullanımı alfabetik düzenlendiği için kolaydır. Sadece hadisin ilk kelimesini bilmen gereklidir. Hadisin başından bir kısmını zikretmekle yetinmiştir. Şerhlerden de bu hadise ulaşmak çok kolaydır. Çünkü cilt ve sayfa numarası verilmiştir. Ancak bu cilt ve sayfa numaraları belli baskılara göre verildiğinden elinin altında şerh kitapların o baskısı varsa kolaydır. Eğer o baskı sende yoksa ulaşman diğer baskıya göre kolay olmaz. O zaman şöyle ulaşılır; hadisin geçtiği kitap ve bab numarasına bakıp ona göre elindeki baskıdan bulursun.
+- Sahâbe isminin fihristi: Müellif, Sahîh-i Buhârî’de rivayeti yer alan sahâbeyi kitabın başında alfabetik zikretmiş ve rivayet ettiği hadis sayısını karşısına yazmıştır. Müslim’deki sahâbe raviler için aynı şeyi yapmamıştır.
+!! Değerlendirme: İçerisindeki en büyük eksiklik fiilî hadislerin fihristinin olmayışıdır. Araştırmacı fiilî hadisleri nasıl bulacak? Yine de kavlî hadisler için bir fihrist hazırlanması mümkündür. Buğye kitabının sahibinin yaptığı gibi her hadiste sahâbînin, hadisin geçtiği kitabın ismini zikreder ve hadisin yerini söyler.
+* Miftâhu’s-Sahîhayn: Tokâdî (1312); Buhârî ve Müslim’deki kavlî hadislerin başları alfabetik; Buhârî için Aynî, Askalânî, Kastallânî; Müslim için Nevevî şerhindeki yerleri verir. En büyük eksiği fiilî hadislerin fihristinin olmayışı.
+
+## Miftâhu’t-Tertîb ve el-Buğye
+### Miftâhu’t-Tertîb li-ehâdîsi Târîhi’l-Hatîb
+- Seyyid Ahmed el-Gumârî yazmıştır.
+- Çok faydalı ve önemli bir kitaptır. Kitabın aslı 14 cilt yaklaşık olarak 7 bin sayfa olmasına rağmen bu fihristin oradaki tüm hadisleri içerip 90 sayfadan fazla olmaması önemini ortaya koymaktadır.
+¶ Bu fihrist kitap iki açıdan önemlidir:
+1. Meşhur sünnet kaynaklarında zikredilmeyen birçok rivayeti Hatîb kitabında rivayet etmiştir.
+2. Hatîb’in kitabındaki hadislerin yerini tespit edebilmek için bu fihristten başka bir yol yoktur. Çünkü Hatîb bu hadislerin tertibinde herhangi bir metod gözetmemiştir. O ricalleri zikretmiş ve yeri geldikçe hadisleri vermiştir. Kitabın amacı tarihi olayları anlatmak değil ricaller hakkında bilgi vermektir.
+- Fihristteki metod: Hadisleri kavlî ve fiilî olmak üzere iki kısma ayırmıştır. Kavlî hadisleri alfabetik olarak sıralamış, hadisin baş kısmını zikretmiş, karşısına da cilt ve sayfa numarasını belirtmiştir. Fiilî hadislere gelince onları da alfabetik olarak sahâbe ismine göre düzenlemiştir. Bayan sahâbîleri de erkeklerle iç içe zikretmiş, onlara özel bir bölüm ayırmamıştır. Sahâbenin isminin karşısına hadisin alakalı olduğu konunun ismini zikretmiş ve yanında cilt ve sayfa numarasını belirtmiştir. Eğer Hatîb bir hadisi birden fazla yerde farklı lafızlarla zikretmişse onun getirdiği lafızlarla müellif de alfabetik olarak yine zikretmiştir. Bu şekilde bir araştırmacı bir hadisin bütün turuklarını toplayabilir ve kaç farklı sahâbeden rivayet edildiğini görebilir.
+- Müellifin mukaddimesinden: Burası çok önemli değil; müellif tekrar eden hadisleri sadece bir defa zikretmediğini, kaç defa zikredilmişse ve meşhur hali nasılsa o şekilde zikrettiğini söylüyor.
+- Bu fihristte bulunan hadis sayısı yaklaşık 4500 civarındadır. Az görülebilecek bir sayı değildir.
+### el-Buğye fî tertîbi ehâdîsi’l-Hilye
+- Müellifi Seyyid Abdülaziz el-Gumârî’dir.
+- Bu kitap azıcık bir şey dışında az önce zikri geçen kitaba ehemmiyeti, çok faydalı oluşu, tertibi ve tebvibi açısından tamamen benzemektedir. Bu kitapta müellif Ebû Nuaym el-İsfahânî’nin (ö.430) Hilyetü’l-evliyâ ve Tabakâtü’l-Asfiyâ kitabındaki hadislerin fihristini yapmıştır. Kitap 400 sayfalık on ciltten oluşmaktadır. Hadisleri kavlî ve fiilî olmak üzere ikiye ayırmıştır. Kavlî hadisleri alfabetik olarak sıralamış, hadisin baş kısmını zikretmiş, karşısına da cilt ve sayfa numarasını belirtmiştir. Bayan sahâbîleri de erkeklerle iç içe zikretmiş, onlara özel bir bölüm ayırmamıştır. Ancak Miftâhu’t-Tertîb’ten farklı olarak müellif künyeleri ayrı olarak zikretmiştir.
+- Yaklaşık 5000 hadis bulunmaktadır. Araştırmacı için ulaşımı kolay olacak bir şekilde el-Gumârî fihristini hazırlamıştır.
+| | Miftâhu’t-Tertîb | el-Buğye
+| **Müellif** | Seyyid Ahmed el-Gumârî | Seyyid Abdülaziz el-Gumârî
+| **Fihristi yapılan eser** | Hatîb’in Târîh’i (14 cilt, ~7 bin sayfa) | Ebû Nuaym’ın Hilyetü’l-evliyâ’sı (400 sayfalık 10 cilt)
+| **Metod** | Kavlî hadisler alfabetik; fiilî hadisler sahâbe ismine göre alfabetik | Aynı metod; farkı künyeleri ayrı zikretmesi
+| **Hadis sayısı** | ~4500 | ~5000
+* Miftâhu’t-Tertîb: Seyyid Ahmed el-Gumârî; Hatîb’in Târîh’inin (14 cilt) fihristi, 90 sayfayı geçmez, ~4500 hadis. Hatîb metod gözetmediği için başka yol yoktur.
+* el-Buğye: Seyyid Abdülaziz el-Gumârî; Ebû Nuaym’ın Hilye’sinin fihristi, ~5000 hadis; Miftâh’tan farkı künyeleri ayrı zikretmesi.
+* Kavlî hadisler alfabetik baş kısımlarıyla, fiilî hadisler sahâbe ismine göre; hanım sahâbîlere ayrı bölüm yok.
+
+## Muhammed Fuad Abdülbâkî’nin Fihristleri
+### Fihrisün li-tertîbi ehâdîsi “Sahîhi Müslim” el-Kavliyye
+- Muhammed Fuad Abdülbâkî tarafından telif edilmiştir.
+- Müellif kavlî hadisleri ele alıp onun ilk kelimesine göre alfabetik olarak fihristi hazırlamıştır. Hadisin geçtiği sayfa numarasını yazmıştır. 88 sayfalık bir fihristtir.
+### Miftâhun li-ehâdîsi Muvatta’ Mâlik
+- Muhammed Fuad Abdülbâkî tarafından telif edilmiştir.
+- Bu fihrist Muvatta’nın sonunda bulunmakla birlikte tertibi bir önceki kitabın tertibi gibidir.
+- Muvatta’da bulunan hadis sayısı 1812’dir. Bu kitapta bulunan fihristte kavlî hadislerin sayısı 867’dir.
+### Fihrisün li-tertîbi ehâdîsi “Süneni İbn Mâce”
+- Muhammed Fuad Abdülbâkî tarafından telif edilmiştir.
+- Bu da bir önceki kitap gibi hazırlanmıştır. Bu da Sünen-i İbn Mâce’nin sonunda bulunmaktadır. Kısa sürede hadise ulaştırmaktadır.
+- Kitaptaki hadis sayısı 4341 iken fihristte yer alan kavlî hadis sayısı 3100’dür.
+| Fihrist | Eserdeki hadis | Fihristteki kavlî hadis
+| **Sahîh-i Müslim** | — | 88 sayfalık fihrist
+| **Muvatta’** | 1812 | 867
+| **Sünen-i İbn Mâce** | 4341 | 3100
+* Fuad Abdülbâkî fihristleri kavlî hadislerin ilk kelimesine göre alfabetiktir: Müslim (88 sayfa), Muvatta’ (1812 hadis / 867 kavlî), İbn Mâce (4341 / 3100).

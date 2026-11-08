@@ -1,0 +1,28 @@
+# Üçüncü Yol: Az Kullanılan Kelime · Özet
+> Üçüncü fasıl: hadisin insanların dilinde az dolaşan herhangi bir kelimesini bilmek yoluyla tahric; Concordance ve kaynak gösterme yöntemi.
+
+## Üçüncü Fasıl: Üçüncü Yol
+@ الطَّرِيقَةُ الثَّالِثَةُ: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ كَلِمَةٍ يَقِلُّ دَوَرَانُهَا عَلَى الْأَلْسِنَةِ مِنْ أَيِّ جُزْءٍ مِنْ مَتْنِ الْحَدِيثِ. | Hadisin insanların dilinde az dolanan herhangi bir kelimesini bilmek yoluyla tahric yapmak.
+¶ Bu yolda yararlanılabilecek kitap “el-Mu’cemü’l-müfehres li-elfâzi’l-hadîsi’n-nebevî” adı ile meşhur “Concordance” kitabıdır. Müsteşriklerden bir grup yazmıştır. Dr. Arent Jan Wensinck neşretmiştir; neşrinde Muhammed Fuad Abdülbâkî yardımcı olmuştur. 1936’da ilk cilt, 1969’da son cilt basılmıştır.
+¶ Kütüb-i Sitte, Muvatta’, Müsned-i Ahmed b. Hanbel ve Dârimî’nin Sünen’inin lafızlarının fihristidir.
+### Concordance’ın metodu
+1. Fiiller: mâzi, muzâri, emir, ism-i fâil-mef’ûl; önce fiilleri yalın ma’lûm, sonra bitişikleri ile beraber ma’lûm, sonra yalın halde meçhul olarak zikreder.
+2. Esmâü’l-meânî’yi sonra,
+3. Müştakkât’ı zikreder.
+
+## Kaynak Gösterme ya da Kaynak Bulma Yöntemi
+| Verilen bilgi | Kitaplar
+| **İsim, kitap ismi, bab no** | Buhârî, Tirmizî, İbn Mâce, Ebû Dâvûd, Dârimî, Nesâî
+| **İsim, konu başlığı, hadis no** | Muvatta’, Müslim
+| **İsim, cilt no, sayfa no** | Ahmed b. Hanbel ve diğer kitaplar
+### Örnekler
+| Concordance’taki ifade | Anlamı
+| «خ، شركة، 3، 16» | Buhârî, Kitâbü’ş-şerike, 3 ve 16. bablar
+| «ت، أدب، 15» | Tirmizî, Kitâbü’l-edeb, 15. bab
+| «جه، تجارات، 31» | İbn Mâce, Kitâbü’t-ticârât, 31. bab
+| «د، طهارة، 72» | Ebû Dâvûd, Kitâbü’t-tahâre, 72. bab
+| «دي، صلاة، 79» | Dârimî, Kitâbü’s-salât, 79. bab
+| «ن، صيام، 78» | Nesâî, Kitâbü’s-sıyâm, 78. bab
+| «ط، صفة النبي، 3» | Muvatta’, Sıfatü’n-nebî başlığı, 3 nolu hadis
+| «م، فضائل الصحابة، 165» | Müslim, Kitâbü fezâili’s-sahâbe, 165 nolu hadis
+| «حم، 4، 175» | Ahmed b. Hanbel, 4. cilt, 175. sayfa

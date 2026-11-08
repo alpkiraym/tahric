@@ -1,0 +1,61 @@
+# Dördüncü Yol (2): Konuların Çoğunu İçeren Eserler
+> İkinci kısım: fıkhî konulara göre bablar üzerine tertip edilmiş eserler; sünenler, musannefler, muvatta’lar ve bunlar üzerine yazılan müstahrecler.
+
+## İkinci Kısım: Fıkhî Konuları İçine Alan Eserler
+- Bu kısım, bablar üzerine tertip edilmiş, özellikle fıkıh konularını ele alan eserlerden oluşur. Genellikle taharetle başlar; namaz, ibadet, muamelat ve diğer fıkhî ahkâmı ele alırlar. Bazen iman, âdâb gibi konulara da yer verdikleri oluyor. Bu 2. kısımda şu eserlere değinilmiştir:
+- Sünenler, Muvatta’lar, Musannefler, Müstahrecler.
+| Eser türü | İçerdiği rivâyetler
+| **Sünen** | Çoğunlukla merfu’; mevkuf ve maktu’ yok denecek kadar az
+| **Musannef** | Merfu’, mevkuf ve maktu’ (sahâbe sözleri, tâbiûn fetvâları, bazen etbâu’t-tâbiîn fetvâları)
+| **Muvatta’** | Merfu’, mevkuf ve maktu’; isimleri farklı olsa da musannefler gibi
+| **Müstahrec** | Sünen, musannef ve muvatta’lar üzerine yazılmış eserler
+* İkinci kısım: fıkıh bablarına göre tertip edilen eserler; genellikle taharetle başlar. Sünenler, musannefler, muvatta’lar, müstahrecler.
+
+## Sünenler
+: Sünen = Hadis literatüründe, fıkhî konulara göre tertib edilmiş kitaplara sünen denir.
+¶ Sünenlerde çoğunlukla merfu’ rivâyetler yer almaktadır. Mevkuf ve maktu’ rivâyetler yok denecek kadar azdır. Bu yönleriyle musanneflerden ayrılırlar.
+!! **Kettânî**, bu kitaplarda mevkuf hadisin bulunmadığını söylerken, **Mahmud Tahhân** ise konuyla ilgili olarak şunu ifâde etmektedir: Bazı sünenlerde merfu’ hadislerin dışında başka hadisler de bulunmaktadır. Ancak bu, musannef ve muvatta’lara kıyasla gerçekten azdır.
+### Sünenlerden bazı örnekler
+¶ Sünen tarzı yazılan eserler çoktur. Bunlardan en meşhur olanlar şunlardır:
+1. Ebû Dâvûd’un (ö.275) Sünen’i.
+2. Nesâî’nin (ö.303) Sünen’i (el-Müctebâ).
+3. İbn Mâce’nin (ö.273) Sünen’i.
+4. İmam Şâfiî’nin (204) Sünen’i.
+5. Dârimî’nin (ö.255) Sünen’i.
+6. Dârekutnî’nin (ö.385) Sünen’i.
+7. Beyhakî’nin (ö.384/994) Sünen’i.
+### Ebû Dâvûd’un Sünen’i
+¶ Ebû Dâvûd’un (ö.275) Sünen’i 40 kitaptan oluşur. Önce kitap numarası verilir. Sonra kitap ismi verilir. Birinci kitap “Taharet kitabı”yla başlar, kırkıncı kitap “Edeb”le biter. Genelde, bâb başlıkları altında oldukça az hadise yer verir. Bâb başlıkları kısadır. Gerekli gördüğü yerde şahıs tanıtımı yapar. Zayıf hadisleri belirtirken gerekçe zikreder. Mekânlar hakkında bilgi verir. Hadisin sebeb-i vürûdunu bildirir. Ebû Dâvûd’un Sünen’i hadis kitaplarının ikinci tabakasına dâhildir.
+* Sünen: fıkhî konulara göre tertib; çoğunlukla merfu’. Kettânî’ye göre mevkuf yok; Tahhân’a göre bazılarında var ama musannef ve muvatta’lara göre az.
+* Ebû Dâvûd’un Sünen’i: 40 kitap, Taharet ile başlar, Edeb ile biter; bâb başlıkları kısa, az hadis; zayıfı gerekçesiyle belirtir; sebeb-i vürûdu bildirir. Hadis kitaplarının ikinci tabakası.
+* Nesâî’nin Sünen’i: el-Müctebâ.
+
+## Musannefler
+: Musannef = Bütün fıkhî konulara ait merfu’, mevkuf ve maktu’ rivâyetleri içeren hadis kitaplarına musannef denir.
+¶ Bu eserlerde Hz. Peygamber’in hadisleri, sahâbe sözleri, tâbiûn fetvâları bulunmakla birlikte bazen de etbâu’t-tâbiîn fetvâlarına rastlanmaktadır.
+!! Musannef-sünen farkı: Musannefler merfu’, mevkuf ve maktu’ hadisleri kapsar. Sünenler ise sadece merfu’ hadisleri kapsar. Çünkü mevkuf ve maktu’ onların ıstılahında sünen olarak isimlendirilmez.
+### Musanneflerden bazı örnekler
+1. Muhammed b. Ebî Şeybe’nin (ö.235) Musannef’i.
+2. Abdürrezzak b. Hemmâm es-San’ânî’nin (211) Musannef’i.
+3. Bakî b. Mahled el-Kurtubî’nin (ö.276) Musannef’i.
+4. Ebû Süfyan Vekî’ b. el-Cerrâh el-Kûfî’nin (ö.196) Musannef’i.
+5. Ebû Seleme Hammâd b. Seleme el-Basrî’nin (ö.167) Musannef’i.
+* Musannef: merfu’, mevkuf ve maktu’ rivâyetleri içerir. Sünen yalnızca merfu’dur; mevkuf ve maktu’ onların ıstılahında sünen sayılmaz.
+* Musannefler: İbn Ebî Şeybe (235), Abdürrezzak (211), Bakî b. Mahled (276), Vekî’ b. el-Cerrâh (196), Hammâd b. Seleme (167).
+
+## Muvatta’lar
+: Muvatta’ (lügat) = Kolaylaştırılmış, ezilmiş, çiğnenmiş, uygun görülmüş gibi mânâlara gelir.
+: Muvatta’ (ıstılah) = Fıkhî konulara göre tertib edilmiş kitaplara verilen isimdir.
+¶ Merfu’, mevkuf, maktu’ hadisleri kapsamına alır. Bu yönüyle isimleri farklı olsa da, aynı musannefler gibidir. Bu kitaplarda az ve öz rivâyetler bulunmaktadır.
+?? Muvatta’ diye neden isimlendirildi? | Çünkü müellifi onu insanlara kolaylaştırdı.
+### Muvatta’lardan bazı örnekler
+1. İmam Mâlik’in (ö.179) Muvatta’ı.
+2. Muhammed b. Abdurrahman el-Medenî’nin (158) Muvatta’ı.
+3. Mervezî’nin (293) Muvatta’ı.
+* Muvatta’: lügatte kolaylaştırılmış; müellifi onu insanlara kolaylaştırdığı için bu adı aldı. Merfu’, mevkuf, maktu’ içerir; musannef gibidir, az ve öz rivâyet.
+* Muvatta’lar: İmam Mâlik (179), Muhammed b. Abdurrahman el-Medenî (158), Mervezî (293).
+
+## İkinci Kısım Üzerine Müstahrecler
+¶ Bu ikinci kısımda anlatılan (sünenler, musannefler ve muvatta’lar) eserler üzerine yazılmış, derlenmiş eserlerdir (Müellif bunu burada ayrıca zikretmiş, Buhârî, Müslim üzerine yazılmış olanlarla karıştırmayalım). Kitapta geçen tek müstahrec örneği şudur (o da olmasaydı ne iyi olurdu!..?):
+- Kâsım b. Esbağ’ın Müstahrec’i (Sünen-i Ebû Dâvûd üzerine).
+* İkinci kısım üzerine yazılan müstahrecin kitaptaki tek örneği: Kâsım b. Esbağ’ın Müstahrec’i (Sünen-i Ebû Dâvûd üzerine).

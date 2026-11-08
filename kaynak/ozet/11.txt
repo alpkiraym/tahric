@@ -1,0 +1,47 @@
+# Ricâl Kitapları · Özet
+> İkinci bâb: hadisin hükmünü belirleme ve senet çalışmaları. Bu bölümdeki kaynak eserler ricâl kitaplarıdır.
+
+## İkinci Bâb: Hadisin Hükmünü Belirleme ve Senet Çalışmaları
+¶ Bu bölümü uygulamalı olarak göreceğiz. Bu bölümdeki kaynak eserler “**ricâl kitapları**”dır:
+@ الْمُؤَلَّفَاتُ فِي الرِّجَالِ
+@ أ- فِي الصَّحَابَةِ، ب- كُتُبُ الطَّبَقَاتِ، ت- الْكُتُبُ الْمَخْصُوصَةُ، ث- الْكُتُبُ فِي الثِّقَاتِ، ج- الْكُتُبُ فِي الضُّعَفَاءِ
+
+## Sahâbe ve Tabakât Kitapları
+### أ- الكتب التي صنفت في الصحابة
+| Eser | Müellif
+| «الاستيعاب في معرفة الأصحاب» | «ابن عبد البر»
+| «أسد الغابة في معرفة الصحابة» | «ابن الأثير»
+| «الإصابة في تمييز الصحابة» | «ابن حجر»
+### ب- الكتب التي صنفت في الطبقات
+| Eser | Müellif
+| «الطبقات الكبرى» | «ابن سعد»
+| «التاريخ الكبير» | «البخاري»
+| «الجرح والتعديل» | «ابن أبي حاتم»
+| «سير أعلام النبلاء» | «ذهبي»
+| «حلية الأولياء» | «أبو نعيم»
+
+## Mahsus Kitaplar
+### ت- الكتب المخصوصة
+@ الْكَمَالُ فِي أَسْمَاءِ الرِّجَالِ: الْمَقْدِسِيُّ
+@ تَهْذِيبُ الْكَمَالِ: يُوسُفُ الْمِزِّيُّ (هَذَا الْكِتَابُ مُخْتَصَرُ كِتَابِ الْمَقْدِسِيِّ)
+¶ Yusuf Mizzî’nin “**Tehzîbü’l-Kemâl**” kitabını **iki kişi ihtisar** etmiştir:
+1. **Zehebî**, “Tezhîbü’t-Tehzîb” isimli eseriyle ihtisar etmiş, sonra bu kitabını da “**el-Kâşif**” adındaki eseriyle ihtisar etmiştir.
+2. **İbn Hacer**, “Tehzîbü’t-Tehzîb” isimli eseriyle ihtisar etmiş, sonra da bu eserini “**Takrîbü’t-Tehzîb**” adındaki eseriyle ihtisar etmiştir.
+>> «الكمال في أسماء الرجال» (Makdisî)
+>> «تهذيب الكمال» (Mizzî)
+>> Zehebî: «تذهيب التهذيب» → «الكاشف» · İbn Hacer: «تهذيب التهذيب» → «تقريب التهذيب»
+
+## Sikât ve Duafâ Kitapları
+### ث- الكتب التي صنفت في الثقات
+| Eser | Müellif
+| «كتاب الثقات» | «العجلي»
+| «كتاب الثقات» | «ابن حبان»
+### ج- الكتب التي صنفت في الضعفاء
+| Eser | Müellif
+| «الضعفاء الكبير» | «البخاري»
+| «الضعفاء الصغير» | «البخاري»
+| «الضعفاء والمتروكون» | «النسائي»
+| «الكامل في الضعفاء» | «ابن عدي»
+| «كتاب المجروحين» | «أبو حاتم»
+| «ميزان الاعتدال» | «ذهبي»
+| «لسان الميزان» | «ابن حجر»

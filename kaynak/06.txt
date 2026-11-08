@@ -1,0 +1,201 @@
+# Dördüncü Yol (1): Bütün Konuları İçeren Eserler
+> Hadisin konusu biliniyorsa başvurulan yol ve birinci kısım eserler: câmi’ler, müstahrecler, müstedrekler, mecma’lar, zevâidler ve Miftâhu Künûzi’s-Sünne.
+
+## Dördüncü Yol: Hadisin Konusu
+¶ Hadisin konusuna göre tertib edilmiş eserlerden yararlanma:
+- Konusuna göre hadis arama faaliyetinde, öncelikli olarak dikkat edilmesi gerekli olan ilk husus, aradığımız hadisin hangi konuda olduğunu tespit etmektir.
+- Konularına göre tasnif edilmiş (ale’l-ebvâb) hadis literatüründeki ana başlıkların (kitapların orijinal isimleri) bilinmeden araştırılan hadisin nerede bulunabileceğini sağlıklı bir şekilde tespit etmek mümkün olmayacaktır.
+- Araştırılacak olan hadis, tek bir konu değil de, birden çok konuyla bağlantılı olabilir. Bu durumda, araştırmacının tek bir konudan değil de, hadisle ilgili olabileceğini tahmin ettiği konuların hepsinden hareketle arama işine devam etmesi gerekir.
+- Konularına göre tertip edilmiş olan hadis kitapları, aynı konuda birçok hadisi bir arada görme imkânı sunmaktadır.
+¶ Elimizdeki hadisin konusu veya içerdiği konulardan birisini belirleyip aşağıdaki kaynaklardan birisine müracaat ederiz.
+1. Dinin bütün konularını içeren kitaplar ki, bunların en meşhurları: câmi’ler, müstahrecler, câmi’ler üzerine yazılan müstedrekler, mecâmi’ türü eserler, Miftâhu Künûzi’s-Sünne.
+2. Dinin çoğu konusunu içeren eserler ki; sünenler, muvatta’ ve sünenler üzerine yazılan müstedrekler bu tür eserlerdendir.
+3. Dinin sadece bir konusuna göre dizayn edilmiş eserler ki bunlar da cüzler, terğîb-terhîb, zühd, fezâil-ahlak ve âdâb, ahkâm vs. ile bazı ilim dallarında yazılmış eserler ki tahric, hadis şerhleri ve bunlara yazılan ta’likatlara bakarız.
+| Kısım | Kapsam | Eserler
+| **Birinci kısım** | Dinin bütün konuları | Câmi’ler, müstahrecler, müstedrekler, mecâmi’, zevâid, Miftâhu Künûzi’s-Sünne
+| **İkinci kısım** | Dinin çoğu konusu | Sünenler, musannefler, muvatta’lar, bunlar üzerine müstahrecler
+| **Üçüncü kısım** | Dinin belli bir konusu | Cüzler, terğîb-terhîb, zühd-fezâil-âdâb, ahkâm, müstakil konular, tahric kitapları, şerhler
+* Dördüncü yolda önce hadisin konusu tespit edilir; hadis birden çok konuyla ilgiliyse hepsinden aranır.
+* Konuya göre eserler 3 kısım: bütün konular · çoğu konu · belli bir konu.
+
+## Câmi’ler (el-Cevâmi’)
+: Câmi’ = Dînî konuların hemen hemen tamâmını ihtiva eden hadisleri toplayan en kapsamlı eserlerdir.
+¶ Câmi’ler, dînî konuların hemen hemen tamâmını kapsayan sekiz ana bölümü ihtiva etme özelliğine sâhiptir. Her birine ‘kitab’ adı denen bu sekiz bölümün muhtevâları kısaca şöyledir: İman, ahkâm, zühd, âdâb, tefsir, târih-siyer-cihad, menâkıb, fiten ve melâhim.
+!! Câmi’ler bu sekiz bölümden herhangi birini ihtiva etmezler veya nâkıs olarak ihtiva ederlerse câmi’ olmaktan çıkarlar.
+- Câmi’ler aynı zamanda ‘sahih’ adıyla da anılmaktadır. Meselâ; Buhârî, Müslim ve Tirmizî’nin kitaplarının adı el-Câmiu’s-sahîh’tir.
+### Câmi’lerden bazı örnekler
+1. Buhârî’nin (ö.256/870) el-Câmiu’s-sahîh’i.
+2. Müslim’in (ö.261/874) el-Câmiu’s-sahîh’i.
+3. Abdürrezzak’ın (ö.211/827) Câmi’i.
+4. Ma’mer b. Râşid’in (ö.152/769) Câmi’i.
+5. Tirmizî’nin (ö.279/892) el-Câmiu’s-sahîh’i.
+6. Sevrî’nin (ö.161-166 / 777-782) Câmi’i.
+7. İbn Uyeyne’nin (ö.198/813) Câmi’i.
+* Câmi’in 8 bölümü: iman, ahkâm, zühd, âdâb, tefsir, târih-siyer-cihad, menâkıb, fiten ve melâhim. Biri eksikse câmi’ olmaz.
+* Buhârî, Müslim ve Tirmizî’nin kitaplarının adı el-Câmiu’s-sahîh’tir.
+
+## Buhârî’nin el-Câmiu’s-Sahîh’i
+¶ Bu kitabın tam adı: “el-Câmiu’l-Müsnedü’s-Sahîhu’l-Muhtasar min Umûri Rasûlillâh ve Sünenihî ve Eyyâmihî.”
+- “Kitâbu Bed’i’l-Vahy” ile başlar, “Kitâbu’t-Tevhîd” ile biter.
+- Buhârî, Sahîh’ini 600.000 hadis arasından seçmiştir. Concordance’a göre 97 kitab ve 3730 bâbtan oluşmaktadır. Mükerrerler de dâhil 7275 (veya 9082) hadis ihtiva etmektedir. Buhârî’nin Sahîh’inde zayıf hadis yoktur. Hadis kitaplarının birinci tabakasına dâhildir.
+- Eserde bab başlıkları senedsiz zikredilmiştir. Eserde ana bölümler halinde olan her kitap bablara ayrılmakta ve her babın altında da hadisler sıralanmaktadır.
+- Bab başlıklarının çoğunluğu ayetlerden, bazen hadislerden alıntı yapılarak, bazen de fıkhî bir anlam taşıyacak nitelikte seçilmiş ibarelerden oluşmaktadır.
+- Buhârî, bir hadisi bazen ilgisi dolayısıyla ve ahkâm çıkarmak düşüncesiyle çeşitli kitapların çeşitli bablarında bölerek verir. Fakat bu hadisi değişik yerlerde verirken farklı senedlerle serdetmeye dikkat eder. Böylece hadisin değişik senedlerle de rivayet edilmiş olduğunu gösterir.
+### Buhârî’nin Sahîh’inde aradığımız hadise ulaşma şekilleri
+- Concordance’den.
+- Konusuna göre; Miftâhu Künûzi’s-Sünne’den.
+- Mevsûatü etrâfi’l-hadîs’ten; hadisin başında geçen ilk kelimenin ilk harfine göre (Rumuzu: Buhârî «خ»).
+- Kütüb-i Tis’a, Elfiye, Şâmile gibi hadis CD’lerinden.
+* Buhârî’nin Sahîh’i: 600.000 hadis arasından seçme; 97 kitab, 3730 bâb (Concordance’a göre); mükerrerlerle 7275 (veya 9082) hadis. Bed’ü’l-vahy ile başlar, Tevhîd ile biter. Zayıf hadis yoktur.
+* Buhârî bir hadisi farklı bablarda bölerek, her seferinde farklı senedle verir.
+
+## Câmi’ler Üzerine Yazılmış Müstahrecler
+: Müstahrec = Bir musannifin kendisinden önce tasnif edilmiş herhangi bir hadis kitabında bulunan hadisleri, teker teker ele alarak kitap sahibinin senedinden başka bir senedle rivayet etmek suretiyle bu kitabın musannifinin şeyhinde veya sahâbe de olsa daha yukarıda bir raviyle karşılaşmak suretiyle meydana getirdiği hadis kitabıdır.
+¶ Böylece, esas aldığı eserdeki rivayetlerin başka varyantlarını tespit suretiyle kuvvetlendirme amaçlanmaktadır.
+! Şartı: Kendisini en yakına ulaştıracak senedi kaybetmemek için daha uzak bir şeyhe ulaşmamasıdır. Ancak âlî sened amacıyla veya hadisteki önemli bir ziyade olursa başkadır.
+- Bu tür çalışmalar daha çok bir hadisin farklı varyantlarını derlemek, sened, metin, sened tahkiki ve tahlili yoluyla hadis hakkında daha sağlıklı bir hükme varmak için yapılan araştırmalarda kullanılır.
+¶ Bu eserlerin faydası; ğarib hadislerin kuvvet kazanması, sahih hadislerin sıhhatini pekiştirerek onlara âlî isnad özelliği kazandırmasıdır.
+- Müstahreclerin tertibi ve düzeni, çalışmaya esas alınan eserlerin tertip ve düzeni ile aynıdır. Sonuç olarak, câmi’lere yapılmış olan müstahrec türü eserlerde konularına göre hadisleri ararken takip edilen yöntem, câmi’ türü eserlerde takip edilen yöntemle aynıdır.
+- Sünenler gibi câmi’ler dışındaki kitaplara yapılan müstahrecler câmi’lere yapılan müstahrecler gibi değildir.
+!! Burada senedleri farklı hadis metinlerinin, müstahrec sahiplerinin esas aldıkları kitaptaki metinlerle farklı olabileceği husûsu unutulmamalıdır. Yâni mânâ rivâyeti yapılmış veya benzer lafızlarla rivâyet edilmiş olabilir.
+### Yalnız Buhârî üzerine yapılmış müstahrecler
+1. İsmâilî’nin (ö.371/981) Müstahrec’i.
+2. Ğıtrîfî’nin (ö.377/987) Müstahrec’i.
+3. İbn Ebî Zühl’ün (ö.378/988) Müstahrec’i.
+4. İbn Merdûyeh (Merdeveyh)’in (ö.416/1019) Müstahrec’i.
+### Yalnız Müslim üzerine yapılmış müstahrecler
+1. Ebû Avâne el-İsferâyînî’nin (ö.316/928) Müstahrec’i: 5 cilt olup içerisinde tekrarlarla birlikte 8.718 rivâyet vardır. Eserde, aynı hadis farklı farklı senedlerle yer alır. Ebû Avâne’de bulunan bir rivâyetin senedi, Müslim’de bulunan rivâyetin senediyle, Müslim’in hocasında veya hocasının hocasında birleşebilir. Böylece senedler arası incelikler ve farklılıklar görülmüş olur. Ebû Avâne’nin eserinin dipnotunda, hadisin Müslim’deki yeri hadis numarası ile birlikte verilmiştir.
+¶ CD dışında bu kitaptan hadis araştıranlar, 5. ciltten hadisin hece harfine ve sahâbî ismine göre faydalanabilirler.
+2. el-Hîrî (veya el-Hiyerî)’nin (311) Müstahrec’i.
+3. Ebû Hâmid el-Herevî’nin (355) Müstahrec’i.
+### Hem Buhârî hem de Müslim üzerine yapılmış müstahrecler
+1. Ebû Nuaym el-İsfahânî’nin (ö.430/1039) Müstahrec’i.
+2. İbnü’l-Ahram’ın (ö.344/955) Müstahrec’i.
+3. Ebû Bekir el-Berkânî’nin (ö.425/1034) Müstahrec’i.
+| Müstahrec | Esas aldığı eser
+| **İsmâilî (371)** | Buhârî
+| **Ğıtrîfî (377)** | Buhârî
+| **İbn Ebî Zühl (378)** | Buhârî
+| **İbn Merdûyeh (416)** | Buhârî
+| **Ebû Avâne el-İsferâyînî (316)** | Müslim
+| **el-Hîrî (311)** | Müslim
+| **Ebû Hâmid el-Herevî (355)** | Müslim
+| **Ebû Nuaym el-İsfahânî (430)** | Buhârî ve Müslim
+| **İbnü’l-Ahram (344)** | Buhârî ve Müslim
+| **Ebû Bekir el-Berkânî (425)** | Buhârî ve Müslim
+* Müstahrec: önceki bir kitabın hadislerini musannifin senedinden başka bir senedle rivayet edip onun şeyhinde veya daha yukarıda birleşmek. Faydası: ğarib hadis kuvvet, sahih hadis âlî isnad kazanır.
+* Müstahrecin şartı: en yakına ulaştıran senedi kaybetmemek için daha uzak şeyhe ulaşmamak (âlî sened ve önemli ziyade hariç).
+* Ebû Avâne’nin Müstahrec’i (Müslim üzerine): 5 cilt, 8.718 rivâyet; dipnotta Müslim’deki numara.
+
+## Câmi’ler Üzerine Yazılmış Müstedrekler
+: İstidrâk = Kelime olarak; tamamlama, ek bilgi anlamına gelir.
+: Müstedrek = Önceki musannifin şartlarına (râvîlerine) uygun olmasına rağmen, herhangi bir sebeple eserinde yer almamış olan hadislerin bir başkası tarafından toplanması neticesinde meydana gelen yeni eserlerin ismidir.
+¶ Bu anlam içinde Buhârî ve Müslim’in Sahîh’lerine yazılmış sekiz, on kadar müstedrek bulunmaktadır.
+- Bu eserlerde âdetâ (önceki) esas aldığı eseri tamamlama hedefi vardır.
+| | Müstahrec | Müstedrek
+| **Ne yapar?** | Kitaptaki hadisleri başka bir senedle rivayet eder | Kitabın şartına uyup da alınmamış hadisleri toplar
+| **Amacı** | Varyantlarla kuvvetlendirme, âlî isnad | Esas alınan eseri tamamlama
+* Müstedrek: önceki musannifin şartına uygun olup eserine almadığı hadisleri toplayan eser. Sahîhayn’e 8-10 kadar müstedrek yazılmıştır.
+
+## Hâkim’in el-Müstedrek ale’s-Sahîhayn’i
+¶ Hâkim en-Neysâbûrî’nin (ö.405/1014) el-Müstedrek ale’s-Sahîhayn’i:
+- Buhârî ve Müslim üzerinde çalışılmış istidrak örneğidir. Hadisler konularına göre tertib edilmişlerdir. İçinde 8803 rivâyet vardır. 4 cilt olup her cildin sonunda konu fihristi bulunmakla beraber tek cilt halinde müstakil olarak hazırlanmış bir fihristi de bulunmaktadır. Bu fihristten, hadisin başındaki ilk kelimenin hece harfine ve sahâbe ismine göre istifâde etmek mümkündür.
+- Hâkim Müstedrek’ini bablar halinde tertip etmiştir. Buhârî ve Müslim’in Sahîh’lerinde takip etmiş oldukları tertibi izlemiştir.
+!! Hâkim mütesâhil bir âlimdir. Bundan dolayı hadislerin kritiği için Zehebî’nin (ö.748/1347) Telhîsü’l-Müstedrek isimli eserine bakılmalıdır. Çünkü Zehebî Müstedrek’teki hadislerin; yarıya yakınının sahih, dörtte birinin senedi sağlam ancak metninin illetli, dörtte birinin ise münker ve zayıf rivâyetler olduğunu ifâde eder.
+- Eserde önce Hâkim’in görüşü verilir. Zehebî’nin görüşleri dipnotlardadır. Örneğin; Zehebî Hâkim’le aynı şeyleri söylemişse hadis için «وافقه» ifâdesi kullanılır ve onayladığı anlaşılır. «سكت عنه» denilmişse Zehebî’nin hadise herhangi bir hüküm vermediği anlaşılır.
+### Hâkim Müstedrek’te hadisleri üç grup halinde zikreder
+1. Buhârî ve Müslim’in şartına veya birinin şartına uygun olup da kitaplarına almadıkları hadisleri almıştır.
+2. Buhârî ve Müslim’in şartına uymasa da kendisine göre sahih olan hadisleri almıştır.
+3. Kendisine göre sahih olmayıp o konuya destek mahiyetinde getirdiği zayıf rivâyetleri almıştır. Bu hadisin zayıflık nedenlerini de kendisi açıklamıştır. Bu tür rivâyetleri genelde şâhit ve mütâbi’ (destekçi) rivâyetler olarak verir.
+| Zehebî’ye göre Müstedrek’teki hadisler | Oran
+| **Sahih** | Yarıya yakını
+| **Senedi sağlam, metni illetli** | Dörtte biri
+| **Münker ve zayıf** | Dörtte biri
+### Müstedrek’te aradığımız hadise ulaşma şekilleri
+- Müstedrek’in tek ciltlik fihristinden, hadisin ilk kelimesinin hece harfine göre ve sahâbe ismine göre. Ayrıca hadisin konusuna göre her cildin sonunda bulunan fihristten.
+- Mevsûatü etrâfi’l-hadîs’ten; hadisin başında geçen ilk kelimenin ilk harfine göre (Rumuzu: «ك»).
+- Elfiye, Şâmile gibi hadis CD’lerinden.
+! Müstedrek’te aradığımız hadisi bulduktan sonra önce Hâkim’in, daha sonra ise dipnotta bulunan Zehebî’nin görüşü belirtilir.
+### Tahric usûlünde kullanılacak ifâde
+@ أَخْرَجَهُ الْحَاكِمُ فِي الْمُسْتَدْرَكِ عَلَى الصَّحِيحَيْنِ (ج / ص) رَقْمُ الْحَدِيثِ: (...) (نَحْوَهُ / مِثْلَهُ) وَقَالَ الْحَاكِمُ: (...) وَوَافَقَهُ الذَّهَبِيُّ / أَوْ سَكَتَ عَنْهُ.
+### Konuyla ilgili örnek bir çalışma
+@ عَنْ نَافِعٍ قَالَ: كَانَ لِابْنِ عُمَرَ صَدِيقٌ مِنْ أَهْلِ الشَّامِ يُكَاتِبُهُ، فَكَتَبَ إِلَيْهِ عَبْدُ اللَّهِ بْنُ عُمَرَ: إِنَّهُ بَلَغَنِي أَنَّكَ تَكَلَّمْتَ فِي شَيْءٍ مِنَ الْقَدَرِ، فَإِيَّاكَ أَنْ تَكْتُبَ إِلَيَّ، فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: إِنَّهُ سَيَكُونُ فِي أُمَّتِي أَقْوَامٌ يُكَذِّبُونَ بِالْقَدَرِ.
+@ أَخْرَجَهُ الْحَاكِمُ فِي الْمُسْتَدْرَكِ عَلَى الصَّحِيحَيْنِ (1/158). وَقَالَ: هَذَا حَدِيثٌ صَحِيحٌ عَلَى شَرْطِ مُسْلِمٍ. وَوَافَقَهُ الذَّهَبِيُّ.
+* el-Müstedrek: Hâkim (405); 8803 rivâyet, 4 cilt + tek ciltlik fihrist; Sahîhayn’in tertibini izler. Hâkim mütesâhildir; Zehebî’nin Telhîsü’l-Müstedrek’ine bakılır.
+* Zehebî’ye göre Müstedrek: yarıya yakını sahih, dörtte biri senedi sağlam metni illetli, dörtte biri münker ve zayıf. «وافقه» = onayladı; «سكت عنه» = hüküm vermedi.
+* Hâkim’in 3 grubu: Şeyhayn’in (ya da birinin) şartına uygun · kendisine göre sahih · destek mahiyetinde zayıf (şâhit ve mütâbi’).
+
+## Mecma’lar (el-Mecâmî’)
+¶ el-Mecâmî’, mecma’ kelimesinin çoğuludur. Hadis alanında te’lif edilmiş bulunan belli sayıdaki eserin, müelliflerinin gözettiği tertibe riâyet ederek derlenmesiyle oluşturulan çalışmalar bu başlık altında incelemeye tâbi tutulur. Bu konu, hadisleri bir arada toplamaya çalışan eserler başlığı altında da incelenmiştir.
+### Mecma’lardan bazı örnekler
+1. Hasan b. Muhammed es-Sâğânî’nin (ö.650/1252) Meşâriku’l-envâri’n-nebeviyye min sıhâhi’l-ahbâri’l-mustafaviyye ismini verdiği el-Cem’u beyne’s-Sahîhayn’i.
+2. Ebû Abdullah Muhammed b. Ebî Nasr Futûh el-Humeydî’nin (ö.488/1095) el-Cem’u beyne’s-Sahîhayn’i.
+3. Ebü’l-Hasan Rezîn b. Muâviye el-Endelüsî’nin (ö.535/1141) et-Tecrîd li’s-sıhâh ve’s-sünen ismini verdiği el-Cem’u beyne’l-usûli’s-sitte’si; içinde İbn Mâce yerine Muvatta’ yer almaktadır.
+4. İbnü’l-Esîr diye bilinen Ebü’s-Seâdât’ın (ö.606/1209) Câmiu’l-usûl fî ehâdîsi’r-Resûl ismini verdiği el-Cem’u beyne’l-usûli’s-sitte’si. Eser Kitâbü’l-îmân’dan başlamaktadır. Konular alfabetik olarak tertib edilmiştir. Eseri, İbnü’d-Deyba’ (ö.944/1537) Teysîru’l-vusûl adlı eseriyle özetlemiştir. Bu eser İbrahim Canan tarafından, Muvatta’ da eklenerek Türkçe’ye tercüme edilmiştir.
+5. Muhammed b. Süleyman el-Mağribî (er-Rudânî)’nin (ö.1094/1683) Cem’u’l-fevâid min Câmii’l-usûl ve Mecmai’z-zevâid’i. Eserini 14 hadis kitabını (Buhârî, Müslim, Muvatta’, Sünen-i erbaa, Müsned-i Dârimî, Müsned-i Ahmed, Müsned-i Ebî Ya’lâ, Müsnedü’l-Bezzâr, Meâcimü’t-Taberânî es-selâse) bir araya getirerek derlemiştir. Eserin Türkçe’ye tercümesi Büyük Hadis Külliyâtı ismiyle Naim Erdoğan, tahrici ise Yusuf Özbek tarafından yapılmıştır.
+| Mecma’ | Müellif | Bir araya getirdiği eserler
+| **Meşâriku’l-envâr** | Sâğânî (650) | Sahîhayn
+| **el-Cem’u beyne’s-Sahîhayn** | Humeydî (488) | Sahîhayn
+| **et-Tecrîd li’s-sıhâh ve’s-sünen** | Rezîn b. Muâviye (535) | Usûl-i sitte (İbn Mâce yerine Muvatta’)
+| **Câmiu’l-usûl** | İbnü’l-Esîr (606) | Usûl-i sitte; konular alfabetik
+| **Cem’u’l-fevâid** | er-Rudânî (1094) | 14 hadis kitabı
+* Mecma’lar: Sâğânî’nin Meşâriku’l-envâr’ı ve Humeydî’nin el-Cem’u beyne’s-Sahîhayn’i (Sahîhayn); Rezîn’in et-Tecrîd’i (İbn Mâce yerine Muvatta’); İbnü’l-Esîr’in Câmiu’l-usûl’ü; Rudânî’nin Cem’u’l-fevâid’i (14 kitap).
+* Câmiu’l-usûl’ün özeti İbnü’d-Deyba’ın Teysîru’l-vusûl’üdür; Türkçesi İbrahim Canan. Cem’u’l-fevâid’in Türkçesi Büyük Hadis Külliyâtı (Naim Erdoğan).
+
+## Zevâidler
+: Zevâid = Herhangi bir hadis kitabının bir başka hadis eseri ile karşılaştırılıp birincisinin ikincisinden fazla olarak ihtiva ettiği hadislerin bir araya getirilmesi sonucu oluşturulan eserlerdir.
+- Bu tür eserlerin en büyük yararı elde mevcut olan meşhur eserler ve koleksiyonlara ilave olarak ulaşılması zor ve nadir eserlerdeki rivayetlere de ulaşma imkânı vermeleridir. Bu tür çalışmalarda da çoğunlukla Sahîhayn ve Kütüb-i Sitte esas olarak alınmış ve bunların zevâidleri hazırlanmıştır.
+- Zevâid edebiyatından faydalanmanın pratik bir yönü, aynı anda birçok hadis kitabının taranmış olmasıdır. Mesela herhangi bir hadisi Mecmau’z-Zevâid’de bulduk diyelim, bu durumda Ahmed b. Hanbel, Ebû Ya’lâ ve Bezzâr’ın Müsnedleri ile Taberânî’nin üç mu’cemi ve Kütüb-i Sitte olmak üzere toplam 12 eser aynı anda taranmış olmaktadır.
+### Zevâidlerden bazı örnekler
+1. Ebü’l-Abbas Ahmed b. Muhammed el-Bûsırî’nin (ö.840/1436) Misbâhu’z-zücâce fî zevâidi İbn Mâce’si. Bûsırî Kütüb-i Sitte içinde kendisine İbn Mâce’yi esas almış, diğerlerinde bulunmayıp da İbn Mâce’de bulunan rivâyetleri kitabında derlemiştir.
+2. Bûsırî’nin Fevâidü’l-müntekâ li-zevâidi’l-Beyhakî’si. Eser; Beyhakî’nin Sünen-i Kübrâ’sının Kütüb-i Sitte’ye zevâididir. Bûsırî bu eserinde, Kütüb-i Sitte’de bulunmayıp Beyhakî’nin Sünen-i Kübrâ’sında bulunan rivâyetleri derlemiştir.
+3. Bûsırî’nin İthâfü’s-sâdeti’l-mehereti’l-hıyere bi-zevâidi’l-mesânîdi’l-aşere’si. Eser, şu 10 müsnedin Kütüb-i Sitte’ye zevâididir: Müsned-i Ebî Dâvûd et-Tayâlisî, Müsnedü’l-Humeydî, Müsned-i Müsedded b. Müserhed, Müsned-i Muhammed b. Yahyâ el-Adenî, Müsned-i İshak b. Râhûyeh, Müsned-i Ebî Bekr b. Ebî Şeybe, Müsned-i Ahmed b. Menî’, Müsned-i Abd b. Humeyd, Müsnedü’l-Hâris b. Muhammed b. Ebî Üsâme, Müsned-i Ebî Ya’lâ el-Mevsılî. Bûsırî bu eserinde, Kütüb-i Sitte’de bulunmayıp mezkûr 10 eserde bulunan rivâyetleri (zâidleri) bir araya getirmiştir.
+4. el-Hâfız Ahmed b. Ali b. Hacer el-Askalânî’nin (ö.852/1448) el-Metâlibü’l-âliye bi-zevâidi’l-mesânîdi’s-semâniye’si. Eser; Müsned-i Ebî Ya’lâ el-Mevsılî ve Müsned-i İshak b. Râhûyeh dışında bir önceki maddede zikredilen 8 müsnedin, Kütüb-i Sitte ve Ahmed b. Hanbel’in Müsned’ine zevâididir. İbn Hacer el-Askalânî bu eserinde, Kütüb-i Sitte’de ve Ahmed b. Hanbel’in Müsned’inde bulunmayıp mezkûr 8 müsnedde bulunan rivâyetleri toplamıştır. Bu kadarla yetinmeyen İbn Hacer, Heysemî’nin Mecmau’z-zevâid adlı eserinde Müsned-i Ebî Ya’lâ için tespit ettiği zâidlerden gözünden kaçanları da zikretmiştir.
+5. el-Hâfız Ali b. Ebî Bekr el-Heysemî’nin (ö.807/1404) Mecmau’z-zevâid ve menbau’l-fevâid’i. Eser; Müsned-i Ahmed b. Hanbel, Müsned-i Ebî Ya’lâ el-Mevsılî, Müsned-i Ebî Bekr el-Bezzâr ve Meâcimü’t-Taberânî es-Selâse (kebîr, evsat, sağîr)’nin Kütüb-i Sitte’ye zevâididir. Heysemî bu eserinde, Kütüb-i Sitte’de bulunmayıp mezkûr 6 eserde bulunan rivâyetleri derlemiştir. Hadisler hakkında hükümler vermiştir.
+!! Zevâid’den nakilde bulunuluyorsa; Heysemî’nin hadisler hakkında verdiği hükümler mutlaka hadis tahricinde belirtilmelidir.
+| Zevâid eseri | Müellif | Neyin neye zevâidi?
+| **Misbâhu’z-zücâce** | Bûsırî (840) | İbn Mâce’nin diğer Kütüb-i Sitte’ye
+| **Fevâidü’l-müntekâ** | Bûsırî | Beyhakî’nin Sünen-i Kübrâ’sının Kütüb-i Sitte’ye
+| **İthâfü’s-sâdeti’l-mehere** | Bûsırî | 10 müsnedin Kütüb-i Sitte’ye
+| **el-Metâlibü’l-âliye** | İbn Hacer (852) | 8 müsnedin Kütüb-i Sitte ve Müsned’e
+| **Mecmau’z-zevâid** | Heysemî (807) | Ahmed, Ebû Ya’lâ, Bezzâr ve Taberânî’nin 3 mu’ceminin Kütüb-i Sitte’ye
+* Zevâid: bir kitabın diğerinden fazla olan hadislerini toplar; aynı anda birçok kitap taranmış olur (Mecmau’z-zevâid’de 12 eser).
+* Bûsırî’nin zevâidleri: Misbâhu’z-zücâce (İbn Mâce), Fevâidü’l-müntekâ (Beyhakî), İthâfü’s-sâdeti’l-mehere (10 müsned).
+* el-Metâlibü’l-âliye: İbn Hacer, 8 müsned. Mecmau’z-zevâid: Heysemî, 6 eser (Ahmed, Ebû Ya’lâ, Bezzâr, Taberânî’nin 3 mu’cemi); Heysemî’nin hükümleri tahricte mutlaka belirtilir.
+
+## Miftâhu Künûzi’s-Sünne
+¶ Müsteşrik **A. J. Wensinck** tarafından İngilizce olarak hazırlanmış, **Muhammed Fuad Abdülbâkî** tarafından Arapça’ya çevrilmiştir.
+¶ Kitap, alfabetik olarak ana konu ve şahıs isimlerini, sonra da bu ana konunun tâlî bahislerini vermekte ve her defasında da ihtiva ettiği 14 kitaptan hangilerinin nerelerinde o konuyu bulmak mümkünse, remizlerle ve rakamlarla işâret etmektedir.
+- Konu esasına göre hazırlanmış olan bir çalışma olup, her ana konunun altında onunla ilgili olan tâlî konular yer almakta ve her tâlî konunun altında da 14 kitapta yer alan ilgili hadisler ve âsâr verilmektedir.
+### İhtiva ettiği kitaplar ve remizleri
+| Kitap | Remiz
+| **Sahîhu’l-Buhârî** | «بخ»
+| **Sahîh-i Müslim** | «مس»
+| **Sünen-i Ebî Dâvûd** | «بد»
+| **Sünenü’t-Tirmizî** | «تر»
+| **Sünenü’n-Nesâî** | «نس»
+| **Sünen-i İbn Mâce** | «مج»
+| **Sünenü’d-Dârimî** | «مي»
+| **Mâlik’in Muvatta’ı** | «ما»
+| **Müsned-i Ahmed b. Hanbel** | «حم»
+| **Müsnedü’t-Tayâlisî** | «ط»
+| **Sîret-i İbn Hişâm** | «هش»
+| **Tabakât-ı İbn Sa’d** | «عد»
+| **Meğâzi’l-Vâkıdî** | «قد»
+| **Müsned-i Zeyd b. Ali** | «ز»
+¶ Ayrıca «ك» ile kitab’a, «ب» ile bâb’a, «ح» ile hadis’e, «ص» ile sayfa’ya, «ج» ile cüz’e (cilde), «ق» ile kısım’a işâret edilmiştir. «قا» işâretiyle de “baş kısmıyla son kısmını karşılaştır” denmek istenmiştir. Rakamların sol tarafında görülecek üç küçük mim harfi ile de hadisin defâlarca tekerrür ettiğine; sayıların sol üst köşesindeki rakamlarla da o hadisin o sayfa ya da bâbta o kadar tekerrür ettiğine işâret edilmiştir.
+### Rakamların anlamı
+¶ Bu 14 kitap için verilen rakamlar hepsi için aynı şeyi ifâde etmezler. Bu açıdan da bu kitapların şöyle gruplandığı görülmektedir:
+1. Kitab ve hadis numarası verilenler: Müslim, Muvatta’, Tayâlisî’nin Müsned’i, Zeyd b. Ali’nin Müsned’i.
+2. Kitab ve bâb numaraları verilenler: Buhârî, Ebû Dâvûd, Tirmizî, Nesâî, İbn Mâce, Dârimî’nin kitaplarıdır.
+3. Cilt ve sayfa numaraları verilenler: Ahmed b. Hanbel’in Müsned’i, İbn Sa’d’ın Tabakât’ı, İbn Hişâm’ın Sîre’si ve Vâkıdî’nin Meğâzî’sidir.
+### Miftâhu Künûzi’s-Sünne’den yararlanırken izlenecek yöntem
+>> Elimizde bulunan hadis metninin konusu tespit edilir. Örneğin, hadisimiz ‘altının zekâtı’ ile ilgili olsun.
+>> Eserden «ز» harfine gelinerek zekât ana başlığı bulunur. Buradan altının zekâtı alt başlığına ulaşılır ve «بد ك 9 ب 4» ibaresi görülür. Böylece aradığımız hadisin Ebû Dâvûd (9. kitab 4. bab)’da geçtiği öğrenilmiş olur.
+>> Daha sonra çizelgeden zekât kitabının Ebû Dâvûd’da hangi cilt ve sayfada bulunduğu tespit edilir.
+>> Ebû Dâvûd’da hadise ulaşıldıktan sonra ilgili ifâde kullanılır.
+@ أَخْرَجَهُ أَبُو دَاوُدَ فِي كِتَابِ الزَّكَاةِ، بَابِ: 4. مِثْلَهُ.
+* Miftâhu Künûzi’s-Sünne: Wensinck İngilizce hazırladı, Fuad Abdülbâkî Arapçaya çevirdi; konuya göre alfabetik, 14 kitap.
+* Miftâh remizleri: «بخ» Buhârî, «مس» Müslim, «بد» Ebû Dâvûd, «تر» Tirmizî, «نس» Nesâî, «مج» İbn Mâce, «مي» Dârimî, «ما» Muvatta’, «حم» Ahmed, «ط» Tayâlisî, «هش» İbn Hişâm, «عد» İbn Sa’d, «قد» Vâkıdî, «ز» Zeyd b. Ali.
+* Miftâh’ta rakamlar: Müslim, Muvatta’, Tayâlisî, Zeyd b. Ali → kitab + hadis; Buhârî, Ebû Dâvûd, Tirmizî, Nesâî, İbn Mâce, Dârimî → kitab + bâb; Ahmed, İbn Sa’d, İbn Hişâm, Vâkıdî → cilt + sayfa.
+* Dikkat: Concordance’ta «ط» Muvatta’dır; Miftâhu Künûzi’s-Sünne’de «ط» Tayâlisî, «ما» Muvatta’dır.

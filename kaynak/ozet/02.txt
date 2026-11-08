@@ -1,0 +1,31 @@
+# Meşhur Tahric Kitapları · Özet
+> En meşhur tahric kitapları ve tanıtımları.
+
+## En Meşhur Tahric Kitapları
+@ ١- نَصْبُ الرَّايَةِ لِلزَّيْلَعِيِّ، لِأَحَادِيثِ الْهِدَايَةِ لِلْمَرْغِينَانِيِّ
+@ ٢- تَخْرِيجُ أَحَادِيثِ الْكَشَّافِ لِلزَّمَخْشَرِيِّ، لِلزَّيْلَعِيِّ أَيْضًا
+@ ٣- الْمُغْنِي عَنْ حَمْلِ الْأَسْفَارِ فِي الْأَسْفَارِ لِلْعِرَاقِيِّ، فِي تَخْرِيجِ مَا فِي الْإِحْيَاءِ مِنَ الْأَخْبَارِ
+@ ٤- التَّلْخِيصُ الْحَبِيرُ لِابْنِ حَجَرٍ الْعَسْقَلَانِيِّ، فِي تَخْرِيجِ أَحَادِيثِ شَرْحِ الْوَجِيزِ الْكَبِيرِ لِلرَّافِعِيِّ
+@ ٥- الدِّرَايَةُ لِابْنِ حَجَرٍ أَيْضًا، فِي تَخْرِيجِ أَحَادِيثِ الْهِدَايَةِ
+
+## Nasbu’r-Râye li-Ehâdîsi’l-Hidâye
+¶ Ulaştığımız en meşhur tahric kitaplarındandır, yazarı **Hanefî Zeylaî h.762**’dir. Hanefî fıkıh kitaplarından olan Merğınânî’nin h.593 Hidâye kitabındaki hadisleri tahric etmiştir. Bu kitap tahric kitapları arasında en iyi, en faydalı ve en kapsamlı olanıdır. İmamların isnaddaki ricâl için cerh-ta’dil sözlerini de içerir. Tahric alanında daha iyisi yazılamamış bir kitaptır. Ahkâm hadislerinin tahrici için geniş bir ansiklopedi gibidir. Diğer mezheplerin delil olarak aldığı bütün hadislerin de tahricini içerir. Yani Hanefî olmasının yanında, eğer Hanefîlerin aldığı hadis zayıf ya da garip, diğer mezheplerin aldığı hadis sahih ise bunu açıkça söylemekten geri durmaz.
+! Metodu: Hadisin tamamını zikreder, şahit ve mütâbileri getirir.
+¶ Bu kitabın ayrı bir özelliği de **“Ehâdîsü’l-Bâb”** deyip hadisi zikrettikten sonra **“Ehâdîsü’l-Husûm”** diyerek karşı görüşün hadislerini ve sıhhat derecesini zikreder.
+
+## Tahrîcü Ehâdîsi’l-Keşşâf
+¶ Zeylaî’nin diğer tahric kitabı.
+
+## ed-Dirâye fî Ehâdîsi’l-Hidâye
+¶ Bu kitab İbn Hacer Askalânî h.852’ye aittir. Kitabın en önemli özelliği Zeylaî’nin Nasbu’r-Râye’sinin özeti niteliğindedir. Belki mübtediler için kolaydır ve zaman kazandırır ama aslı varken çok da faidesinden bahsedilemez.
+
+## et-Telhîsu’l-Habîr
+¶ Bu kitap **İbn Hacer Askalânî**’ye aittir: **Gazzâlî**’nin “el-Vecîz” kitabını Râfiî “eş-Şerhu’l-Kebîr” ismiyle şerh etmiştir. Bu şerhi **Süyûtî** “Neşru’l-Abîr” isimli eseriyle ve **İbnü’l-Mülakkin** “el-Bedru’l-Münîr” isimli eseri ile tahric etmiştir. İbnü’l-Mülakkin’in “el-Bedru’l-Münîr” isimli tahric kitabını **İbn Hacer** “et-Telhîsu’l-Habîr” ismiyle özetlemiştir.
+>> **el-Vecîz:** Gazzâlî
+>> **eş-Şerhu’l-Kebîr:** Râfiî
+>> **Neşru’l-Abîr:** Süyûtî · **el-Bedru’l-Münîr:** İbnü’l-Mülakkin
+>> **et-Telhîsu’l-Habîr:** İbn Hacer
+
+## el-Muğnî an Hamli’l-Esfâr fi’l-Esfâr
+¶ Bu kitap Hâfız Irâkî’ye aittir ve Gazzâlî’nin İhyâ adıyla bilinen meşhur eserinin hadislerinin tahricini yapmıştır. İhyâ’nın hadislerini Sahîhayn’da bulursa onu zikreder, eğer Sahîhayn’dan birinde bulamazsa Kütüb-i Sitte’den hangisinde bulursa onu zikreder, başka bir yerden ancak bir gayeye binaen rivayet eder, eğer Kütüb-i Sitte’de bulamazsa diğer sahih hadis kaynaklarından yerini gösterir.
+¶ Metodu: İhyâ’nın hadisinin bir kısmını, sonra sahâbîsini zikreder ve tahricini yapar. Sonra hadisin sahih, hasen, zayıf olduğunu beyan eder. Eğer hadisin hadis kitaplarında yeri yoksa “lâ asle leh” der, bazen “lâ a’rifuhû” der; yani ben bunu araştırmam neticesinde bulamadım/bilemedim der ve bunu diyecek kadar ince görüş sahibidir.

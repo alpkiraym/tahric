@@ -1,0 +1,133 @@
+# İsnad İncelemesi ve Hadise Hüküm
+> İsnad incelemesinin mertebeleri: senedi araştırılmayan hadisler, hüküm verilmemiş hadislerde araştırma ihtiyacı, senedleri araştırma yöntemi, örnek bir isnad araştırması ve hadise hüküm verme.
+
+## İsnad İncelemesinin Mertebeleri
+¶ Birtakım hadisler vardır ki bunların senedlerini araştırmaya ihtiyacımız yoktur. Çünkü ilelü’l-hadîs gibi hadis ilminin ince meselelerinde usta olan büyük hadis âlimleri büyük bir dikkat ve ustalıkla işi çözmüş ve bu senedlerin ve metinlerin hükmünü belirtmişlerdir. İşte bu sebeple bizim tekrar araştırmamıza gerek yoktur.
+¶ İşte hadis âlimlerinin araştırdığı bu hadisler şunlardır:
+>> **Buhârî ve Müslim’de bulunan hadisler**
+>> **Sıhhati iltizam eden kitaplar**
+>> **Muteber ulemanın sıhhatine hükmettiği hadisler**
+>> **Hadis ulemasının hüküm verip mertebesini belirttiği hadisler**
+* Senedi yeniden araştırılmayan hadisler 4 grup: Sahîhayn’dekiler · sıhhati iltizam eden kitaplardakiler · muteber ulemanın sahih dediği hadisler · mutemed imamların mertebesini belirttiği hadisler.
+
+## Buhârî ve Müslim’de Bulunan Hadisler
+¶ Buhârî ve Müslim bir hadisi kitaplarına alırken zayıf ve metruk râvileri ihtiva etmeyen, sağlam bir senede sahip olan ve ayrıca gizli illetlerden salim olan sahih hadisleri tahric etmeyi amaçlamışlardır. Dolayısıyla bir hadise sıhhat derecesini vermek için hadisin Buhârî ve Müslim’de geçmesi yeterlidir. Senedinin araştırılmasına ihtiyaç yoktur. Çünkü zaten bir hadisi araştırmaktan maksadımız hadisin sahih olup olmadığını bilmektir, Sahîhayn ise zaten sahih hadisleri ihtiva etmektedir.
+!! Günümüzde birtakım bilimsel-araştırmacı gibi sıfatlarla ortaya çıkan ve Sahîhayn’da bazı zayıf hadisler olduğunu iddia eden kimselerin fitnelerine aldanılmamalıdır. Bu kimseler bu iddialarını ya hadis usulü kaideleri çerçevesinde yaptıklarını iddia ettikleri birtakım ilmî araştırmalarla veya bazı hadislerin akla -onların akıllarına- muhalif olduğundan hareketle veya kendilerince bazı müspet (tıp gibi) ilimlerin ortaya koyduğu tabiat kanunlarına muhalif olduğu gerekçeleriyle desteklemek istemektedir.
+¶ Bunu yapan kimseler iki gruptur. Bunlar ya hadis ilmine aşina olup bu yeterliliklerini ispat edip büyük âlimler olduklarını izhar etmek isteyen kimselerdir ki, bu ilimleriyle hadis imamlarını tahkik etme ve hatalarını ortaya koyma yeterliliğine sahip olduklarını düşünürler.
+¶ Bir diğer grup ise İslam düşmanları tarafından özel olarak kiralanmış, yetiştirilmiştir. Çoğu ise hadis ilmini bilmez. Onlar söylediklerini haram kazanmak için söylerler. Ve zahiri rahmet, içi ise azab dolu, kinle dolu, hileli başlıkları olan makale ve kitaplar yazarlar. Ve bu işlerini de sünnete hizmet ve onu şaibelerden kurtarmak maksadıyla yaptıklarını iddia ederler. Bu kitapların başlıklarını da
+@ أَضْوَاءٌ عَلَى السُّنَّةِ الْمُحَمَّدِيَّةِ
+@ دِفَاعٌ عَنِ الْحَدِيثِ
+@ الْأَضْوَاءُ الْقُرْآنِيَّةُ فِي اكْتِسَاحِ الْأَحَادِيثِ الْإِسْرَائِيلِيَّةِ وَتَطْهِيرِ الْبُخَارِيِّ مِنْهَا
+¶ gibi isimler şeklinde koyarlar. Oysa bunlar hakikatte katmerli karanlıktır.
+### Ulemanın Sahîhayn hakkındaki sözleri
+¶ Sahîhayn’da bulunan hadislerin sıhhatine dair ulemanın söylediği şu sözleri dinlememiz gerekir.
+¶ **Nevevî** Müslim şerhinin mukaddimesinde der ki: İçindeki hadislerin sahih olması konusunda Sahîhayn diğer kitaplardan ayrılır. Sahîhayn’da bulunan hadislerde araştırma yapılmaya ihtiyaç yoktur. Mutlak manada amel edilir. Ama diğer kitaplardaki hadislere gelince, bunlarda araştırma yapılmadan ve sıhhat şartlarını haiz olmadan amel edilmez.
+¶ **İbnü’s-Salâh** Ulûmü’l-hadîs adlı eserinde der ki: Buhârî ve Müslim’in ferd kaldığı hadisin sıhhatinde katiyyet vardır.
+! İbnü’s-Salâh Sahîhayn’daki hadislerin sahih olduğuyla yetinmez, bilakis hiçbir şüpheye yer kalmayacak şekilde katiyyet ifade ettiğini söyler.
+* Sahîhayn’deki hadisin senedi araştırılmaz; sıhhat için orada geçmesi yeterlidir. Nevevî: Sahîhayn’deki hadislerle mutlak amel edilir. İbnü’s-Salâh: Sahîhayn’in sıhhatinde katiyyet vardır.
+* Sahîhayn’da zayıf hadis iddia edenler iki grup: yeterliliğini ispat etmek isteyen hadis aşinaları ve İslam düşmanlarınca kiralanmış, çoğu hadis bilmeyenler.
+
+## Sıhhati İltizam Eden Kitaplar
+### Müstahreclerdeki ziyadeler ve tetimmeler
+@ الزِّيَادَاتُ وَالتَّتِمَّاتُ الَّتِي فِي الْمُسْتَخْرَجَاتِ عَلَى الصَّحِيحَيْنِ
+¶ Müstahreclerin müellifleri eserlerinde Sahîhayn’a yaptıkları istihraçlarını da sahih senedlerle yapmışlardır.
+### İbn Huzeyme’nin Sahîh’i
+¶ Bir hadise sahih hükmünü vermek için İbn Huzeyme’nin Sahîh’inde bulunmasıyla iktifa edilir. Çünkü müellif kitabında sadece sahih hadisleri almayı murad etmiştir.
+### İbn Hibbân’ın Sahîh’i
+¶ Denilir ki; Sahîhayn ve İbn Huzeyme’den sonra en sahih eser İbn Hibbân’ınkidir. Fakat İbn Hibbân mütesâhildir.
+### İbnü’s-Seken’in Sahîh’i
+¶ Kitapta senedler hazfedilmiştir. Müellif ahkâm noktasında lazım olan ve kendisince sahih olan tüm hadisleri bablar halinde almıştır.
+### Hâkim’in Müstedrek’i
+¶ Hâkim bu eserinde Sahîhayn’da bulunan hadisler üzerine ziyadeler yapmış ve sahih bulduğu bu hadisleri toplamıştır. Sahîhayn’da olmayıp ama Şeyhayn’ın şartlarına uyan hadisleri almıştır. Sahîhayn’da bulunmayıp kendisi nezdinde sahih olan hadisleri de almıştır. Hâkim sıhhat hükmü vermede mütesâhildir.
+¶ Zehebî Hâkim’in Müstedrek’i üzerine çalışmıştır. Hâkim eserinde bazı hadislerin sahih olduğunu ifade etmiş ama bazıları hakkında hüküm vermemiştir. Zehebî bu hadislere sahih, hasen, zayıf, münker, hatta mevzu gibi hükümler vermiştir. Zehebî’nin de sükût ettiği bazı hadisler vardır ki bu hadisler de sizler gibi muhaddislere kalmıştır.
+| Kitap | Hüküm
+| **Müstahreclerdeki ziyadeler** | Sahih senedlerle yapılmıştır
+| **İbn Huzeyme’nin Sahîh’i** | İçinde bulunması sahih hükmü için yeterli
+| **İbn Hibbân’ın Sahîh’i** | Sahîhayn ve İbn Huzeyme’den sonra en sahih; ama İbn Hibbân mütesâhil
+| **İbnü’s-Seken’in Sahîh’i** | Senedler hazfedilmiş; ahkâmla ilgili sahih hadisler, bablar halinde
+| **Hâkim’in Müstedrek’i** | Hâkim mütesâhil; Zehebî’nin hükümlerine bakılır
+* Sıhhati iltizam eden kitaplar: müstahreclerdeki ziyadeler, İbn Huzeyme (bulunması yeterli), İbn Hibbân (mütesâhil), İbnü’s-Seken (senedsiz), Hâkim’in Müstedrek’i (mütesâhil; Zehebî’nin sükût ettikleri muhaddislere kalmıştır).
+
+## Muteber Ulemanın ve Hadis İmamlarının Hükümleri
+### Muteber ulemanın sıhhatine hükmettiği hadisler
+¶ Bunlar da Ebû Dâvûd, Tirmizî ve Dârekutnî gibi müelliflerin meşhur ve muteber kitaplarıdır. Bu kitaplara gelince;
+- Müellif hadisin sahih olduğuna hükmetmişse sıkıntı yok, alınır.
+- Eğer hükmetmemişse araştırma yapılmadan hadisin sıhhatine hüküm verilmez, çünkü müellifleri sadece sahih hadisleri yazmayı murad etmemişlerdir.
+- Müelliflerinin kendisinin sahihtir demediği, fakat hadis ulemasının sahihtir deyip sahih bir senedle naklettiği hadislere gelince, bu hadise sahihtir demek için bu yeterlidir.
+### Hadis ulemasının hüküm verip mertebesini belirttiği hadisler
+¶ Bazı hadisler de vardır ki sonradan gelen muhaddisler senedlerinde çalışmış, sahih, hasen, zayıf gibi mertebelerini söylemişlerdir. Bu hadisler hakkında mütesâhil olmayan mutemed hadis imamlarından bir hüküm sâdır olmuşsa biz bununla iktifa eder, yeniden araştırmaya ihtiyaç duymayız. Mesela Tirmizî’nin hasendir ya da zayıftır dediği hadisler gibi.
+### Senedi hakkında hüküm verilmeyen hadislerde araştırmaya olan ihtiyaç
+¶ Geçmiş ulemanın üzerinde çalışıp hakkında hüküm vermediği hadisler vardır ki bunlar konusunda çalışmamız gerekmektedir. Böyle hadisler çoktur. Hadisle uğraşan -ihlaslı- âlimlerin üzerine düşen, bu hadisler hakkında kolları sıvayıp, önceki ulemanın tasnif ettiği ve sıhhatini araştırmaya ömürlerinin yetmediği kitapları ele alıp, senedlerini araştırıp hükmünü ortaya koymaktır. Bu ise İslam’ın ikinci kaynağı olan sünnete büyük bir hizmet olacaktır.
+* Ebû Dâvûd, Tirmizî, Dârekutnî gibi muteber kitaplarda: müellif sahih demişse alınır; dememişse araştırılır; hadis uleması sahih bir senedle sahih demişse yeterlidir.
+* Mütesâhil olmayan mutemed bir imamın hükmüyle (ör. Tirmizî’nin hasen/zayıf demesi) iktifa edilir. Hüküm verilmemiş hadisler çoktur; bunları araştırmak sünnete büyük hizmettir.
+
+## Senedleri Araştırma Yöntemi
+¶ Hadis âlimleri sıhhat şartlarını şu şekilde ortaya koymuştur:
+- Adâletü’r-râvî
+- Zabtü’r-râvî
+- İttisâlü’s-sened
+- Ademü’ş-şüzûz
+- Ademü’l-illet
+| Sıhhat şartı | Anlamı
+| **Adâletü’r-râvî** | Râvinin adaleti
+| **Zabtü’r-râvî** | Râvinin zabtı
+| **İttisâlü’s-sened** | Senedin muttasıl olması
+| **Ademü’ş-şüzûz** | Şâz olmaması
+| **Ademü’l-illet** | İlletli olmaması
+¶ Hadisin sıhhatine dair yapacağımız araştırmada yapacağımız ilk şey, seneddeki râvilerin adalet ve zabtı hakkında cerh ve ta’dil âlimlerinin söylediklerine başvurmaktır.
+### Râvilerin hayatlarını öğrenme metodu
+¶ Daha önce zikrettiğimiz üzere ricâl hakkında telif edilmiş eserler vardır. Hadis âlimleri râviler hakkında birçok eserler telif etmiştir. Ve bu eserleri de bablara ayırmışlardır. Bazıları zayıf râvileri, bazıları sadece sika râvileri kaleme almışlardır.
+¶ Bir hadisin senedindeki râviyi araştıracak olan kimsenin bu râvi hakkında -hangi şehirden olduğu, Kütüb-i Sitte ricâlinden olup olmadığı, hangi tabakadan olduğu gibi- birtakım bilgilere sahip olması işini kolaylaştıracak, râvi hakkında hangi kitaba müracaat edeceğini önceden bilecektir. Eğer elinde hiçbir bilgi yoksa da bu sefer râvi isimlerinin hece harflerine göre tanzim edildiği ricâl kitaplarına müracaat edecektir.
+* Sıhhatin 5 şartı: adâletü’r-râvî, zabtü’r-râvî, ittisâlü’s-sened, ademü’ş-şüzûz, ademü’l-illet. İlk iş râvilerin adalet ve zabtı hakkında cerh-ta’dil âlimlerine başvurmaktır.
+* Râvinin şehri, Kütüb-i Sitte ricâlinden olup olmadığı, tabakası biliniyorsa hangi kitaba bakılacağı bellidir; bilinmiyorsa hece harflerine göre tanzim edilmiş ricâl kitaplarına bakılır.
+
+## Örnek Bir İsnad Araştırması
+@ قَالَ النَّسَائِيُّ: أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ قَالَ: حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ قَالَ: حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ عَنْ عَمْرِو بْنِ شُعَيْبٍ أَنَّ أَبَاهُ حَدَّثَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ: لَمَّا فَتَحَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَكَّةَ قَامَ خَطِيبًا فَقَالَ فِي خُطْبَتِهِ: لَا يَجُوزُ لِامْرَأَةٍ عَطِيَّةٌ إِلَّا بِإِذْنِ زَوْجِهَا
+¶ Bu isnadda 6 şahıs var:
+>> İsmail b. Mes’ûd
+>> Hâlid b. Hâris
+>> Hüseyin el-Muallim
+>> Amr b. Şuayb
+>> Şuayb (Amr’ın babası)
+>> Abdullah b. Amr (İbnü’l-Âs)
+¶ Bu râviler hakkında ayrıca araştırma yapmadan önce bilmemiz gerekir ki, bu râvilerin hepsi Kütüb-i Sitte râvilerindendir. Kütüb-i Sitte râvilerini araştıran müstakil ricâl kitapları vardır. Öyleyse başka kitaplara başvurmaya gerek yoktur. Kütüb-i Sitte ricâlini ihtiva eden eserler şunlardır:
+- Tehzîbü’t-Tehzîb - İbn Hacer
+- Takrîbü’t-Tehzîb - İbn Hacer
+- el-Kâşif - Zehebî
+- Hulâsatü Tezhîbi Tehzîbi’l-Kemâl - Hazrecî
+¶ Bu kitaplar hece harflerine göre tertib edilmiştir.
+¶ Biz Takrîbü’t-Tehzîb’i esas alıp birinci râviden başlayarak tüm râvileri bulalım.
+### Râvilerin adalet ve zabtını araştırma
+¶ Râvilerin ricâl kitaplarındaki yerlerini bulduktan sonra ikinci merhaleye geçelim. Bu merhale râvilerin adalet ve zabtını araştırmadır. Dolayısıyla cerh ve ta’dil âlimlerinin haklarında ne dediklerini esas alıyoruz. Geçen örneği esas alıp ilk râviden başlayalım:
+| Râvi | Takrîb | el-Kâşif | Hulâsa
+| **İsmail b. Mes’ûd** | Sikadır demiş | Sikadır demiş | Sadûktur demiş
+| **Hâlid b. Hâris** | Sikadır demiş | Kattân: “Süfyân’dan ve ondan daha hayırlısını görmedim” demiş | —
+¶ Bu şekilde sırayla tüm râvilerin adalet ve zabtını araştırırız ve ricâlin hallerini öğreniriz.
+* Örnek isnad (Nesâî): 6 râvinin hepsi Kütüb-i Sitte râvisidir; Tehzîbü’t-Tehzîb, Takrîb, el-Kâşif ve Hulâsa yeterlidir. Takrîb esas alınır.
+* İsmail b. Mes’ûd: Takrîb ve Kâşif “sika”, Hulâsa “sadûk”. Hâlid b. Hâris: Takrîb “sika”.
+
+## Hadise Hüküm Verme
+### Râvinin zabtı ve adaleti
+¶ Râvinin zabtı ve adaleti, cerh ve ta’dil âlimlerinin râviler hakkındaki görüşlerini, hadislerinin red ya da kabul yönündeki beyanlarıyla tespit edilir. Misal olarak Hâlid b. Hâris hakkında Takrîb’de “sika-sebt”, el-Kâşif’te Yahya b. Kattân’ın “ondan daha hayırlısını görmedim”, Hulâsa’da Nesâî’nin “sika-sebt” demesi gibi. Daha sonra âlimlerin râviler hakkında verdikleri hükümden yola çıkarak genel bir kanaate varmak; yani sika ise sika, sadûk ise sadûk olması gibi.
+### İsnâd-ı muttasıl
+¶ Râvilerin zabt ve adaleti hakkındaki beyanlarından sonra hadisin sıhhat şartı gelir. Râvilerin hoca-talebe ilişkilerini inceleyip senedin ittisalini, aralarında kopukluk olup olmadığını tespit etmek hadisin sıhhati açısından önemlidir.
+### Hadisteki şazlık, illet ve tespitin zorluğu
+¶ Bu ancak hadis ilminde geniş ve derin bilgiye sahip olanların anlayıp kavrayabileceği bir durumdur. Hadisin illetini ortaya çıkarmak bütün turukların bir araya getirilmesi ve rivayetler arasındaki ihtilafa bakmakla olur. Bu konuda **Hatîb el-Bağdâdî** hadisin illetini şöyle açıklamıştır:
+1. Hadisin bütün yollarını bir araya getirmek.
+2. Râvilerin ihtilaflarına bakmak.
+3. Râvilerin hıfz konumlarına itibar etmek.
+4. Râvilerin zabt ve itkan konumlarını bilmek.
+### Hadise hüküm vermek
+¶ Bundan maksat da hadis hakkında sahih, hasen, zayıf ve mevzu derecelerini beyan etmekle olur.
+### Araştırmacının isnad hakkında hüküm vermekle yetinmesi
+¶ (Sahîhu’l-isnâd – hasenü’l-isnâd – zayıfü’l-isnâd)
+¶ Bir hadisin metni hakkında olumlu veya olumsuz hüküm vermek zor iştir. O yüzden araştırmacı hadis hakkında hüküm verirken senedini baz alarak ya sahîhu’l-isnâd ya hasenü’l-isnâd ya da zayıfü’l-isnâd olarak hüküm verir.
+### İsnad araştırmasında inceleme yolları
+>> Biyografi kitaplarından râvilerin hayat hikâyeleri hakkında bilgi edinmek.
+>> Senedin ittisal ve kopukluğu hakkında inceleme yapmak; bu da doğum-ölüm tarihlerini bilme, yaşadığı şehri, seyahat ettiği yerleri bilmek, hadiste irsal olup olmadığını tespit etmek.
+>> Adalet ve zabt yönünden ele almak.
+>> Şaz ve illet olup olmadığını ilel kitaplarına baktıktan sonra hüküm vermek.
+>> Hadise hüküm verirken araştırmacının sahîhu’l-isnâd, hasenü’l-isnâd, zayıfü’l-isnâd gibi ifadelerle yetinmesi.
+* Hatîb el-Bağdâdî’ye göre illeti ortaya çıkarmak: bütün yolları toplamak, râvilerin ihtilaflarına bakmak, hıfz ve zabt-itkan konumlarını bilmek.
+* Metin hakkında hüküm zor olduğu için araştırmacı “sahîhu’l-isnâd / hasenü’l-isnâd / zayıfü’l-isnâd” demekle yetinir.
+* İsnad araştırmasının 5 yolu: biyografi · ittisal (doğum-ölüm, şehir, seyahat, irsal) · adalet-zabt · ilel kitaplarıyla şaz ve illet · isnada hükümle yetinme.

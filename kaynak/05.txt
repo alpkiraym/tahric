@@ -1,0 +1,65 @@
+# Üçüncü Yol: Az Kullanılan Kelime
+> Hadis metninin herhangi bir yerinde geçen, kullanımı yaygın olmayan garib bir kelimeden yola çıkarak hadise ulaştıran eser: el-Mu’cemü’l-müfehres (Concordance), rumuzları ve kullanımı.
+
+## Üçüncü Yol ve Concordance
+¶ Hadis metninin herhangi bir yerinde bulunan ve kullanımı yaygın olmayan yabancı (ğarib) bir kelimeden yola çıkarak hadis metnine ulaşmayı sağlayan eserden yararlanma.
+### el-Mu’cemü’l-müfehres li-elfâzi’l-hadîsi’n-nebevî (Concordance)
+- Fransızca olarak Concordance et Indices de la Tradition Musulmane, Arapça olarak el-Mu’cemü’l-müfehres li-elfâzi’l-hadîsi’n-nebevî adını taşıyan ve kısaca Concordance diye anılan hadis fihristi, Amsterdam Kraliyet Akademisi’nin himayesinde ve değişik ülkelere ait 15 kadar akademi ve enstitünün ilmî ve mâlî desteğiyle gerçekleştirilmiş modern bir çalışmadır.
+- Kütüb-i Sitte’ye ilâve olarak Dârimî’nin Sünen’i, İmam Mâlik’in Muvatta’ı ve İmam Ahmed b. Hanbel’in Müsned’ini ihtiva eden Concordance’ın hazırlanması için çalışmalar fiîlen 1916 yılında **Juynboll, Wensinck, Horovitz** ve başka bazı müsteşriklerin planlamasıyla başlatılmıştır. Muhtelif ülkelerden 40 kadar ilim adamı tarafından sürdürülen çalışmanın ilk ürünü, 1. cildi tam 20 yıl sonra 1936’da Leiden’de neşredilmiştir. 8. cildi ise 1988’de yayımlanmıştır.
+- Eserin 1. cildinde kitapta kullanılan rumuzlar verilmekte, kelimelerin diziliş usulüne dair bazı uyarılar ve bilgilendirmeler yapılmaktadır. Ancak, kitabın kullanımını genişçe anlatan mukaddimenin yazılmamış olması büyük bir eksikliktir. Öte yandan işin genişliğinden ve tek elden yapılmamasından kaynaklanan bir kısım eksiklikler de bulunmaktadır.
+- Maddelerinin tertibi genellikle sözlüklerin yöntemine yakındır.
+- Çoğu kez maddelerin herhangi birisinde başka maddelere bakılması için o maddelere havale eder. Bu yüzden bu esere müracaat edenlerin birçoğu bunu işi zorlaştıran bir durum olarak görürler.
+| Concordance | Bilgi
+| **Kapsamı** | Kütüb-i Sitte + Dârimî’nin Sünen’i + Muvatta’ + Ahmed b. Hanbel’in Müsned’i (9 kitap)
+| **Başlangıç** | 1916; Juynboll, Wensinck, Horovitz ve başka müsteşrikler
+| **Yayım** | 1. cilt 1936 Leiden; 8. cilt 1988
+| **Destek** | Amsterdam Kraliyet Akademisi himayesi, 15 kadar akademi ve enstitü; 40 kadar ilim adamı
+| **Eksikliği** | Kullanımı genişçe anlatan mukaddime yok; tek elden yapılmadığı için eksiklikler; çok havale
+* Concordance (el-Mu’cemü’l-müfehres): 9 kitap (Kütüb-i Sitte + Dârimî + Muvatta’ + Müsned). 1916’da Juynboll, Wensinck, Horovitz ile başladı; 1. cilt 1936 Leiden, 8. cilt 1988.
+* Concordance’ın eksikleri: kullanımını anlatan mukaddimenin olmayışı, tek elden yapılmaması, maddeler arası çok havale.
+
+## Concordance’ın Rumuzları
+¶ Şahıs ve yer isimlerine tahsis edilmiş olan 8. cilt dışında hadislerde yer alan önemli ifâdelerin, lügat tekniği içinde anılan 9 kitaptaki yerlerine işâret eden Concordance, ihtiva ettiği kitaplar için Miftâhu künûzi’s-sünne’den ayrı olarak aşağıdaki kısaltmaları kullanmaktadır:
+| Kitap | Rumuz
+| **Buhârî** | «خ»
+| **Müslim** | «م»
+| **Ebû Dâvûd** | «د»
+| **Tirmizî** | «ت»
+| **Nesâî** | «ن»
+| **Dârimî** | «دي»
+| **İbn Mâce** | «جه» (ilk iki ciltte «ق» şeklindedir)
+| **Muvatta’** | «ط»
+| **Ahmed b. Hanbel** | «حم» (ilk iki ciltte «حل» şeklindedir)
+¶ Ayrıca bu kısaltmalar her sayfa altında gösterilmek sûretiyle araştırıcıya yardımcı olunmuştur.
+* Concordance rumuzları: «خ» Buhârî, «م» Müslim, «د» Ebû Dâvûd, «ت» Tirmizî, «ن» Nesâî, «دي» Dârimî, «جه» İbn Mâce (ilk iki ciltte «ق»), «ط» Muvatta’, «حم» Ahmed (ilk iki ciltte «حل»).
+* 8. cilt şahıs ve yer isimlerine ayrılmıştır.
+
+## Rakamların Anlamı
+¶ Bu 9 kitap için verilen rakamlar değişik anlamlardadır. Bu açıdan şöyle bir gruplandırma yapmak gerekmektedir:
+1. Bölüm (kitab) adından sonra bâb numarası verilenler: Bunlar; Buhârî, Ebû Dâvûd, Tirmizî, İbn Mâce, Nesâî ve Dârimî’nin kitaplarıdır.
+2. Bölüm (kitab) adından sonra hadis numarası verilenler: Bunlar da; sadece Müslim’in Sahîh’i ve İmam Mâlik’in Muvatta’ıdır.
+3. Cilt ve sayfa numarası verilen: Bu yalnızca Ahmed b. Hanbel’in Müsned’idir.
+| Rakamın anlamı | Kitaplar
+| **Kitab adı + bâb numarası** | Buhârî, Ebû Dâvûd, Tirmizî, İbn Mâce, Nesâî, Dârimî
+| **Kitab adı + hadis numarası** | Müslim, Muvatta’
+| **Cilt + sayfa numarası** | Ahmed b. Hanbel’in Müsned’i
+* Concordance’ta rakamlar: Buhârî, Ebû Dâvûd, Tirmizî, İbn Mâce, Nesâî, Dârimî → kitab + bâb no; Müslim ve Muvatta’ → kitab + hadis no; Müsned → cilt + sayfa.
+
+## Concordance’ın Kullanımı
+¶ Concordance’tan kısa zamanda aranılan hadis hakkında bilgi alabilmek için, o hadiste geçen en nâdir ve müştak kelimenin tespit edilmesi ve o kelimeden hareketle aramaya başlamak gerekir.
+!! Bir hadis için bir-iki kelimeden bakıldıktan sonra bulunmazsa, hemen bu hadisin Concordance’ın ihtiva ettiği 9 kitapta bulunmadığı hükmüne varmamak lâzımdır. Daha başka kelimelerden araştırma sürdürülmelidir.
+¶ Concordance’ta kelimeler; mâzi, muzâri, emir… ma’lûm, meçhûl sırasıyla ve şahıs zamirleri ve emsile-i muttaride sırasına göre dizilmişlerdir.
+!! Ayrıca, Concordance’tan tespit edilen kitab, bâb veya hadis numaralarının ait oldukları kaynaklardan tek tek kontrol edilmesi, hele bilhassa metinlerin gösterilen yerde bulunup bulunmadıklarının tetkiki asla unutulmamalıdır.
+### Şu iki nokta da bilinmelidir
+1. Concordance’ta, Müslim’in Sahîh’inde sadece senedi zikredilmiş, fakat metni verilmemiş rivâyetlere atıf yapılmamıştır.
+2. Muvatta’daki sadece merfu’ hadislere atıf yapılmış, İmam Mâlik’e ve öteki zevâta ait görüşlere (âsâr) işâret edilmemiştir.
+¶ Hadisin en ğarib, en nâdir kelimesinden yola çıkarak köküne ve hece harfine göre Concordance’ta araştırma yapılırken, hadis metninin bir bölümüyle karşılaşılır. Fakat bulunan bu bölüm, aranılan hadisin dışında bir başka hadisin bir parçası olabilir. Bulunan bu kısım hemen kaynak olarak gösterilmemelidir.
+@ لَوْلَا أَنْ أَشُقَّ عَلَى أُمَّتِي لَأَمَرْتُهُمْ ... | Örnek
+¶ Bu hadisin hem misvakla hem de vitr namazının tehiriyle ilgili varyantı olduğu için, aslî kaynakta hadis bulunmadan Concordance’taki yeri kaynak olarak gösterilmez.
+>> Hadisteki en nâdir ve müştak kelimeyi tespit et.
+>> Kelimenin köküne ve hece harfine göre Concordance’ta ara.
+>> Bulamazsan başka kelimelerden aramayı sürdür.
+>> Bulunan kitab, bâb, hadis numarasını aslî kaynakta tek tek kontrol et.
+* Concordance’ta en nâdir ve müştak kelimeden aranır; bir-iki kelimede bulunmazsa hadis 9 kitapta yok denmez.
+* Concordance’ta Müslim’in yalnızca senedi verilen rivâyetlerine ve Muvatta’nın âsârına atıf yoktur; yalnızca merfu’ hadisler.
+* Concordance’taki yer, aslî kaynakta hadis bulunmadan kaynak olarak gösterilmez (örnek: «لولا أن أشق على أمتي» hem misvak hem vitrin tehiri varyantı).

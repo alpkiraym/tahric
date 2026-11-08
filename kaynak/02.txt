@@ -1,0 +1,110 @@
+# Meşhur Tahric Kitapları
+> Tefsir, fıkıh, âdâb-tasavvuf-dua ve lügat kitaplarına yazılan meşhur tahricler; Nasbu’r-Râye, ed-Dirâye, et-Telhîsu’l-Habîr ve el-Muğnî’nin tanıtımı.
+
+## En Meşhur Tahric Kitapları
+### Tefsir kitaplarına yazılan tahricler
+1. Zemahşerî’nin (ö.538/1143) Keşşâf’ındaki hadislere Zeylaî’nin (ö.762/1361) Tahrîcü ehâdîsi’l-Keşşâf, İbn Hacer’in (ö.852/1448) el-Kâfi’ş-şâf isimli tahricleri.
+2. Beyzâvî’nin (ö.685/1286) Tefsîr’indeki hadislere Münâvî’nin (ö.1031/1622) Tuhfetü’r-râvî ve el-Fethu’s-semâvî isimli tahricleri.
+### Fıkıh kitaplarına yazılan tahricler
+1. Şîrâzî’nin (ö.476/1083) Mühezzeb’ine Hâzimî’nin (ö.584/1188) tahrici (Tahrîcü ehâdîsi’l-Mühezzeb).
+2. İbnü’l-Hâcib’in (ö.646/1248) Muhtasar’ına İbnü’l-Mülakkin’in (804/1702) ve İmam Makdisî’nin (ö.744/1343) tahricleri (Tahrîcü ehâdîsi’l-muhtasari’l-kebîr).
+3. Merğınânî’nin (ö.593/1197) Hidâye’sine Zeylaî’nin Nasbu’r-râye ve İbn Hacer’in ed-Dirâye isimli tahricleri.
+4. Râfiî’nin (ö.623/1226) eş-Şerhu’l-kebîr’ine İzz b. Cemâa’nın (ö.767/1366) tahrici. Ayrıca İbnü’l-Mülakkin’in el-Bedru’l-münîr ve İbn Hacer’in et-Telhîsu’l-habîr isimli tahricleri.
+5. Nevevî’nin (ö.676/1277) Minhâc’ı üzerine İbnü’l-Mülakkin’in Tuhfetü’l-muhtâc’ı.
+6. Ğazzâlî’nin (ö.505/1106) Vasît’i üzerine İbnü’l-Mülakkin’in Tezkiratü’l-ahyâr’ı.
+7. Mevsılî’nin (ö.683/1284) İhtiyar’ı üzerine İbn Kutluboğa’nın (ö.879/1474) et-Ta’rîf’i.
+8. Sehnûn’un (ö.240/854) Müdevvene’si üzerine ed-Derdîr’in (ö.1201/1786) tahrici.
+### Âdâb, tasavvuf ve dua kitaplarına yazılan tahricler
+1. Ğazâlî’nin İhyâ’sına Irâkî’nin (ö.806/1403) el-Muğnî’si.
+2. Nevevî’nin el-Ezkâr’ına İbn Hacer’in Netâicü’l-efkâr’ı.
+3. Kâdî İyaz’ın (ö.544/1149) Şifâ’sına Süyûtî’nin Menâhilü’s-safâ’sı.
+### Lügat kitaplarına yazılan tahriclerden
+1. Cevherî’nin (ö.393/1002-3) Sıhâh’ına Süyûtî’nin Felkü’l-ısbâh’ı.
+| Asıl eser | Müellifi | Tahrici | Tahric eden
+| **Keşşâf** (tefsir) | Zemahşerî | Tahrîcü ehâdîsi’l-Keşşâf · el-Kâfi’ş-şâf | Zeylaî · İbn Hacer
+| **Tefsîr** (tefsir) | Beyzâvî | Tuhfetü’r-râvî · el-Fethu’s-semâvî | Münâvî
+| **Mühezzeb** (fıkıh) | Şîrâzî | Tahrîcü ehâdîsi’l-Mühezzeb | Hâzimî
+| **Muhtasar** (fıkıh) | İbnü’l-Hâcib | Tahrîcü ehâdîsi’l-muhtasari’l-kebîr | İbnü’l-Mülakkin · Makdisî
+| **Hidâye** (fıkıh) | Merğınânî | Nasbu’r-râye · ed-Dirâye | Zeylaî · İbn Hacer
+| **eş-Şerhu’l-kebîr** (fıkıh) | Râfiî | el-Bedru’l-münîr · et-Telhîsu’l-habîr | İzz b. Cemâa · İbnü’l-Mülakkin · İbn Hacer
+| **Minhâc** (fıkıh) | Nevevî | Tuhfetü’l-muhtâc | İbnü’l-Mülakkin
+| **Vasît** (fıkıh) | Ğazzâlî | Tezkiratü’l-ahyâr | İbnü’l-Mülakkin
+| **İhtiyar** (fıkıh) | Mevsılî | et-Ta’rîf | İbn Kutluboğa
+| **Müdevvene** (fıkıh) | Sehnûn | — | ed-Derdîr
+| **İhyâ** (âdâb-tasavvuf) | Ğazâlî | el-Muğnî | Irâkî
+| **el-Ezkâr** (dua) | Nevevî | Netâicü’l-efkâr | İbn Hacer
+| **Şifâ** | Kâdî İyaz | Menâhilü’s-safâ | Süyûtî
+| **Sıhâh** (lügat) | Cevherî | Felkü’l-ısbâh | Süyûtî
+* Hidâye’nin (Merğınânî) iki tahrici: Zeylaî’nin Nasbu’r-râye’si ve İbn Hacer’in ed-Dirâye’si.
+* Keşşâf’ın (Zemahşerî) tahricleri: Zeylaî’nin Tahrîcü ehâdîsi’l-Keşşâf’ı ve İbn Hacer’in el-Kâfi’ş-şâf’ı.
+* İhyâ → Irâkî’nin el-Muğnî’si · el-Ezkâr → İbn Hacer’in Netâicü’l-efkâr’ı · Şifâ → Süyûtî’nin Menâhilü’s-safâ’sı · Sıhâh → Süyûtî’nin Felkü’l-ısbâh’ı.
+* İbnü’l-Mülakkin: Muhtasar’a tahric, el-Bedru’l-münîr (eş-Şerhu’l-kebîr), Tuhfetü’l-muhtâc (Minhâc), Tezkiratü’l-ahyâr (Vasît).
+
+## Nasbu’r-Râye li-Ehâdîsi’l-Hidâye
+- Muhammed Abdullah Yusuf ez-Zeylaî (762/1360).
+- Hanefî kitaplarından Ali b. Ebî Bekr el-Merğınânî’nin Hidâye’sinin tahricidir.
+- İbn Hacer el-Askalânî bu yöntemden istifade etmiştir.
+- Türünün en önemli örneklerinden olup eseri farklı kılan özelliklerinin başında Hanefî mezhebinin yanı sıra diğer üç mezhebin delillerini de ihtiva etmesi gelir. Zeylaî, el-Hidâye’deki bir hadisi kaydettikten sonra onu zikreden sahâbî râvileri ve rivayetleri kaynaklarıyla birlikte nakleder. Hanefî mezhebinin delil aldığı hadislerde bir zaaf varsa onu da belirtir. Merğınânî’nin verdiği hadisin metniyle hadis kaynaklarında yer alan metin arasında farklar varsa bu tür rivayetler için “garîb” veya “garîb cidden” tabirini kullanır. Konuyla ilgili merfû hadislerin ardından mevkuf ve maktû rivayetleri nakleder. Bu rivayetler hakkında kendisinden önce yapılan eleştirileri aktarır; kısmen kendi eleştirilerine de yer verir. Daha sonra diğer mezheplerin delillerini ayrıntılı biçimde kaydeder. Geçmiş âlimlerin sözlerini zaman zaman tenkit eder. Hocası İbnü’t-Türkmânî onun en çok eleştirdiği isimlerden biridir.
+!! Râvi tenkidinde gevşek davranması, yer yer çelişkilere düşmesi, kaynaklara atıflarında zühullerinin bulunması ve el-Hidâye’deki hadislerin tamamını tahriç etmemesi Zeylaî’nin eleştirilen yönleridir.
+- Kitabın hadislerinin tahrici fıkıh kitaplarının tertibine göre yapılmıştır. Kitâbü’t-Tahâre ile başlar…
+- Hidâye’nin tertibinde olduğu için bu kitaba müracaat kolaydır.
+- Ahkâm hadislerinin tahricinde dev bir ansiklopedi kabul edilir.
+* Nasbu’r-Râye: Zeylaî (762), Hidâye’nin tahrici. Hanefî’nin yanında diğer üç mezhebin delillerini de verir; farklı metne “garîb / garîb cidden” der; ahkâm hadislerinde dev ansiklopedi.
+* Zeylaî’nin eleştirilen yönleri: râvi tenkidinde gevşeklik, çelişkiler, atıflarda zühul, Hidâye hadislerinin tamamını tahric etmemesi. En çok eleştirdiği isim hocası İbnü’t-Türkmânî.
+
+## ed-Dirâye fî Müntehabi Tahrîci Ehâdîsi’l-Hidâye
+¶ İbn Hacer el-Askalânî’nin eseridir.
+- Zeylaî’nin Nasbu’r-Râye’sinin telhisidir (sadeleştirme + bazı hususları beyan). Zeylaî Merğınânî’nin Hidâye’sindeki hadisleri tahric etmiş, Askalânî de bu eseri telhis etmiştir.
+- Tahricdeki tertibde kitabın aslına riayet etmiştir. Aynı bablara göre tertip etmiştir.
+¶ Bazı önemsiz gördüğü hususları zikretmemiştir. Zira eserinin mukaddimesinde; “bazı dostlar Zeylaî’nin tahricinin pek menfaatli olmadığı ve telhis edilmesi gerektiğini söyleyince, hemen onu telhise koyuldum ve önemsiz bazı hususları çıkararak bu eseri güzel bir şekilde telhis ettim.” sözleri ile bu husus dile getirir.
+- Tahric ilminde ibtidaî derecedeki talebe için kullanımı kolaydır.
+- Önemsiz konu içermez, özlü konulara değinir. Ancak hadis tahricinde asıl olan hadisin tüm tariklerine ulaşmak ve konuyu genişçe izah etmek olduğu için derin araştırmalar için pek yararlı görülmez.
+### Eserden tahric örneği
+¶ Meni hakkında Peygamberimiz (sav) Âişe’ye (r.a.) şöyle buyurdu:
+@ فَاغْسِلِيهِ إِنْ كَانَ رَطْبًا، وَافْرُكِيهِ إِنْ كَانَ يَابِسًا | “Yaş ise yıka, kuru ise ov.”
+¶ Askalânî bu sîga ile hadisi masâdır-ı asliyyede bulamadığını «لَمْ أَجِدْهُ بِهَذِهِ الصِّيغَةِ» sözü ile ifade ettikten sonra:
+- Bezzâr ve Dârekutnî’nin eserlerinde şu tarikle geldiğini zikreder: Âişe’nin (r.a.) şöyle dediğini:
+@ كُنْتُ أَفْرُكُ الْمَنِيَّ مِنْ ثَوْبِ رَسُولِ اللَّهِ إِذَا كَانَ يَابِسًا، وَأَغْسِلُهُ إِذَا كَانَ رَطْبًا
+- Müslim’de başka bir ibare ile:
+@ لَقَدْ رَأَيْتُنِي وَإِنِّي لَأَحُكُّهُ مِنْ ثَوْبِ رَسُولِ اللَّهِ يَابِسًا بِظُفُرِي
+- Ebû Dâvûd’da, Ahmed b. Hanbel’de ve Sahîhayn’da geçtiği sîgaları zikreder.
+- Şâfiî ve Beyhakî’nin Atâ b. Abbas’tan gelen rivayetinin (tükürük ve sümkürme mesabesindedir.) sahih olduklarını zikreder.
+- Beyhakî’nin bu hadise sahih dediğini, Dârekutnî ve Taberî’nin Atâ ve Ebû Leylâ’dan gelen rivayetin merfû olduğunu ifade ederek hadisi tahric etmiştir.
+* ed-Dirâye: İbn Hacer, Nasbu’r-Râye’nin telhisi; Hidâye’nin bablarına göre. Mübtedi talebeye kolay, derin araştırmaya pek yararlı değil.
+* İbn Hacer bir sîgayı bulamayınca «لم أجده بهذه الصيغة» der.
+
+## et-Telhîsu’l-Habîr fî Tahrîci Ehâdîsi Şerhi’l-Vecîzi’l-Kebîr
+¶ İbn Hacer el-Askalânî’nin (852) eseridir.
+- İbn Hacer’in (852) bu eseri, İbnü’l-Mülakkin’in (804) “el-Bedru’l-Münîr fî Tahrîci’l-Ehâdîs ve’l-Âsâri’l-Vâkıati fi’ş-Şerhi’l-Kebîr” isimli eserinin telhisidir.
+! eş-Şerhu’l-Kebîr; Şâfiî fakihlerinden olan er-Râfiî’nin (623), İmam Ğazzâlî’nin (505) el-Vecîz’ini şerh ettiği bir eserdir.
+- Askalânî, bu Şerhu’l-Kebîr isimli eserin beş kişi tarafından şerh edildiğini zikreder.
+! Şerh edenler: İbnü’l-Mülakkin (804), İzzüddin b. Cemâa (767), Bedrüddin b. Cemâa (torun) (819), Abdurrahman b. Nakkaş (845), Zerkeşî (774), Süyûtî (911).
+- İbnü’l-Mülakkin Şerhu’l-Kebîr’i, Bedru’l-Münîr ismi ile yedi cilt olarak şerh etti. Sonra Hulâsatü’l-Bedri’l-Münîr ismi ile dört ciltte telhis etti. Sonra onda mühim bahisleri ayıklayıp bir cüz olarak Müntekâ Hulâsati’l-Bedri’l-Münîr eserini telif etti.
+- İbn Hacer eserin mukaddimesinde hadis tahricini en geniş bir şekilde ele alan eserin Şerhu’l-Kebîr olduğunu, en kısa eserinin de Hulâsatü’l-Bedri’l-Münîr olduğunu ama onun da çokça tekrara yer verdiğini, Müntekâ’sının ise tahricden asıl olan maksatları içermediğini zikrederek bu eserleri eleştirmektedir. Ve yeni bir telhis yapılması gerekliliğini vurgulamaktadır.
+- Eserin mukaddimesinde; yukarıda zikredilen şerhleri (beş kişinin şerhi) incelediğini ve her bir eserde farklı faydalı bilgiler mülahaza ettiğini, kiminin çok uzun kiminin çok kısa ve noksan olduğunu, kendi eserinin ise vâfi ve kâfi olmasını temenni ile bu işe giriştiğini zikreder.
+- Eserde takip edilen yöntem ed-Dirâye’de takip edilen tertibe göredir.
+>> **el-Vecîz:** Ğazzâlî (505)
+>> **eş-Şerhu’l-Kebîr:** Râfiî’nin (623) şerhi
+>> **el-Bedru’l-Münîr:** İbnü’l-Mülakkin’in (804) tahrici, 7 cilt
+>> **Hulâsatü’l-Bedri’l-Münîr:** İbnü’l-Mülakkin’in telhisi, 4 cilt → **Müntekâ:** bir cüz
+>> **et-Telhîsu’l-Habîr:** İbn Hacer’in (852) telhisi
+### Eserden tahric örneği
+¶ Hz. Ali’nin (r.a.) hadisi: İbn Abbas Peygamberimize (sav) ihramdan çıkmazdan evvel sadakanın aciliyeti var mıdır diye sordu, Rasûlullah (sav) da ona ruhsat verdi.
+¶ Bu hadisi verdikten sonra masâdırda hangi eserde nerede geçtiğini verir, muhaddislerin hadis ile ilgili hükümlerini kısaca zikreder. (Bir önceki eserde olduğu gibi hadisleri ayrı ayrı yazmaz.)
+* et-Telhîsu’l-Habîr: İbn Hacer, İbnü’l-Mülakkin’in el-Bedru’l-Münîr’inin telhisi. Zincir: Vecîz (Ğazzâlî) → eş-Şerhu’l-Kebîr (Râfiî) → el-Bedru’l-Münîr (İbnü’l-Mülakkin) → et-Telhîsu’l-Habîr (İbn Hacer).
+* Askalânî’ye göre Şerhu’l-Kebîr’i beş kişi şerh etmiştir; dipnotta sayılanlar: İbnü’l-Mülakkin, İzzüddin b. Cemâa, Bedrüddin b. Cemâa, İbnü’n-Nakkaş, Zerkeşî, Süyûtî.
+
+## el-Muğnî an Hamli’l-Esfâr fi’l-Esfâr
+¶ Irâkî’nin el-Muğnî an Hamli’l-Esfâr fi’l-Esfâr fî Tahrîci mâ fi’l-İhyâ mine’l-Ahbâr’ı.
+- el-Hâfız Zeynüddin Abdurrahman b. Hüseyin el-Irâkî (806).
+- İhyâü Ulûmi’d-Dîn’deki hadisleri tahric etmiştir.
+- Bu eser çok önem arz etmektedir. Çünkü İhyâ’da çokça zayıf ve uydurma rivayetlere yer verilmiştir.
+### Tahricdeki usûlü
+>> Eğer hadis Sahîhayn’de varsa bunlarla iktifa eder.
+>> Eğer yoksa diğer Kütüb-i Sitte eserlerine müracaat eder.
+>> Bunlardan başkasına ihtiyaç olmadıkça müracaat etmez.
+- Eğer Kütüb-i Sitte’de hadisi bulamazsa bazen “lâ asle lehû” der, bazen de “bulamadım” der.
+- Eğer tahrici yaptığı hadis başka bir konuda tekrar zikredilirse orada “bu hadis şu kısımda tahric edildi” demekle yetinir.
+- Tahric ederken; hadisin metninin bir kısmını, sahâbî ravisini ve muharricini zikrettikten sonra hadisin hükmünü beyan eder.
+- Gayet özlü bir eserdir.
+* el-Muğnî: Irâkî (806), İhyâ hadislerinin tahrici. Sıra: Sahîhayn → Kütüb-i Sitte → gerekirse diğerleri. Bulamazsa “lâ asle lehû” ya da “bulamadım” der.

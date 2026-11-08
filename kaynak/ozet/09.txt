@@ -1,0 +1,27 @@
+# Beşinci Yol: Metin ve Sened Hâli · Özet
+> Beşinci fasıl: hadisin senet veya metninin (şüphelenmeden dolayı) incelenmesi yoluyla tahric.
+
+## Beşinci Fasıl: Beşinci Yol
+@ الطَّرِيقَةُ الْخَامِسَةُ: التَّخْرِيجُ عَنْ طَرِيقِ النَّظَرِ فِي حَالِ الْحَدِيثِ مَتْنًا وَسَنَدًا. | Hadisin senet veya metninin (şüphelenmeden dolayı) incelenmesi yoluyla tahric yapmak.
+¶ Bu yolu hadiste bulunan şüpheli bir durum karşısında kullanırız.
+
+## A) Metinden Bakacaksak
+¶ Bu konuda bakılabilecek eserler:
+1. «المصنوع في معرفة الحديث / الموضوعات الصغرى»: hadisin ilk kelimesinden bakılır.
+2. «الأسرار المرفوعة في الأخبار الموضوعة / الموضوعات الكبرى»: hadisin konusundan bakılır. Bu iki kitap da Aliyyü’l-Kârî’ye aittir.
+¶ Eğer bakacağımız hadis “kudsî hadis” ise Abdurrauf el-Münâvî’nin «الإتحافات السنية بالأحاديث القدسية» eserine bakarız.
+
+## B) Senetten Bakacaksak
+¶ Hadiste mürsellik olma durumunda:
+1. Ebû Dâvûd es-Sicistânî ve İbn Ebî Hâtim’in «المراسيل»lerine bakılır.
+2. Zehebî’nin «ميزان الاعتدال» kitabına; ayrıca bu kitaptan ricâle de bakılır, Zehebî zayıf olan râvi ile ilgili görüşünü söyler.
+
+## C) Hem Metin Hem Senet
+¶ Eğer hem metin hem de senedi beraber bakacaksak İbn Ebî Hâtim’in «علل الحديث» kitabına bakarız.
+| Bakılan yön | Eser | Müellif
+| **Metin (ilk kelime)** | «المصنوع في معرفة الحديث» (el-Mevzûâtü’s-suğrâ) | Aliyyü’l-Kârî
+| **Metin (konu)** | «الأسرار المرفوعة في الأخبار الموضوعة» (el-Mevzûâtü’l-kübrâ) | Aliyyü’l-Kârî
+| **Kudsî hadis** | «الإتحافات السنية بالأحاديث القدسية» | Münâvî
+| **Sened (mürsel)** | «المراسيل» | Ebû Dâvûd · İbn Ebî Hâtim
+| **Sened (râvi)** | «ميزان الاعتدال» | Zehebî
+| **Metin ve sened** | «علل الحديث» | İbn Ebî Hâtim

@@ -1,0 +1,146 @@
+# Eser–müellif listesi (eşleştirme oyunu, "… kimin eseridir?" ve "… hangi eseri yazmıştır?" soruları, sözlüğün Eserler sekmesi).
+# Biçim: <ünite no> | <bölüm başlığı (ünite dosyasındaki ## başlıkla aynı)> | <eser> | <müellif> | <not (isteğe bağlı)>
+# Bütün bilgiler ünite metinlerinden alınmıştır. Eser adında virgül kullanılmaz.
+1 | Tahric Usûlünün Tarihî Seyri | Tahrîcü’l-fevâidi’l-müntehabeti’s-sıhâh ve’l-ğarâib | Hatîb el-Bağdâdî | İlk tahric kitaplarından
+2 | En Meşhur Tahric Kitapları | Tahrîcü ehâdîsi’l-Keşşâf | Zeylaî | Zemahşerî’nin Keşşâf’ının tahrici
+2 | En Meşhur Tahric Kitapları | el-Kâfi’ş-şâf | İbn Hacer | Keşşâf’ın tahrici
+2 | En Meşhur Tahric Kitapları | Tuhfetü’r-râvî | Münâvî | Beyzâvî Tefsîri’nin tahrici
+2 | En Meşhur Tahric Kitapları | Tahrîcü ehâdîsi’l-Mühezzeb | Hâzimî | Şîrâzî’nin Mühezzeb’inin tahrici
+2 | En Meşhur Tahric Kitapları | Tuhfetü’l-muhtâc | İbnü’l-Mülakkin | Nevevî’nin Minhâc’ının tahrici
+2 | En Meşhur Tahric Kitapları | Tezkiratü’l-ahyâr | İbnü’l-Mülakkin | Ğazzâlî’nin Vasît’inin tahrici
+2 | En Meşhur Tahric Kitapları | et-Ta’rîf | İbn Kutluboğa | Mevsılî’nin İhtiyar’ının tahrici
+2 | En Meşhur Tahric Kitapları | Netâicü’l-efkâr | İbn Hacer | Nevevî’nin el-Ezkâr’ının tahrici
+2 | En Meşhur Tahric Kitapları | Menâhilü’s-safâ | Süyûtî | Kâdî İyaz’ın Şifâ’sının tahrici
+2 | En Meşhur Tahric Kitapları | Felkü’l-ısbâh | Süyûtî | Cevherî’nin Sıhâh’ının tahrici
+2 | Nasbu’r-Râye li-Ehâdîsi’l-Hidâye | Nasbu’r-Râye | Zeylaî | Merğınânî’nin Hidâye’sinin tahrici
+2 | ed-Dirâye fî Müntehabi Tahrîci Ehâdîsi’l-Hidâye | ed-Dirâye | İbn Hacer | Nasbu’r-Râye’nin telhisi
+2 | et-Telhîsu’l-Habîr fî Tahrîci Ehâdîsi Şerhi’l-Vecîzi’l-Kebîr | et-Telhîsu’l-Habîr | İbn Hacer | el-Bedru’l-Münîr’in telhisi
+2 | et-Telhîsu’l-Habîr fî Tahrîci Ehâdîsi Şerhi’l-Vecîzi’l-Kebîr | el-Bedru’l-Münîr | İbnü’l-Mülakkin | eş-Şerhu’l-Kebîr’in tahrici
+2 | et-Telhîsu’l-Habîr fî Tahrîci Ehâdîsi Şerhi’l-Vecîzi’l-Kebîr | eş-Şerhu’l-Kebîr | Râfiî | Ğazzâlî’nin el-Vecîz’inin şerhi
+2 | el-Muğnî an Hamli’l-Esfâr fi’l-Esfâr | el-Muğnî an Hamli’l-Esfâr | Irâkî | İhyâ hadislerinin tahrici
+3 | Müsnedler (el-Mesânîd) | er-Risâletü’l-müstatrafe | Kettânî | 82 müsned ismi zikreder
+3 | Müsnedler (el-Mesânîd) | el-Bahru’z-zehhâr | Bezzâr | Müsned
+3 | Ahmed b. Hanbel’in Müsned’i | el-Fethu’r-Rabbânî | Ahmed Abdurrahman el-Bennâ es-Sââtî | Müsned’in konularına göre tertibi
+3 | Taberânî’nin Üç Mu’cemi | el-Mu’cemü’l-kebîr | Taberânî | 60.000 hadis
+3 | Mu’cemler (el-Meâcim) | Mu’cemü’s-sahâbe | İbn Lâl el-Hemedânî
+3 | Etrâf Kitapları | el-İşrâf alâ ma’rifeti’l-eşrâf | İbn Asâkir
+3 | Etrâf Kitapları | İthâfü’l-mehere bi etrâfi’l-aşere | İbn Hacer | 10 kitabın etrâfı
+3 | Etrâf Kitapları | Etrâfü’l-mesânîdi’l-aşere | Bûsırî | 10 müsnedin etrâfı
+3 | Tuhfetü’l-Eşrâf bi Ma’rifeti’l-Etrâf | Tuhfetü’l-Eşrâf | Mizzî | Kütüb-i Sitte etrâfı
+3 | Zehâiru’l-Mevârîs fi’d-Delâle alâ Mevâzıi’l-Hadîs | Zehâiru’l-Mevârîs | Nablusî | Kütüb-i Sitte ve Muvatta’ etrâfı
+4 | Halk Dilinde Meşhur Hadis Kitapları | et-Tezkira fi’l-ehâdîsi’l-müştehira | Zerkeşî | 234 rivâyet
+4 | Halk Dilinde Meşhur Hadis Kitapları | ed-Dürerü’l-münteşira | Süyûtî | 299 rivâyet
+4 | Halk Dilinde Meşhur Hadis Kitapları | el-Leâli’l-mensûra | İbn Hacer
+4 | Halk Dilinde Meşhur Hadis Kitapları | el-Bedru’l-münîr fî ğarîbi ehâdîsi’l-beşîri’n-nezîr | Şa’rânî
+4 | Halk Dilinde Meşhur Hadis Kitapları | Teshîlü’s-sebîl | el-Halîlî
+4 | Halk Dilinde Meşhur Hadis Kitapları | İtkânu mâ yahsünu | Necmüddin el-Ğazzî | Zerkeşî, Süyûtî ve Sehâvî’yi birleştirir
+4 | Halk Dilinde Meşhur Hadis Kitapları | eş-Şezera fi’l-ehâdîsi’l-müştehira | İbn Tûlûn
+4 | Halk Dilinde Meşhur Hadis Kitapları | en-Nevâfihü’l-atira | İbn Cârullah el-Yemenî
+4 | Halk Dilinde Meşhur Hadis Kitapları | el-Muhtasar ale’l-Makâsıd | Zürkânî
+4 | el-Makâsıdü’l-Hasene | el-Makâsıdü’l-hasene | Sehâvî | 1356 rivâyet
+4 | el-Makâsıdü’l-Hasene | el-Vesâilü’s-Seniyye | el-Menûfî | el-Makâsıd’ın özeti
+4 | Temyîzü’t-Tayyib | Temyîzü’t-tayyib mine’l-habîs | İbnü’d-Deyba’ eş-Şeybânî | el-Makâsıd’ın özeti
+4 | Keşfü’l-Hafâ | Keşfü’l-hafâ | Aclûnî | 3280 rivâyet
+4 | Esne’l-Metâlib | Esne’l-metâlib | el-Hût el-Beyrûtî
+4 | el-Câmiu’s-Sağîr | el-Câmiu’s-sağîr | Süyûtî | 10.031 rivâyet
+4 | Rivâyetleri Alfabetik Düzenlenmiş Eserler | el-Câmiu’l-kebîr | Süyûtî | 20141 hadis
+4 | Rivâyetleri Alfabetik Düzenlenmiş Eserler | el-Fethu’l-Kebîr | Yusuf en-Nebhânî | Câmiu’s-sağîr ve ez-Ziyâde’yi birleştirir
+4 | el-Câmiu’s-Sağîr | Feyzü’l-kadîr | Münâvî | Câmiu’s-sağîr şerhi
+4 | Miftâhu’s-Sahîhayn | Miftâhu’s-Sahîhayn | Tokâdî | Buhârî ve Müslim fihristi
+4 | Miftâhu’t-Tertîb ve el-Buğye | Miftâhu’t-Tertîb li-ehâdîsi Târîhi’l-Hatîb | Seyyid Ahmed el-Gumârî | Hatîb’in Târîh’inin fihristi
+4 | Miftâhu’t-Tertîb ve el-Buğye | el-Buğye fî tertîbi ehâdîsi’l-Hilye | Seyyid Abdülaziz el-Gumârî | Hilye’nin fihristi
+4 | Muhammed Fuad Abdülbâkî’nin Fihristleri | Miftâhun li-ehâdîsi Muvatta’ Mâlik | Muhammed Fuad Abdülbâkî | Muvatta’ fihristi
+5 | Üçüncü Yol ve Concordance | el-Mu’cemü’l-müfehres li-elfâzi’l-hadîsi’n-nebevî | Wensinck ve diğer müsteşrikler | Concordance
+6 | Miftâhu Künûzi’s-Sünne | Miftâhu Künûzi’s-Sünne | Wensinck | Arapçaya çeviren Fuad Abdülbâkî
+6 | Câmi’ler Üzerine Yazılmış Müstahrecler | Müstahrec (Müslim üzerine) | Ebû Avâne el-İsferâyînî | 8.718 rivâyet
+6 | Hâkim’in el-Müstedrek ale’s-Sahîhayn’i | el-Müstedrek ale’s-Sahîhayn | Hâkim en-Neysâbûrî | 8803 rivâyet
+6 | Hâkim’in el-Müstedrek ale’s-Sahîhayn’i | Telhîsü’l-Müstedrek | Zehebî
+6 | Mecma’lar (el-Mecâmî’) | Meşâriku’l-envâri’n-nebeviyye | Sâğânî | Sahîhayn mecma’ı
+6 | Mecma’lar (el-Mecâmî’) | el-Cem’u beyne’s-Sahîhayn | Humeydî | Sahîhayn mecma’ı
+6 | Mecma’lar (el-Mecâmî’) | et-Tecrîd li’s-sıhâh ve’s-sünen | Rezîn b. Muâviye | İbn Mâce yerine Muvatta’
+6 | Mecma’lar (el-Mecâmî’) | Câmiu’l-usûl fî ehâdîsi’r-Resûl | İbnü’l-Esîr | Usûl-i sitte
+6 | Mecma’lar (el-Mecâmî’) | Teysîru’l-vusûl | İbnü’d-Deyba’ | Câmiu’l-usûl’ün özeti
+6 | Mecma’lar (el-Mecâmî’) | Cem’u’l-fevâid | er-Rudânî | 14 hadis kitabı
+6 | Zevâidler | Misbâhu’z-zücâce | Bûsırî | İbn Mâce zevâidi
+6 | Zevâidler | Fevâidü’l-müntekâ | Bûsırî | Beyhakî zevâidi
+6 | Zevâidler | el-Metâlibü’l-âliye | İbn Hacer | 8 müsnedin zevâidi
+6 | Zevâidler | Mecmau’z-zevâid | Heysemî | Ahmed, Ebû Ya’lâ, Bezzâr ve Taberânî zevâidi
+7 | Muvatta’lar | Muvatta’ | İmam Mâlik
+7 | İkinci Kısım Üzerine Müstahrecler | Müstahrec (Sünen-i Ebû Dâvûd üzerine) | Kâsım b. Esbağ
+8 | Cüzler (el-Eczâ’) | Cüz’ü mâ ravâhu Ebû Hanîfe ani’s-sahâbe | Samed et-Taberî
+8 | Cüzler (el-Eczâ’) | Cüz’ü ref’i’l-yedeyn fi’s-salâh | Buhârî
+8 | et-Terğîb ve’t-Terhîb | et-Terğîb ve’t-Terhîb (en meşhuru) | Münzirî
+8 | Zühd, Fezâil, Âdâb ve Ahlak | Kitâbu zemmi’l-gıybe | İbn Ebi’d-Dünyâ
+8 | Zühd, Fezâil, Âdâb ve Ahlak | Kitâbu ahlâki’n-nebî | Ebü’ş-Şeyh el-İsfahânî
+8 | Zühd, Fezâil, Âdâb ve Ahlak | Kitâbü’z-zühd ve’r-rekâik | Abdullah b. Mübârek
+8 | Zühd, Fezâil, Âdâb ve Ahlak | Kitâbu’z-zikr ve’d-duâ | Ebû Yusuf
+8 | Zühd, Fezâil, Âdâb ve Ahlak | Kitâbu fezâili’l-Kur’ân | Şâfiî
+8 | Zühd, Fezâil, Âdâb ve Ahlak | Riyâzü’s-sâlihîn | Nevevî
+8 | Ahkâm Kitapları | el-Ahkâmü’l-kübrâ | Abdülhak el-İşbîlî
+8 | Ahkâm Kitapları | Umdetü’l-ahkâm | Abdülğanî el-Makdisî
+8 | Ahkâm Kitapları | el-İlmâm bi-ehâdîsi’l-ahkâm | İbn Dakîk
+8 | Ahkâm Kitapları | el-Müntekâ fi’l-ahkâm | Abdüsselâm b. Teymiyye el-Harrânî
+8 | Ahkâm Kitapları | Neylü’l-evtâr | Şevkânî | el-Müntekâ’nın şerhi
+8 | Ahkâm Kitapları | Bulûğu’l-merâm | İbn Hacer
+8 | Ahkâm Kitapları | Sübülü’s-selâm | Emîr San’ânî | Bulûğu’l-merâm’ın şerhi
+8 | Ahkâm Kitapları | el-İ’lâm bi-fevâidi Umdeti’l-ahkâm | İbnü’l-Mülakkin
+8 | Bazı Müstakil Konular | Kitâbü’l-ihlâs | İbn Ebi’d-Dünyâ
+8 | Bazı Müstakil Konular | Kitâbü’l-esmâ ve’s-sıfât | Beyhakî
+8 | Bazı Müstakil Konular | Kitâbu zemmi’l-kelâm | Herevî
+8 | Bazı Müstakil Konular | Kitâbü’l-fiten ve’l-melâhim | Nuaym b. Hammâd
+8 | Bazı Müstakil Konular | Kitâbü’l-cihâd | Abdullah b. Mübârek | Cihad konusundaki ilk eser
+8 | Hadis Kitapları Dışındaki Çalışmalar | Câmiu’l-beyân | Taberî
+8 | Hadis Kitapları Dışındaki Çalışmalar | Tefsîru’l-Kur’âni’l-azîm | İbn Kesîr
+8 | Hadis Kitapları Dışındaki Çalışmalar | ed-Dürrü’l-mensûr | Süyûtî
+8 | Hadis Kitapları Dışındaki Çalışmalar | el-Mecmû’ | Nevevî | el-Mühezzeb’in şerhi
+8 | Hadis Kitapları Dışındaki Çalışmalar | el-Muğnî (Hanbelî fıkhı) | İbn Kudâme | Hırakî’nin Muhtasar’ının şerhi
+8 | Hadis Şerhleri ve Ta’likler | Fethü’l-bârî | İbn Hacer | Buhârî şerhi
+8 | Hadis Şerhleri ve Ta’likler | Umdetü’l-kârî | Aynî | Buhârî şerhi
+8 | Hadis Şerhleri ve Ta’likler | İthâfü’s-sâdeti’l-müttakîn | Murtazâ ez-Zebîdî | İhyâ şerhi
+8 | Hadis Şerhleri ve Ta’likler | Fethu’l-kadîr | İbnü’l-Hümâm | Hidâye şerhi
+9 | Metin Bakımından | el-Masnû’ (el-Mevzûâtü’s-suğrâ) | Ali el-Kârî | Mevzûât, alfabetik
+9 | Metin Bakımından | Tenzîhü’ş-şerîa | İbn Arrâk el-Kinânî | Mevzûât, konulara göre
+9 | Metin Bakımından | Mişkâtü’l-envâr | Muhyiddin İbnü’l-Arabî | Kudsî hadis
+9 | Metin Bakımından | el-İthâfâtü’s-seniyye bi’l-ehâdîsi’l-kudsiyye | Münâvî | Kudsî hadis
+9 | Sened Bakımından | Rivâyetü’l-âbâ’ ani’l-ebnâ’ | Hatîb el-Bağdâdî | İsnad latîfesi
+9 | Sened Bakımından | el-Müselselâtü’l-kübrâ | Süyûtî | Müselsel
+9 | Sened Bakımından | el-Menâhilü’s-selsele | Muhammed b. Abdülbâkî el-Eyyûbî | Müselsel
+9 | Sened Bakımından | el-Merâsil (konularına göre) | Ebû Dâvûd | Mürsel
+9 | Sened Bakımından | Kitâbü’l-merâsil | İbn Ebî Hâtim | Mürsel
+9 | Sened Bakımından | Mîzânü’l-i’tidâl | Zehebî | Zayıf râvi
+9 | Hem Sened Hem Metin Açısından | İlelü’l-hadîs | İbn Ebî Hâtim | İllet
+9 | Hem Sened Hem Metin Açısından | el-Esmâü’l-mübheme | Hatîb el-Bağdâdî | Mübhem isimler
+9 | Hem Sened Hem Metin Açısından | el-Müstefâd min mübhemâti’l-metn ve’l-isnâd | Ebû Zür’a el-Irâkî | Mübhemler
+10 | Cerh ve Ta’dîl Lafızlarının Mertebeleri | el-Cerh ve’t-ta’dîl | İbn Ebî Hâtim | Lafızları 4’er gruba ayırır
+11 | Sahâbeye Dair Eserler | el-İstîâb fî ma’rifeti’l-ashâb | İbn Abdilberr | 3500 sahâbe
+11 | Sahâbeye Dair Eserler | Üsdü’l-ğâbe | İbnü’l-Esîr | 7554 sahâbe
+11 | Sahâbeye Dair Eserler | el-İsâbe fî temyîzi’s-sahâbe | İbn Hacer | 12267 biyografi
+11 | Tabakât Kitapları | et-Tabakâtü’l-kübrâ | İbn Sa’d | 8 cilt
+11 | Tabakât Kitapları | Tezkiratü’l-huffâz | Zehebî | 1176 hâfız, 21 tabaka
+11 | Tabakât Kitapları | Tabakâtü’l-Kurrâ | Ebû Amr ed-Dânî
+11 | Tabakât Kitapları | Tabakâtü’ş-Şâfiiyye | Sübkî
+11 | Râvilerin Geneline Ayrılmış Kitaplar | et-Târîhu’l-kebîr | Buhârî | 12315 biyografi
+11 | Hususî Hadis Kitaplarının Ricâli | el-Hidâye ve’l-İrşâd | Kelâbâzî | Buhârî ricâli
+11 | Hususî Hadis Kitaplarının Ricâli | Ricâlü Sahîhi Müslim | Ebû Bekr el-İsfahânî | Müslim ricâli
+11 | Hususî Hadis Kitaplarının Ricâli | el-Cem’u beyne’s-Sahîhayn (ricâl) | İbnü’l-Kayserânî | Kelâbâzî ve İsfahânî’yi birleştirir
+11 | Hususî Hadis Kitaplarının Ricâli | et-Ta’rîf bi-Ricâli’l-Muvatta’ | Muhammed Yahya el-Huzâî | Muvatta’ ricâli
+11 | el-Kemâl ve Tehzîbü’l-Kemâl | el-Kemâl fî esmâi’r-ricâl | Abdülğanî el-Makdisî | Kütüb-i Sitte ricâlinin ilk eseri
+11 | el-Kemâl ve Tehzîbü’l-Kemâl | Tehzîbü’l-Kemâl | Mizzî
+11 | el-Kemâl ve Tehzîbü’l-Kemâl | İkmâlü Tehzîbi’l-Kemâl | Moğoltay | Tehzîbü’l-Kemâl’e zeyl
+11 | Zehebî’nin Tezhîbü’t-Tehzîb’i ve el-Kâşif’i | Tezhîbü’t-Tehzîb | Zehebî
+11 | Zehebî’nin Tezhîbü’t-Tehzîb’i ve el-Kâşif’i | el-Kâşif | Zehebî
+11 | İbn Hacer’in Tehzîbü’t-Tehzîb’i | Tehzîbü’t-Tehzîb | İbn Hacer
+11 | Takrîbü’t-Tehzîb | Takrîbü’t-Tehzîb | İbn Hacer
+11 | Hulâsatü Tezhîbi Tehzîbi’l-Kemâl | Hulâsatü Tezhîbi Tehzîbi’l-Kemâl | Hazrecî
+11 | Diğer Ricâl Eserleri | et-Tezkira bi-Ricâli’l-Aşera | el-Hüseynî ed-Dımaşkî
+11 | Diğer Ricâl Eserleri | Ta’cîlü’l-Menfaa | İbn Hacer
+11 | Diğer Ricâl Eserleri | Kitâbü’s-Sikât (tabakalara göre) | İbn Hibbân
+11 | Diğer Ricâl Eserleri | Kitâbü’s-Sikât | İclî
+11 | Diğer Ricâl Eserleri | Târîhu Esmâi’s-Sikât | İbn Şâhîn
+11 | Diğer Ricâl Eserleri | ed-Duafâü’l-Kebîr | Buhârî
+11 | Diğer Ricâl Eserleri | Kitâbü’d-Duafâ | Nesâî
+11 | Diğer Ricâl Eserleri | Ma’rifetü’l-Mecrûhîn | İbn Hibbân
+11 | Diğer Ricâl Eserleri | el-Kâmil fî Duafâi’r-Ricâl | İbn Adî
+11 | Diğer Ricâl Eserleri | Lisânü’l-Mîzân | İbn Hacer
+11 | Diğer Ricâl Eserleri | Târîhu Bağdâd | Hatîb el-Bağdâdî
+11 | Diğer Ricâl Eserleri | Zikru Ahbâri İsbahân | Ebû Nuaym el-İsbahânî

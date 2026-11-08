@@ -1,0 +1,37 @@
+# Birinci Yol: Sahâbî Râvi · Özet
+> Birinci bâb: tahric yolları. Birinci fasıl: sahâbeden hadisin râvisini bilme yoluyla tahric; müsnedler, mu’cemler ve etrâf kitapları.
+
+## Tahric Yolları
+¶ Birinci bâb. Tahric yolları; 5 yol vardır:
+@ الطَّرِيقَةُ الْأُولَى: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ رَاوِي الْحَدِيثِ مِنَ الصَّحَابَةِ. | 1. Yol: Sahâbeden hadisin râvisini bilme yoluyla tahric yapmak.
+@ الطَّرِيقَةُ الثَّانِيَةُ: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ أَوَّلِ لَفْظٍ مِنْ مَتْنِ الْحَدِيثِ. | 2. Yol: Hadisin metninden ilk lafzı bilme yoluyla tahric yapmak.
+@ الطَّرِيقَةُ الثَّالِثَةُ: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ كَلِمَةٍ يَقِلُّ دَوَرَانُهَا عَلَى الْأَلْسِنَةِ مِنْ أَيِّ جُزْءٍ مِنْ مَتْنِ الْحَدِيثِ. | 3. Yol: Hadisin metninin herhangi bir yerinden, dillerde az dolaşan bir kelimeyi bilme yoluyla tahric yapmak.
+@ الطَّرِيقَةُ الرَّابِعَةُ: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ مَوْضُوعِ الْحَدِيثِ. | 4. Yol: Hadisin konusunu bilme yoluyla tahric yapmak.
+@ الطَّرِيقَةُ الْخَامِسَةُ: التَّخْرِيجُ عَنْ طَرِيقِ النَّظَرِ فِي حَالِ الْحَدِيثِ مَتْنًا وَسَنَدًا. | 5. Yol: Hadisin senet veya metninin (şüphelenmeden dolayı) incelenmesi yoluyla tahric yapmak.
+
+## Birinci Fasıl: Birinci Yol
+@ الطَّرِيقَةُ الْأُولَى: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ رَاوِي الْحَدِيثِ مِنَ الصَّحَابَةِ. | Sahâbeden hadisin râvisini bilme yoluyla tahric yapmak.
+¶ Tahric yapılacak hadiste sahâbe ismi zikredilmiş ise bu yola başvurulur. Sahâbe ismi yoksa bu kısım tahric için uygun değildir. Eğer sahâbe ismi mezkûr ise ya da herhangi bir yolla sahâbîsine ulaşılmış ise biz üç kısım musannefâttan yararlanabiliriz:
+1. Mesânîd
+2. Meâcim
+3. Kütübü’l-Etrâf
+
+## Müsnedler
+: Müsned = Müelliflerin sahâbe ismine göre yazmış olduğu eserlerdir.
+### En meşhur örnekleri
+1. **Humeydî h.219’un Müsned’i:** 11 ciltten oluşur, 1300 hadis içerir. Sahâbe ismine göre yazılmıştır lakin alfabetik değildir; ilk önce Hz. Ebûbekir, sonra Hulefâ-i Râşidîn, sonra Aşere-i Mübeşşere (Talha b. Ubeydullah hariç), sonra Ümmehâtü’l-Mü’minîn, sonra geri kalan sahâbeler, sonra Ensar’ın ricâlini, sonra sahâbeye isnad edilenleri özel bir sıralama olmaksızın zikreder.
+2. **İmam Ahmed b. Hanbel’in Müsned’i:** Ahmed b. Hanbel h.241’e ait olan bu eser yaklaşık 40 bin hadis içerir, sahâbe ismine göre tertib edilmiştir ve hadislerin konusu itibara alınmamıştır, harf sırası yoktur; efdaliyyet, beldeler ve kabileleri esas alarak bir tertip yapmıştır. Burada da sıra önce Hz. Ebûbekir ve Hulefâ-i Râşidîn, sonra Aşere-i Mübeşşere, sonra Abdurrahman b. Ebîbekir, sonra sahâbeden üçünün üç hadisi, sonra Ehl-i Beyt’e isnad edilenler, sonuna kadar zikreder; son olarak da Şeddâd b. el-Hâd (r.a.) ile bitirir.
+!! Humeydî ile Ahmed b. Hanbel’in müsnedleri arasındaki fark: Humeydî daha derli topludur. Şöyle ki bir sahâbeyi zikretti mi altında bütün hadislerini zikreder, lakin İbn Hanbel farklı yerlerde aynı sahâbeden hadis rivayet eder.
+
+## Mu’cemler ve Etrâf Kitapları
+: el-Meâcim = Müelliflerin sahâbe isimlerini alfabetik olarak yazdıkları eserdir.
+¶ Mu’cemlerin müsnedlerden farkı alfabetik olmalarıdır.
+¶ **Taberânî:** 1. el-Mu’cemü’l-Kebîr (mutlak olarak mu’cem denilince bu kitap anlaşılır), 2. el-Mu’cemü’l-Evsat, 3. el-Mu’cemü’s-Sağîr.
+: Kütübü’l-Etrâf = Hadisin önemli bir parçası esas alınarak yazılan eserlerdir. Bu çok kere hadisin başı olur ama orta veya sonundan bir parça da olabilir.
+¶ Etrâf kitapları kaynak kitap değildir. Sahâbe ismine göre ve alfabetik olarak tertip edilmiştir.
+¶ Hadisin bilinen bir kısmı verilir, daha sonra bu hadisin geçtiği kitaplar zikredilir.
+@ عَنْ عَائِشَةَ: كُلُّكُمْ رَاعٍ... خ، م، د | Mesela bu şekilde hadisin râvisini ve bir kısmını ve de hangi kitaplarda geçtiğini verir.
+¶ Sonra da «رواه البخاري: ... به» ve «رواه مسلم: ... نحوه» gibi lafızlarla hadisin rivayetini açıklar.
+- “Tuhfetü’l-Eşrâf” («تحفة الأشراف»): Mizzî, Kütüb-i Sitte’nin hadislerini esas alır.
+- “Zehâiru’l-Mevârîs” («ذخائر المواريث»): Abdülğanî Nâbulsî, Kütüb-i Sitte ve Muvatta’nın hadislerini esas alır.
+! (Kırmızı kalemle kenar notu) Vâsıtî ve Dımeşkî = «أطراف الصحيحين».

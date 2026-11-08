@@ -1,0 +1,41 @@
+# İkinci Yol: Metnin İlk Lafzı · Özet
+> İkinci fasıl: hadisin metninden ilk lafzı bilme yoluyla tahric; halk arasında meşhur hadis kitapları, ilk kelimelere göre alfabetik eserler ve fihristler.
+
+## İkinci Fasıl: İkinci Yol
+@ الطَّرِيقَةُ الثَّانِيَةُ: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ أَوَّلِ لَفْظٍ مِنْ مَتْنِ الْحَدِيثِ. | Hadisin metninden ilk lafzı bilme yoluyla tahric yapmak.
+¶ Bu yolda başvuracağımız kitaplar 3 şekil üzere yazılmıştır:
+1. Halk arasında meşhur olan hadislerin yer aldığı kitaplar.
+2. Hadislerin ilk kelimelerine göre alfabetik yazılmış eserler.
+3. Fihristler.
+
+## Halk Arasında Meşhur Olan Hadislerin Yer Aldığı Kitaplar
+¶ Mesela: «ثلاث من كن»، «حب الوطن من الإيمان» hadisi gibi.
+@ ١- الدُّرَرُ الْمُنْتَثِرَةُ فِي الْأَحَادِيثِ الْمُشْتَهِرَةِ لِجَلَالِ الدِّينِ السُّيُوطِيِّ، ٩١١ هـ
+@ ٢- اللَّآلِئُ الْمَنْثُورَةُ فِي الْأَحَادِيثِ الْمَشْهُورَةِ لِابْنِ حَجَرٍ، ٨٥٢ هـ
+@ ٣- الْمَقَاصِدُ الْحَسَنَةُ فِي بَيَانِ كَثِيرٍ مِنَ الْأَحَادِيثِ الْمُشْتَهِرَةِ عَلَى الْأَلْسِنَةِ لِمُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ السَّخَاوِيِّ، ٩٠٢ هـ
+¶ Bu kitap “Makâsıdü’l-hasene” bu konuda yazılan ilk kitaptır. Bu kitabı iki kişi ihtisar ederek eser yazmış:
+@ أ- تَمْيِيزُ الطَّيِّبِ مِنَ الْخَبِيثِ لِلشَّيْبَانِيِّ، ٩٤٤ هـ / الشَّيْبَانِيُّ هُوَ تِلْمِيذُ السَّخَاوِيِّ
+@ ب- كَشْفُ الْخَفَاءِ لِلْعَجْلُونِيِّ، ١١٦٢ هـ | “el-Makâsıdü’l-Hasene”nin çok mükemmel bir özetidir.
+@ ٤- أَسْنَى الْمَطَالِبِ فِي أَحَادِيثَ مُخْتَلِفَةِ الْمَرَاتِبِ لِمُحَمَّدِ بْنِ دَرْوِيشٍ، ١٢٧٦ هـ | “el-Makâsıdü’l-Hasene” ve “Temyîzü’t-Tayyib”in özeti olarak yazılmıştır.
+! Bu alanın olmazsa olmaz kitabı “Keşfü’l-Hafâ”dır. Aclûnî Keşfü’l-Hafâ’yı yazarken el-Makâsıdü’l-Hasene’yi ihtisar ederken 1., 2. ve 3. kaynaklardan yararlanmıştır. Yani Aclûnî kitabını yazarken hem Süyûtî hem İbn Hacer hem de Sehâvî’den yararlanmıştır. Kitabında “kâle Süyûtî” derse 1. kitap anlaşılır, “kâle İbn Hacer” derse 2. kitap anlaşılır, “kâle fi’l-Feth” derse Fethu’l-Bârî anlaşılır vs.
+!! **Bir hadis Keşfü’l-Hafâ’da yer alıyor diye mevzu olmaz**, zira bu kitap halk arasında meşhur olan hadisleri ele almıştır. Mevzu da olabilir, olmayabilir de; zayıf olur, hasen olur, sahih olur.
+¶ Bu kitaplar senedi olmayan ve hadis kaynaklarında bulunmayan hadislere «لا أصل له» derler. Mevzu demiyorlar; “**mevzu**” diyebilmek için râvinin yalancılığı bilinmesi lazım. Hadis olmayan sözlere de «ليس بحديث» derler. Bazen «موضوع» der, zındıklar uydurdu derler.
+¶ “Lâ asle leh” ile “leyse bi-hadîsin” ve “mevzudur” sözü arasında fark vardır. “Mevzudur” dediği zaman hadisin kim tarafından uydurulduğunu belirtir. “Leyse bi-hadîsin” dediğinde mesela söz, yani ya hikmetli sözlerden ya sahâbe sözü ya da ulemadan birinin sözüdür diye belirtir. “Lâ asle leh” dediğinde ise ben senedini bulamadım diyor; yani ne hadis olduğuna ne de hadis olmadığına delil yok demektir.
+| İfade | Anlamı
+| «لا أصل له» | Senedini bulamadım; ne hadis olduğuna ne de olmadığına delil yok
+| «ليس بحديث» | Hadis değil; hikmetli söz, sahâbe sözü ya da ulemadan birinin sözü
+| «موضوع» | Uydurmadır; kim tarafından uydurulduğu belirtilir
+
+## Hadislerin İlk Kelimelerine Göre Alfabetik Yazılmış Eserler
+¶ Bu şekilde yazılmış eser bilmiyorum diyor Tahhân hoca; lakin müteahhirûn bazı âlimler sayılı eserlerden senetlerini hazfedip hadisin metnini alfabetik şekilde tertip etmişler. Bunların en meşhuru:
+1. «الجامع الصغير من حديث البشير النذير للسيوطي ٩١١ هـ»: “Cem’u’l-Cevâmi’” kitabından yazmış, senetleri hazfetmiş, hadisi tasnif edeni (Buhârî, Müslim vd.) belirtmek için rumuz kullanmış, sonra rumuzlarla hadisin derecesini belirtmiş. 3 rumuz var: «ض» zayıf, «ح» hasen, «صح» sahih demektir.
+! Süyûtî mütesâhil olduğu için hadisin derecesi için söylediğini, şerhi “Feyzü’l-Kadîr” olan Allâme Abdurrauf el-Münâvî’nin kitabındaki derecesine baktıktan sonra derecesi hakkında kesin bilgi edinebiliriz.
+2. Süyûtî’nin “Câmiu’l-Kebîr”i de bu konuda yazılmış ikinci eserdir. Süyûtî bu eserini o zamana ulaşmış bütün hadisleri toplama amacıyla yazmıştır.
+3. Süyûtî’nin “ez-Ziyâde alâ Kitâbi’l-Câmii’s-Sağîr” eseridir.
+4. Yusuf en-Nebhânî’nin “el-Fethu’l-Kebîr”i: “Câmiu’s-Sağîr” ile “ez-Ziyâde alâ Câmii’s-Sağîr”i birleştirerek alfabetik olarak sıralamış ve hadisin sıhhatini belirten rumuzları silerek yazmıştır.
+
+## Fihristler
+¶ Hadisin ilk kelimesini biliyorsak bakabiliriz.
+@ ١- مِفْتَاحُ الصَّحِيحَيْنِ لِلتَّوْقَادِيِّ | Tokatlı
+¶ Bu kitap: Buhârî ve Müslim’de geçen hadislerin ilk kelimesini biliyorsak bu kitaba bakıyoruz. Aynı zamanda hadisin hangi şerhte geçtiğini (Kastallânî, Askalânî, Aynî, Buhârî) de belirtiyor. Müslim’deki hadisin yerini belirtirken de Nevevî’deki yerini de belirtiyor.
+! Bu kitaptan yararlanırken hangi baskıyı esas aldığını belirtmiş; oradan hangi baskıdan bakmamız gerektiğine bakmalıyız. Yoksa biraz zor buluruz hadisi.

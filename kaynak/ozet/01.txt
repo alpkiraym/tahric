@@ -1,0 +1,22 @@
+# Tahrice Giriş · Özet
+> Şunları içerir: tahricin tarifi; tahricin ehemmiyeti, faidesi ve ona olan ihtiyaç; tahricin tarihinden bir nebze; meşhur tahric kitapları, bazılarının tanıtımı, yazarlarından bir nebze.
+
+## Tahricin Tanımı
+: Tahric (lügat) = İki zıttın bir şeyde toplanmasına denir, ayrıca “istinbat” ve “tevcih” manalarına da gelir.
+¶ Hadisçilere göre tahric; ihrac («الإخراج») manasına kullanılır; insanlara hadisin mahracını ibraz etmektir, hadisin ve râvilerinin kitaplardan çıkarılmasına kullanılır, hadisin aslî kaynağına delalet için kullanılır.
+: Tahric (ıstılah) = Hadisi senediyle çıkaran aslî kaynağına delalet ve sıhhat derecesini beyan etmektir.
+¶ Tanımdan şu iki şey anlaşılır:
+1. Aslî kaynaklardaki yeri.
+2. Sıhhat derecesi.
+### Hadisin aslî kaynaklarından murat
+1. Efendimize isnadla şeyhlerinden telakki yoluyla telif edilen eserler: “Kütüb-i Sitte, Muvatta’, Müsned-i Ahmed, Müstedrek-i Hâkim” gibi.
+2. Bu kitaplara tabi olarak, etrâf olarak, muhtasar olarak yazılan eserler: el-Humeydî’nin el-Cem’u beyne’s-Sahîhayn’ı, Mizzî’nin Tuhfetü’l-Eşrâf bi Ma’rifeti’l-Etrâf’ı, Münzirî’nin Tehzîbü Süneni Ebî Dâvûd’u.
+3. Diğer fenlerde yazılan eserler; hadis içeren tefsir, fıkıh, tarih gibi (musannifinin isnadıyla rivayet etmesi şartıyla).
+
+## Ehemmiyet, Fayda ve İhtiyaç Yönü
+- Hadislerin aslî kaynaklarındaki yerine ulaşabilmek için, şer’î ilimlerle meşgul olan herkese bu ilmi bilmek vaciptir.
+- Hadisi, hadis imamlarının yazmış olduğu aslî kaynaklardaki yerine ulaştırması en büyük faidesidir.
+- Kendisine olan ihtiyaç, ilim talibine bir hadisin kitaplarda müsned olarak rivayetini bilmeden onunla istişhad etmesinin caiz olmamasından anlaşılır.
+
+## Tahricin Tarihinden Bir Nebze
+¶ Ulema ilk dönemlerde bugün anladığımız manada “usûlü’t-tahric” ile pek ilgilenmediler. Zira kendileri için geniş bir hadis kaynağı yelpazesi bulunmakta idi; bu birkaç asır böylece devam etti. Zamanla ulema için hadis kaynaklarına ulaşma işi zorlaştı. Böylece **Hatîb Bağdâdî h.463** ilk tahrici «تخريج الفوائد المنتخبة الصحاح والغرائب» kitabıyla, Ebü’l-Kâsım’ın kitabının tahricini yaptı. Sonra Hâzimî’nin tahrici takip etti ve böylece iş yayılmaya başladı ve günümüze kadar geldi. Lakin günümüzde ilimle uğraşanlar bir hadis okuduğunda bunun tahricini, yani aslî kaynaklardaki yerini bulamayacak hale gelince bu ilimde içerikli bir kitabın yazılma ihtiyacı doğdu ki bu kitap bu ihtiyacı karşılama adına yazıya geçti.

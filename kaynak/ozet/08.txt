@@ -1,0 +1,13 @@
+# Dördüncü Yol (3): Belli Bir Konuyu İçeren Eserler · Özet
+> C) Dinin bir yönü üzerine olanlar: cüzler, terğîb-terhîb, zühd ve fezâil, ahkâm, tahric kitapları ve şerhler.
+
+## C) Dinin Bir Yönü Üzerine
+@ عَلَى جَانِبِ الدِّينِ
+| Tür | Örnek
+| **1. «الأجزاء»** | «رفع اليدين في الصلاة للبخاري»
+| **2. «الترغيب والترهيب»** | «الترغيب والترهيب للمنذري»
+| **3. «الزهد والفضائل»** | «كتاب الزهد لأحمد بن حنبل، رياض الصالحين للنووي»
+| **4. «الأحكام»** | «بلوغ المرام لابن حجر»
+| **5. «كتب التخريج»** | «نصب الراية للزيلعي»
+| **6. «الشروح»** | «فتح الباري لابن حجر، عمدة القاري للعيني، كلاهما شرح صحيح البخاري»
+! Eczâ türü kitaplar kaynak olarak da kullanılabilir.

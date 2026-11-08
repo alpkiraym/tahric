@@ -1,0 +1,998 @@
+# El ile hazırlanmış sorular. Biçim:
+# ? <ünite no> | soru
+# + doğru cevap
+# - çeldirici (3 adet)
+# = açıklama
+# Bütün bilgiler ünite metinlerinden (01–12.txt) alınmıştır.
+
+# ---------- 1. ünite ----------
+? 1 | Istılahta tahric nedir?
++ Hadisin isnadla nakledildiği masâdır-ı asliyyedeki yerini belirtmek, gerektiğinde derecesini beyan etmek
+- Hadisten fıkhî hüküm çıkarmak
+- Hadisin garib kelimelerini açıklamak
+- Hadisin râvilerini cerh ve ta’dil etmek
+= Istılahta tahric, hadisin isnadla nakilde bulunulan masâdır-ı asliyyedeki yerlerini belirtmek, sonra da ihtiyaç duyulduğunda derecesini beyan etmektir.
+
+? 1 | Hadisçilerce tahricin muhaddisler arasında meşhur olan manası hangisidir?
++ Delalet: hadisin masâdır-ı asliyyedeki yerini göstermek
+- İhrac: hadisin ricalini zikretmek
+- Hadisi kitaplardan çıkarıp rivayet etmek
+- İstinbat: hadisten hüküm çıkarmak
+= Hadisçilerce tahricin üç anlamından delalet, yani hadisin masâdır-ı asliyyedeki yerini göstermek muhaddisler arasında meşhur olmuştur.
+
+? 1 | “Tahric” kelimesinin tefsirde kullanılan anlamı hangisidir?
++ Tevcih
+- İstinbat
+- Tedrib
+- İhrac
+= Tahric kelimesi istinbat (fıkıhçılar), tedrib (alıştırma) ve tevcih (tefsirde) manalarında kullanılır.
+
+? 1 | Aşağıdakilerden hangisi masâdır-ı asliyye için şart koşulan bir durumdur?
++ Hadis dışı ilimlere ait kitapların hadisi kendi senediyle rivayet etmesi
+- Kitabın yalnızca sahih hadis içermesi
+- Kitabın alfabetik tertip edilmiş olması
+- Kitabın Kütüb-i Sitte’den önce yazılmış olması
+= Tefsir, tarih, fıkıh gibi hadis dışı kitaplar da kendi senediyle olmak şartıyla masâdır-ı asliyyeden sayılır.
+
+? 1 | Humeydî’nin el-Cem’u beyne’s-Sahîhayn’ı masâdır-ı asliyyenin hangi türüne örnektir?
++ Senedle telakki edilen kitaplara tabi olan hadis kitapları
+- Şeyhlerden senedle telakki edilen hadis kitapları
+- Hadis dışı ilimlere ait kitaplar
+- Masâdır-ı ğayr-i asliyye
+= Kendinden önceki kitapları bir araya getiren el-Cem’u beyne’s-Sahîhayn, Kütüb-i Sitte gibi kitaplara tabi olan hadis kitaplarına örnek verilmiştir.
+
+? 1 | Tahrice ihtiyacın sebebi olarak hangisi gösterilmiştir?
++ Kimin rivayet ettiğini bilmeden bir hadisi şahid olarak kullanmanın veya rivayet etmenin caiz olmaması
+- Hadislerin çoğunun uydurma olması
+- Kütüb-i Sitte’nin kaybolmuş olması
+- Fıkıh kitaplarının senedli olması
+= Araştırmacının, âlimlerden kimin rivayet ettiğini bilmeden bir hadisi şahid olarak kullanması veya rivayet etmesi caiz değildir; bu yüzden tahrice ihtiyaç çoktur.
+
+? 1 | Aşağıdakilerden hangisi tahricin faydalarından biri değildir?
++ Hadisin her durumda sahih olduğunun kesinleşmesi
+- Şahit ve tabileriyle hadisin sahih veya hasen derecesine yükselmesinin belli olması
+- Senedde zikredilmemiş isimlerin tespit edilmesi
+- Nasih ve mensuhun belirlenmesi
+= Tahric; şahit ve tabileri, illetleri, şazz rivayetleri, senedde zikredilmeyen isimleri, nasih-mensuhu ortaya koyar; hadisin her durumda sahih olduğunu kesinleştirmez.
+
+? 1 | Tahric kitaplarının ilklerinden olan eserleri kim yazmıştır?
++ Hatîb el-Bağdâdî
+- Zeylaî
+- İbn Hacer
+- Irâkî
+= Hatîb el-Bağdâdî’nin (463), Hüseynî’nin ve Mehravânî’nin eserlerine yazdığı tahricler tahric kitaplarının ilklerindendir.
+
+? 1 | İlk dönem âlimleri neden tahric usûlü kaidelerine ihtiyaç duymadılar?
++ Temel hadis kaynaklarına vukûfiyetleri fazla, ulaşmaları sağlam yollarla olduğu için
+- Hadisleri ezberden rivayet etmedikleri için
+- Tahric yasaklandığı için
+- Hadis kitapları henüz yazılmadığı için
+= İlk dönem âlimleri kaynakların tertibini bildikleri için rivâyetin yerini hemen hatırlayabiliyorlardı.
+
+# ---------- 2. ünite ----------
+? 2 | Merğınânî’nin Hidâye’sinin iki tahrici hangileridir?
++ Zeylaî’nin Nasbu’r-Râye’si ve İbn Hacer’in ed-Dirâye’si
+- Irâkî’nin el-Muğnî’si ve Süyûtî’nin Menâhilü’s-safâ’sı
+- İbnü’l-Mülakkin’in el-Bedru’l-münîr’i ve İbn Hacer’in et-Telhîsu’l-habîr’i
+- Hâzimî’nin tahrici ve İbn Kutluboğa’nın et-Ta’rîf’i
+= Hidâye’ye Zeylaî’nin Nasbu’r-Râye’si ve İbn Hacer’in ed-Dirâye’si yazılmıştır.
+
+? 2 | Nasbu’r-Râye’yi farklı kılan özelliklerin başında hangisi gelir?
++ Hanefî mezhebinin yanı sıra diğer üç mezhebin delillerini de ihtiva etmesi
+- Yalnızca sahih hadisleri alması
+- Hadisleri alfabetik sıralaması
+- Senedleri tamamen hazfetmesi
+= Zeylaî, Hanefî delillerinin yanında diğer mezheplerin delillerini de ayrıntılı biçimde kaydeder.
+
+? 2 | Zeylaî, Merğınânî’nin verdiği metinle hadis kaynaklarındaki metin farklıysa hangi tabiri kullanır?
++ “Garîb” veya “garîb cidden”
+- “Lâ asle lehû”
+- “Lem eciddü bi-hâzihi’s-sîga”
+- “Mevzû”
+= Metinler arasında fark varsa Zeylaî bu rivayetler için “garîb” veya “garîb cidden” tabirini kullanır.
+
+? 2 | Zeylaî’nin en çok eleştirdiği isimlerden biri kimdir?
++ Hocası İbnü’t-Türkmânî
+- İbn Hacer
+- Merğınânî
+- İbnü’l-Mülakkin
+= Zeylaî geçmiş âlimlerin sözlerini zaman zaman tenkit eder; hocası İbnü’t-Türkmânî en çok eleştirdiği isimlerdendir.
+
+? 2 | ed-Dirâye için hangisi söylenmiştir?
++ İbtidaî talebe için kullanımı kolaydır ama derin araştırmalar için pek yararlı görülmez
+- Ahkâm hadislerinde dev bir ansiklopedidir
+- İhyâ hadislerinin tahricidir
+- Alfabetik tertip edilmiştir
+= ed-Dirâye Nasbu’r-Râye’nin telhisidir; mübtedi için kolaydır, fakat tahricte asıl olan bütün tariklere ulaşmak olduğundan derin araştırmaya pek yaramaz.
+
+? 2 | İbn Hacer bir hadisi o sîgayla aslî kaynakta bulamadığını hangi sözle ifade eder?
++ «لم أجده بهذه الصيغة»
+- «لا أصل له»
+- «ليس بحديث»
+- «سكت عنه»
+= ed-Dirâye’deki örnekte İbn Hacer, hadisi bu sîga ile bulamadığını «لم أجده بهذه الصيغة» sözüyle ifade eder.
+
+? 2 | et-Telhîsu’l-Habîr hangi eserin telhisidir?
++ İbnü’l-Mülakkin’in el-Bedru’l-Münîr’i
+- Zeylaî’nin Nasbu’r-Râye’si
+- Râfiî’nin eş-Şerhu’l-Kebîr’i
+- Ğazzâlî’nin el-Vecîz’i
+= İbn Hacer’in et-Telhîsu’l-Habîr’i, İbnü’l-Mülakkin’in eş-Şerhu’l-Kebîr’e yazdığı tahric el-Bedru’l-Münîr’in telhisidir.
+
+? 2 | eş-Şerhu’l-Kebîr hangi eserin şerhidir?
++ Ğazzâlî’nin el-Vecîz’inin
+- Merğınânî’nin Hidâye’sinin
+- Nevevî’nin Minhâc’ının
+- Şîrâzî’nin Mühezzeb’inin
+= eş-Şerhu’l-Kebîr, Şâfiî fakihi Râfiî’nin İmam Ğazzâlî’nin el-Vecîz’ini şerh ettiği eserdir.
+
+? 2 | İbnü’l-Mülakkin el-Bedru’l-Münîr’i önce kaç ciltte telhis etmiştir?
++ Dört ciltte (Hulâsatü’l-Bedri’l-Münîr)
+- Bir cüzde
+- Yedi ciltte
+- On ciltte
+= el-Bedru’l-Münîr 7 cilttir; İbnü’l-Mülakkin onu Hulâsa adıyla 4 ciltte, sonra Müntekâ adıyla bir cüzde telhis etti.
+
+? 2 | Irâkî el-Muğnî’de hadisi Sahîhayn’de bulursa ne yapar?
++ Bunlarla iktifa eder
+- Bütün kaynakları sayar
+- Hadisin hükmünü vermez
+- Diğer Kütüb-i Sitte’yi önceler
+= Irâkî’nin usûlü: Sahîhayn’de varsa onlarla yetinir; yoksa diğer Kütüb-i Sitte’ye, gerekmedikçe başkasına müracaat etmez.
+
+? 2 | el-Muğnî’nin çok önem arz etmesinin sebebi nedir?
++ İhyâ’da çokça zayıf ve uydurma rivayete yer verilmesi
+- İhyâ’nın senedli bir hadis kitabı olması
+- Irâkî’nin ilk tahric müellifi olması
+- Alfabetik tertip edilmesi
+= İhyâ’da çokça zayıf ve uydurma rivayet bulunduğundan el-Muğnî çok önemlidir.
+
+? 2 | Kâdî İyâz’ın Şifâ’sına yazılan tahric hangisidir?
++ Süyûtî’nin Menâhilü’s-safâ’sı
+- İbn Hacer’in Netâicü’l-efkâr’ı
+- Irâkî’nin el-Muğnî’si
+- Süyûtî’nin Felkü’l-ısbâh’ı
+= Şifâ’ya Süyûtî’nin Menâhilü’s-safâ’sı yazılmıştır; Felkü’l-ısbâh ise Cevherî’nin Sıhâh’ına yazılan tahricdir.
+
+# ---------- 3. ünite ----------
+? 3 | Birinci yolda (sahâbî râvi) hangi üç tür tasniften yararlanılır?
++ Müsnedler, mu’cemler, etrâf kitapları
+- Câmi’ler, sünenler, musannefler
+- Fihristler, mecma’lar, zevâidler
+- Concordance, Miftâh, Mevsûa
+= Hadisin sahâbî râvisi biliniyorsa müsnedler, mu’cemler ve etrâf kitaplarından yararlanılır.
+
+? 3 | Kettânî er-Risâletü’l-müstatrafe’de kaç müsned ismi zikretmiştir?
++ 82
+- 40
+- 12
+- 905
+= Kettânî 82 müsned ismi zikrettikten sonra bunlardan başka pek çok müsnedin olduğunu söyler.
+
+? 3 | Mekkeli ilk müsned musannifi, Süfyan b. Uyeyne’nin talebesi ve Buhârî’nin hocası kimdir?
++ Humeydî
+- Tayâlisî
+- Ahmed b. Hanbel
+- Ebû Ya’lâ
+= Ebû Bekr Abdullah b. ez-Zübeyr el-Humeydî Mekkeli ilk müsned musannifidir; Şâfiî’nin de ders arkadaşıdır.
+
+? 3 | Humeydî’nin Müsned’ine almadığı sahâbî kimdir?
++ Talha b. Ubeydullah
+- Ebû Hüreyre
+- Şeddad b. el-Hâd
+- Abdurrahman b. Ebîbekir
+= Humeydî, Talha b. Ubeydullah’ın hadislerine ulaşamadığından kitabına almamıştır.
+
+? 3 | Ahmed b. Hanbel’in Müsned’i hangi sahâbî ile biter?
++ Şeddad b. el-Hâd
+- Talha b. Ubeydullah
+- Abdurrahman b. Ebîbekir
+- Ebû Hüreyre
+= Tertibi Hz. Ebubekir’den başlar ve en sonda Şeddad b. el-Hâd ile biter.
+
+? 3 | Müsned’i konularına göre tertip eden el-Fethu’r-Rabbânî’nin müellifi kimdir?
++ Ahmed Abdurrahman el-Bennâ es-Sââtî
+- Şuayb Arnavut
+- Ahmed Muhammed Şâkir
+- Muhammed Fuad Abdülbâkî
+= el-Fethu’r-Rabbânî, Hasan el-Bennâ’nın babası Ahmed Abdurrahman el-Bennâ es-Sââtî’nindir; 24 cilttir.
+
+? 3 | Tahric çalışmasında araştırılan hadisi başka bir sahâbî de rivayet etmişse hangi ifade eklenir?
++ «وله شاهد عن»
+- «نحوه»
+- «مثله»
+- «وافقه الذهبي»
+= Başka sahâbînin rivayeti şâhit demektir ve «وله شاهد عن» ile belirtilir; «نحوه / مثله» şâhitlerde kullanılmaz.
+
+? 3 | Mu’cemin müsnedden farkı nedir?
++ Hadisleri müellifin hocalarına veya râvilerin beldelerine göre de toplaması
+- Yalnızca sahih hadisleri içermesi
+- Senedsiz olması
+- Fıkıh bablarına göre tertip edilmesi
+= Mu’cemler hadisleri sahâbeye, hocalara veya beldelere göre, çoğu kere alfabetik sıralar.
+
+? 3 | “Mu’cem” mutlak olarak kullanılınca hangi eser akla gelir?
++ Taberânî’nin el-Mu’cemü’l-kebîr’i
+- Taberânî’nin el-Mu’cemü’l-evsat’ı
+- İbn Lâl’in Mu’cemü’s-sahâbe’si
+- Ebû Ya’lâ’nın Mu’cemü’s-sahâbe’si
+= Mu’cem mutlak kullanılınca el-Mu’cemü’l-kebîr akla gelir; diğerlerinde isim belirtilir.
+
+? 3 | Taberânî’nin el-Mu’cemü’l-kebîr’inde hangi sahâbînin rivâyetleri yoktur?
++ Ebû Hüreyre
+- Hz. Ebubekir
+- Hz. Âişe
+- Abdullah b. Abbas
+= Taberânî, Ebû Hüreyre’nin rivâyetlerini başka bir eserinde müstakil olarak derlediği için Kebîr’e almamıştır.
+
+? 3 | Taberânî’nin hocalarından birer hadis derleyerek oluşturduğu mu’cemi hangisidir?
++ el-Mu’cemü’s-sağîr
+- el-Mu’cemü’l-kebîr
+- el-Mu’cemü’l-evsat
+- Mu’cemü’s-sahâbe
+= el-Mu’cemü’s-sağîr, 1.000 hocasından birer hadis derlenerek oluşturulmuştur.
+
+? 3 | Etrâf kitapları neden kaynak olarak gösterilmez?
++ Masâdır-ı ğayr-i asliyyeden oldukları için
+- Senedleri olmadığı için
+- Uydurma hadis içerdikleri için
+- Alfabetik oldukları için
+= Etrâf kitapları masâdır-ı ğayr-i asliyyedendir; hadisin tamamını vermez, asıl metin işaret ettikleri kaynaklardadır.
+
+? 3 | Aşağıdakilerden hangisi etrâf kitaplarının faydalarından biridir?
++ Her sahâbînin aslî kaynaklardaki rivâyet sayısını bilmek
+- Hadisin tamamını metniyle okumak
+- Hadisin şerhine ulaşmak
+- Râvilerin cerh-ta’dilini öğrenmek
+= Etrâf kitaplarıyla senedler bir arada görülür, hadisin aslî kaynaktaki kitab ve bâbı ve her sahâbînin rivâyet sayısı bilinir.
+
+? 3 | Tuhfetü’l-Eşrâf’ta «خت» rumuzu neyi gösterir?
++ Buhârî - ta’lîkan
+- Buhârî’nin Edeb’i
+- Buhârî’nin Tarih’i
+- Tirmizî - Şemâil
+= Tuhfetü’l-Eşrâf’ta «خت» Buhârî’nin ta’lîkan rivâyetlerini gösterir.
+
+? 3 | Tuhfetü’l-Eşrâf’ta tekrarlarla hadis sayısı kaçtan kaça çıkmaktadır?
++ 12.302’den 19.595’e
+- 8.803’ten 13.302’ye
+- 10.031’den 20.141’e
+- 3.280’den 3.281’e
+= Bazı hadisleri birden fazla sahâbî rivayet ettiğinden 12.302 hadis tekrarlarla 19.595’e çıkar.
+
+? 3 | Zehâiru’l-Mevârîs’in Tuhfetü’l-Eşrâf’a göre eksikliği nedir?
++ Hadis bazı sahâbe râvilerin müsnedlerinde bulunamaz
+- Kütüb-i Sitte’yi kapsamaz
+- Alfabetik değildir
+- Hadisleri her sahâbînin altında tekrarlar
+= Zehâir tekrardan kaçınıp hadisi tek sahâbînin adı altında verdiği için bazı sahâbe râvilerin müsnedlerinde hadis bulunamaz.
+
+# ---------- 4. ünite ----------
+? 4 | Halk dilinde meşhur hadis kitaplarındaki “şöhret” hangi anlamdadır?
++ Lügavî anlamda: sözün insanların dilinde yayılması
+- Istılahî anlamda: her tabakada en az üç râvinin rivâyeti
+- Mütevâtir anlamında
+- Sahih anlamında
+= Buradaki şöhret ıstılâhî değil, lügavî mânâdaki şöhrettir.
+
+? 4 | el-Makâsıdü’l-Hasene’nin müellifi kimdir?
++ Sehâvî
+- Süyûtî
+- Aclûnî
+- Zerkeşî
+= el-Makâsıdü’l-hasene Şemseddin es-Sehâvî’nin (902) eseridir; son hadis 1356 numarayı taşır.
+
+? 4 | Sehâvî bir hadisi bulamayıp “aslı yok” demeye de cesaret edemezse ne der?
++ “Bilmiyorum”
+- “Aslı yok”
+- “Mevzu”
+- “Garîb cidden”
+= Hadisin aslı yoksa “aslı yok” der; bulamayıp bunu demeye cesaret edemezse “bilmiyorum” der.
+
+? 4 | Temyîzü’t-Tayyib’in müellifi ilavelerini nasıl ayırmıştır?
++ Başta “derim ki”, sonunda “Allah bilir” ifadeleriyle
+- Kırmızı yazıyla
+- «قلت» kelimesiyle
+- “Temyîz” kelimesiyle
+= İbnü’d-Deyba’ ilavelerini başta “derim ki”, sonda “Allah bilir” ifadeleriyle ayırmıştır.
+
+? 4 | Keşfü’l-Hafâ için hangisi doğrudur?
++ Aclûnî’nindir; 2 cilt, 3280 rivâyet ve sonunda konu fihristi vardır
+- Sehâvî’nindir; tek cilt ve 1356 rivâyettir
+- Süyûtî’nindir; 299 rivâyettir
+- Zerkeşî’nindir; 234 rivâyettir
+= Keşfü’l-hafâ Aclûnî’nin (1162) eseridir; alfabetik olmakla birlikte sonunda konu fihristi de bulunur.
+
+? 4 | Esne’l-metâlib’i alfabetik olarak tertipleyen kimdir?
++ Müellifin oğlu Abdurrahman
+- Sehâvî
+- İbnü’d-Deyba’
+- Aclûnî
+= el-Hût el-Beyrûtî’nin oğlu Abdurrahman babasının ölümünden sonra ilavelerde bulunup eseri alfabetik tertiplemiştir.
+
+? 4 | Rivâyetleri alfabetik düzenlenmiş eserlerin özelliklerinden biri değildir?
++ Senedleriyle birlikte verilmeleri
+- Rivâyetlerin aslî hadis kitaplarından alınması
+- Alfabetik düzenlenmeleri
+- Genellikle hadislerin hükümlerine yer verilmesi
+= Bu eserlerde senedler hazfedilmiştir.
+
+? 4 | el-Câmiu’s-sağîr’de «ح» rumuzu neyi gösterir?
++ Hasen
+- Sahih
+- Zayıf
+- Hâkim’in Müstedrek’i
+= Süyûtî sıhhat derecesi için üç rumuz kullanır: «صح» sahih, «ح» hasen, «ض» zayıf.
+
+? 4 | el-Câmiu’s-sağîr’de «ق» rumuzu neyi gösterir?
++ Müttefekun aleyh
+- İbn Mâce
+- Dârekutnî
+- Kütüb-i Sitte
+= el-Câmiu’s-sağîr’de «ق» müttefekun aleyh, İbn Mâce ise «ه» ile gösterilir.
+
+? 4 | el-Câmiu’s-sağîr’in rivâyetleri hangi eserden seçilmiştir?
++ Süyûtî’nin Cem’u’l-cevâmi’inden
+- Sehâvî’nin el-Makâsıd’ından
+- Mizzî’nin Tuhfetü’l-eşrâf’ından
+- İbnü’l-Esîr’in Câmiu’l-usûl’ünden
+= Süyûtî rivâyetleri kendisine ait derleme niteliğindeki Cem’u’l-cevâmi’ isimli eserinden seçmiştir.
+
+? 4 | Süyûtî’nin el-Câmiu’s-sağîr’deki hükümleri için neden Münâvî’ye bakılması tavsiye edilir?
++ Süyûtî hükümlerde bazen mütesâhil davrandığı için
+- Süyûtî hiç hüküm vermediği için
+- Münâvî eseri alfabetik tertiplediği için
+- Süyûtî’nin rumuzları bilinmediği için
+= Süyûtî bazen mütesâhildir; Münâvî Feyzü’l-kadîr’de kendi kanaatini belirtip ona muhâlefet etmiştir.
+
+? 4 | Miftâhu’s-Sahîhayn’ın en büyük eksikliği nedir?
++ Fiilî hadislerin fihristinin olmayışı
+- Şerhlerdeki yerleri vermemesi
+- Alfabetik olmaması
+- Müslim hadislerini içermemesi
+= Değerlendirmede en büyük eksiklik fiilî hadislerin fihristinin olmayışı olarak belirtilmiştir.
+
+? 4 | Hatîb’in Târîh’indeki hadislerin yerini tespit etmek için Miftâhu’t-Tertîb’den başka yol yoktur; çünkü:
++ Hatîb hadislerin tertibinde herhangi bir metod gözetmemiştir
+- Târîh kayıptır
+- Târîh alfabetik tertip edilmiştir
+- Târîh yalnızca mevzu hadis içerir
+= Hatîb ricâli zikretmiş, hadisleri yeri geldikçe vermiştir; tertipte bir metod gözetmemiştir.
+
+? 4 | el-Buğye’nin Miftâhu’t-Tertîb’ten farkı nedir?
++ Künyeleri ayrı olarak zikretmesi
+- Fiilî hadisleri almaması
+- Hanım sahâbîlere ayrı bölüm ayırması
+- Senedleri vermesi
+= el-Buğye tertip ve tebvib bakımından Miftâhu’t-Tertîb’e tamamen benzer; farkı künyeleri ayrı zikretmesidir.
+
+? 4 | Muvatta’ fihristinde kavlî hadislerin sayısı kaçtır?
++ 867
+- 1812
+- 3100
+- 4341
+= Muvatta’da 1812 hadis bulunur; Fuad Abdülbâkî’nin fihristindeki kavlî hadis sayısı 867’dir.
+
+# ---------- 5. ünite ----------
+? 5 | Concordance hangi kitapları kapsar?
++ Kütüb-i Sitte, Dârimî’nin Sünen’i, Muvatta’ ve Ahmed b. Hanbel’in Müsned’i
+- Kütüb-i Sitte ve Muvatta’
+- 14 hadis kitabı ve siyer eserleri
+- Sahîhayn ve Müstedrek
+= Concordance 9 kitabı kapsar: Kütüb-i Sitte + Dârimî + Muvatta’ + Müsned.
+
+? 5 | Concordance’ın 1. cildi ne zaman ve nerede neşredilmiştir?
++ 1936’da Leiden’de
+- 1916’da Amsterdam’da
+- 1988’de Kahire’de
+- 1969’da Beyrut’ta
+= Çalışmalar 1916’da başladı, 1. cilt tam 20 yıl sonra 1936’da Leiden’de neşredildi.
+
+? 5 | Concordance’ta İbn Mâce’nin rumuzu hangisidir?
++ «جه»
+- «ق»
+- «مج»
+- «ه»
+= Concordance’ta İbn Mâce «جه»’dir; ilk iki ciltte «ق» şeklindedir.
+
+? 5 | Concordance’ta Müslim için verilen rakamlar neyi ifade eder?
++ Kitab adından sonra hadis numarasını
+- Kitab adından sonra bâb numarasını
+- Cilt ve sayfa numarasını
+- Sahâbî numarasını
+= Müslim ve Muvatta’ için kitab adından sonra hadis numarası verilir.
+
+? 5 | Concordance’ta Ahmed b. Hanbel’in Müsned’i için hangi bilgi verilir?
++ Cilt ve sayfa numarası
+- Kitab ve bâb numarası
+- Kitab ve hadis numarası
+- Sahâbe numarası
+= Cilt ve sayfa numarası yalnızca Ahmed b. Hanbel’in Müsned’i için verilir.
+
+? 5 | Concordance’ta aramaya hangi kelimeden başlanmalıdır?
++ Hadiste geçen en nâdir ve müştak kelimeden
+- Hadisin ilk kelimesinden
+- Sahâbînin isminden
+- Hadisin konusundan
+= Kısa zamanda bilgi almak için hadisteki en nâdir ve müştak kelime tespit edilip ondan aramaya başlanır.
+
+? 5 | Concordance’ta Muvatta’ ile ilgili hangisi doğrudur?
++ Sadece merfu’ hadislere atıf yapılmış, âsâra işâret edilmemiştir
+- Bütün âsâra atıf yapılmıştır
+- Muvatta’ Concordance’a dâhil değildir
+- Muvatta’ için cilt ve sayfa verilmiştir
+= Muvatta’daki sadece merfu’ hadislere atıf yapılmış; İmam Mâlik’e ve öteki zevâta ait görüşlere işâret edilmemiştir.
+
+? 5 | “Levlâ en eşukka alâ ümmetî le-emertuhum” örneği neyi göstermek için verilmiştir?
++ Concordance’ta bulunan bölümün başka bir hadisin parçası olabileceğini
+- Concordance’ta mevzu hadis bulunduğunu
+- Concordance’ın alfabetik olduğunu
+- Concordance’ta Müslim’in bulunmadığını
+= Bu hadisin hem misvak hem vitrin tehiri varyantı vardır; aslî kaynakta bulunmadan Concordance’taki yer kaynak gösterilmez.
+
+? 5 | Concordance’ın şahıs ve yer isimlerine ayrılmış cildi hangisidir?
++ 8. cilt
+- 1. cilt
+- 4. cilt
+- 7. cilt
+= Şahıs ve yer isimlerine tahsis edilmiş olan 8. cilt dışında önemli ifâdelerin yerlerine işaret edilir.
+
+# ---------- 6. ünite ----------
+? 6 | Dördüncü yolda öncelikle dikkat edilmesi gereken husus nedir?
++ Aranan hadisin hangi konuda olduğunu tespit etmek
+- Hadisin sahâbî râvisini bilmek
+- Hadisin ilk kelimesini bilmek
+- Hadisin senedini incelemek
+= Konusuna göre aramada ilk husus hadisin hangi konuda olduğunu tespit etmektir; birden çok konuyla ilgiliyse hepsinden aranır.
+
+? 6 | Câmi’in sekiz bölümünden biri değildir?
++ Ricâl
+- Fiten ve melâhim
+- Menâkıb
+- Tefsir
+= Câmi’in sekiz bölümü: iman, ahkâm, zühd, âdâb, tefsir, târih-siyer-cihad, menâkıb, fiten ve melâhim.
+
+? 6 | Buhârî’nin Sahîh’i hangi kitapla başlar, hangisiyle biter?
++ Bed’ü’l-Vahy ile başlar, Tevhîd ile biter
+- Tahâre ile başlar, Edeb ile biter
+- Îmân ile başlar, Fiten ile biter
+- Tevhîd ile başlar, Rikâk ile biter
+= “Kitâbu Bed’i’l-Vahy” ile başlar, “Kitâbu’t-Tevhîd” ile biter.
+
+? 6 | Concordance’a göre Buhârî’nin Sahîh’i kaç kitab ve bâbtan oluşur?
++ 97 kitab, 3730 bâb
+- 40 kitab, 1871 bâb
+- 56 kitab, 3409 bâb
+- 21 kitab, 1176 bâb
+= Concordance’a göre Buhârî 97 kitab ve 3730 bâbtan oluşur.
+
+? 6 | Müstahrecin şartı nedir?
++ En yakına ulaştıran senedi kaybetmemek için daha uzak bir şeyhe ulaşmamak
+- Yalnızca sahih hadis almak
+- Hadisleri alfabetik sıralamak
+- Esas aldığı kitabın şartına uyan yeni hadis toplamak
+= Âlî sened amacı veya önemli bir ziyade dışında müstahric daha uzak bir şeyhe ulaşmaz.
+
+? 6 | Müslim üzerine yazılan ve 8.718 rivâyet içeren müstahrec kimindir?
++ Ebû Avâne el-İsferâyînî
+- İsmâilî
+- Ebû Nuaym el-İsfahânî
+- İbn Merdûyeh
+= Ebû Avâne’nin Müstahrec’i 5 cilttir; dipnotta hadisin Müslim’deki yeri numarasıyla verilir.
+
+? 6 | Müstedrek nedir?
++ Önceki musannifin şartına uygun olup eserine almadığı hadisleri toplayan eser
+- Önceki eserdeki hadisleri başka senedle rivayet eden eser
+- Bir kitabın diğerinden fazla hadislerini toplayan eser
+- Birkaç kitabı tertibine riayetle birleştiren eser
+= Müstedrek, şarta uygun olup alınmamış hadislerin bir başkası tarafından toplanmasıyla oluşan eserdir.
+
+? 6 | Zehebî’ye göre Müstedrek’teki hadislerin ne kadarı sahihtir?
++ Yarıya yakını
+- Tamamı
+- Dörtte biri
+- Hiçbiri
+= Zehebî: yarıya yakını sahih, dörtte biri senedi sağlam metni illetli, dörtte biri münker ve zayıf.
+
+? 6 | Müstedrek’in dipnotunda «سكت عنه» ifadesi ne anlama gelir?
++ Zehebî hadise herhangi bir hüküm vermemiştir
+- Zehebî Hâkim’i onaylamıştır
+- Hadis mevzudur
+- Hadis Şeyhayn’ın şartına uygundur
+= «وافقه» Zehebî’nin onayladığını, «سكت عنه» hüküm vermediğini gösterir.
+
+? 6 | Rezîn b. Muâviye’nin et-Tecrîd’inde hangi eser İbn Mâce’nin yerini alır?
++ Muvatta’
+- Müsned-i Ahmed
+- Sünen-i Dârimî
+- Müstedrek
+= et-Tecrîd li’s-sıhâh ve’s-sünen’de İbn Mâce yerine Muvatta’ yer almaktadır.
+
+? 6 | Câmiu’l-usûl’ü Teysîru’l-vusûl adıyla özetleyen kimdir?
++ İbnü’d-Deyba’
+- İbnü’l-Esîr
+- er-Rudânî
+- Sâğânî
+= İbnü’l-Esîr’in Câmiu’l-usûl’ünü İbnü’d-Deyba’ Teysîru’l-vusûl ile özetlemiştir.
+
+? 6 | Mecmau’z-zevâid’de bir hadisi bulmak, toplam kaç eserin taranmış olması demektir?
++ 12
+- 6
+- 9
+- 14
+= Ahmed, Ebû Ya’lâ ve Bezzâr’ın Müsnedleri, Taberânî’nin üç mu’cemi ve Kütüb-i Sitte olmak üzere 12 eser.
+
+? 6 | Zevâid’den nakilde bulunuluyorsa tahricte mutlaka ne belirtilmelidir?
++ Heysemî’nin hadisler hakkında verdiği hükümler
+- Bûsırî’nin rumuzları
+- Hadisin Concordance’taki yeri
+- İbn Hacer’in ilaveleri
+= Heysemî Mecmau’z-zevâid’de hadisler hakkında hüküm vermiştir; bu hükümler tahricte mutlaka belirtilir.
+
+? 6 | Miftâhu Künûzi’s-Sünne’de «ط» rumuzu neyi gösterir?
++ Müsnedü’t-Tayâlisî
+- Muvatta’
+- Taberânî
+- Tirmizî
+= Miftâh’ta Muvatta’ «ما», Tayâlisî «ط» ile gösterilir.
+
+# ---------- 7. ünite ----------
+? 7 | Sünenleri musanneflerden ayıran özellik nedir?
++ Çoğunlukla merfu’ rivâyet içermeleri
+- Fıkıh bablarına göre tertip edilmeleri
+- Sahâbe sözlerine ağırlık vermeleri
+- Senedsiz olmaları
+= Sünenlerde çoğunlukla merfu’ rivâyetler yer alır; mevkuf ve maktu’ yok denecek kadar azdır.
+
+? 7 | Sünenlerdeki mevkuf hadisler konusunda Kettânî ve Tahhân’ın görüşleri nasıldır?
++ Kettânî mevkuf hadis bulunmadığını söyler; Tahhân bazılarında bulunduğunu ama az olduğunu söyler
+- İkisi de hiç bulunmadığını söyler
+- Kettânî çok bulunduğunu, Tahhân hiç bulunmadığını söyler
+- İkisi de musanneflerden fazla olduğunu söyler
+= Tahhân’a göre bazı sünenlerde merfu’ dışında hadisler vardır ama musannef ve muvatta’lara kıyasla gerçekten azdır.
+
+? 7 | Ebû Dâvûd’un Sünen’i kaç kitaptan oluşur?
++ 40
+- 97
+- 56
+- 14
+= Ebû Dâvûd’un Sünen’i 40 kitaptan oluşur; Taharet ile başlar, Edeb ile biter.
+
+? 7 | Nesâî’nin Sünen’inin adı nedir?
++ el-Müctebâ
+- el-Müntekâ
+- el-Müstefâd
+- el-Müstedrek
+= Nesâî’nin (303) Sünen’i el-Müctebâ’dır.
+
+? 7 | Musannef ile sünen arasındaki fark nedir?
++ Musannef merfu’, mevkuf ve maktu’yu kapsar; sünen yalnızca merfu’yu
+- Sünen merfu’, mevkuf ve maktu’yu kapsar; musannef yalnızca merfu’yu
+- Musannef alfabetik, sünen konularına göredir
+- Aralarında hiçbir fark yoktur
+= Mevkuf ve maktu’ sünen ıstılahında sünen olarak isimlendirilmez.
+
+? 7 | “Muvatta’” neden bu adı almıştır?
++ Müellifi onu insanlara kolaylaştırdığı için
+- Fıkıh bablarına göre tertip edildiği için
+- Medine’de yazıldığı için
+- Yalnızca merfu’ hadis içerdiği için
+= Muvatta’ sözlükte kolaylaştırılmış demektir; müellifi onu insanlara kolaylaştırdığı için bu adı almıştır.
+
+? 7 | Kitapta ikinci kısım eserler üzerine yazılan müstahrecin tek örneği hangisidir?
++ Kâsım b. Esbağ’ın Sünen-i Ebû Dâvûd üzerine Müstahrec’i
+- Ebû Avâne’nin Müslim üzerine Müstahrec’i
+- İsmâilî’nin Buhârî üzerine Müstahrec’i
+- Ebû Nuaym’ın Sahîhayn üzerine Müstahrec’i
+= İkinci kısımda anlatılan eserler üzerine müstahrecin tek örneği Kâsım b. Esbağ’ın Müstahrec’idir.
+
+# ---------- 8. ünite ----------
+? 8 | Cüz nedir?
++ Bir sahâbî veya tâbiînin rivâyetlerini ya da belli bir konunun rivâyetlerini toplayan küçük hacimli kitap
+- Bir kitabın diğerinden fazla hadislerini toplayan eser
+- Hadisleri sahâbe isimlerine göre derleyen kitap
+- Fıkıh bablarına göre tertip edilen büyük kitap
+= Cüzler küçük hacimli kitaplardır; ya bir sahâbî/tâbiînin rivâyetlerini ya da belli bir konuyu ele alır.
+
+? 8 | Terğîb ve terhîb sahasında yazılmış en meşhur eser kimindir?
++ Münzirî
+- İbn Şâhîn
+- İbn Ebi’d-Dünyâ
+- Nevevî
+= Münzirî’nin (656) et-Terğîb ve’t-Terhîb’i bu sahada yazılmış en meşhur eserdir.
+
+? 8 | Neylü’l-evtâr hangi eserin şerhidir?
++ İbn Teymiyye el-Harrânî’nin el-Müntekâ’sının
+- İbn Hacer’in Bulûğu’l-merâm’ının
+- Abdülğanî el-Makdisî’nin Umdetü’l-ahkâm’ının
+- İbn Dakîk’in el-İmâm’ının
+= Abdüsselâm b. Teymiyye el-Harrânî’nin el-Müntekâ fi’l-ahkâm’ını Şevkânî Neylü’l-evtâr ile şerh etmiştir.
+
+? 8 | Bulûğu’l-merâm’ın en meşhur şerhi hangisidir?
++ San’ânî’nin Sübülü’s-selâm’ı
+- Şevkânî’nin Neylü’l-evtâr’ı
+- İbnü’l-Mülakkin’in el-İ’lâm’ı
+- Aynî’nin Umdetü’l-kârî’si
+= İbn Hacer’in Bulûğu’l-merâm’ının en meşhur şerhi Emîr San’ânî’nin Sübülü’s-selâm’ıdır.
+
+? 8 | Cihad ile ilgili ilk eseri te’lif eden âlim kimdir?
++ Abdullah b. Mübârek
+- Nuaym b. Hammâd
+- İbn Ebi’d-Dünyâ
+- Beyhakî
+= Abdullah b. Mübârek el-Mervezî’nin (181) Kitâbü’l-cihâd’ı cihad konusundaki ilk eserdir.
+
+? 8 | Hadis dışı eserlerden hangisi yarar sağlamaktan uzaktır?
++ Hem senedsiz oluşturulmuş hem de aslî kaynakta kimin tahric ettiği belirtilmemiş eser
+- Hadisleri senedli rivâyet eden eser
+- Senedsiz verip aslî kaynağa işaret eden eser
+- Fıkıh kitabının şerhi olan eser
+= Eser hem senedsiz hem de kaynaksız ise yarar sağlamaktan uzak olduğu açıktır.
+
+? 8 | Nevevî’nin el-Mecmû’u hangi eserin şerhidir?
++ Şîrâzî’nin el-Mühezzeb’inin
+- Hırakî’nin Muhtasar’ının
+- Ğazzâlî’nin el-Vecîz’inin
+- Merğınânî’nin Hidâye’sinin
+= el-Mecmû’ Şâfiî fıkhına dairdir ve Şîrâzî’nin el-Mühezzeb’inin şerhidir.
+
+? 8 | Fethu’l-kadîr hangi eserin şerhidir?
++ Hidâye
+- İhyâ
+- Sahîh-i Buhârî
+- Sahîh-i Müslim
+= İbnü’l-Hümâm’ın Fethu’l-kadîr’i Hidâye’nin şerhidir.
+
+? 8 | İthâfü’s-sâdeti’l-müttakîn hangi eserin şerhidir?
++ İhyâ
+- Hidâye
+- Riyâzü’s-sâlihîn
+- Şifâ
+= Murtazâ ez-Zebîdî’nin İthâfü’s-sâdeti’l-müttakîn’i İhyâ’nın şerhidir.
+
+# ---------- 9. ünite ----------
+? 9 | Aşağıdakilerden hangisi metinde uydurma alâmeti olarak sayılmamıştır?
++ Hadisin garib kelime içermesi
+- Lafızlarda rekâket
+- Mânâda bozukluk
+- Kur’ân’ın sarih anlamına zıtlık
+= Uydurma alâmetleri: lafızlarda rekâket, mânâda bozukluk, Kur’ân’ın sarih anlamına zıtlık.
+
+? 9 | Mevzûât kitaplarından alfabetik tasnif edilene örnek hangisidir?
++ Ali el-Kârî’nin el-Masnû’u
+- İbn Arrâk’ın Tenzîhü’ş-şerîa’sı
+- Münâvî’nin el-İthâfâtü’s-seniyye’si
+- İbn Ebî Hâtim’in İlelü’l-hadîs’i
+= Alfabetik olan Ali el-Kârî’nin el-Masnû’u (el-Mevzûâtü’s-suğrâ); konularına göre olan İbn Arrâk’ın Tenzîhü’ş-şerîa’sıdır.
+
+? 9 | Senedleriyle birlikte 101 kudsî hadis derleyen eser hangisidir?
++ İbnü’l-Arabî’nin Mişkâtü’l-envâr’ı
+- Münâvî’nin el-İthâfâtü’s-seniyye’si
+- Süyûtî’nin el-Müselselâtü’l-kübrâ’sı
+- Hatîb’in el-Esmâü’l-mübheme’si
+= Mişkâtü’l-envâr senedli 101 hadis; Münâvî’nin el-İthâfâtü’s-seniyye’si senedsiz 272 hadis içerir.
+
+? 9 | Babanın oğlundan hadis rivayet ettiği isnad latîfesinde hangi esere başvurulur?
++ Hatîb el-Bağdâdî’nin Rivâyetü’l-âbâ’ ani’l-ebnâ’ı
+- Süyûtî’nin el-Müselselâtü’l-kübrâ’sı
+- Ebû Dâvûd’un el-Merâsil’i
+- Zehebî’nin Mîzânü’l-i’tidâl’i
+= Babaların çocuklarından yaptıkları rivâyetleri derleyen eserlere, örneğin Hatîb’in Rivâyetü’l-âbâ’ ani’l-ebnâ’ına başvurulur.
+
+? 9 | Süyûtî’nin el-Müselselâtü’l-kübrâ’sında kaç rivâyet vardır?
++ 85
+- 212
+- 101
+- 272
+= Süyûtî 85, Eyyûbî ise el-Menâhilü’s-selsele’de 212 müselsel rivâyet toplamıştır.
+
+? 9 | Senedde zayıf râvi varsa hangi esere bakılır?
++ Zehebî’nin Mîzânü’l-i’tidâl’i
+- İbn Ebî Hâtim’in Kitâbü’l-merâsil’i
+- Hatîb’in el-Esmâü’l-mübheme’si
+- Süyûtî’nin el-Müselselât’ı
+= Zayıf râvîler hakkında yazılmış (ed-Duafâ gibi) eserlere, örneğin Mîzânü’l-i’tidâl’e bakılır.
+
+? 9 | Seneddeki ve metindeki kapalılık (ibham) hadise nasıl etki eder?
++ Seneddeki kapalılık zarar verir, metindeki zarar vermez
+- İkisi de zarar verir
+- İkisi de zarar vermez
+- Metindeki zarar verir, seneddeki vermez
+= Seneddeki kapalılık cerh ve ta’dil yapmayı ortadan kaldırdığı için zarar verir; metindeki kapalılık zarar vermez.
+
+? 9 | Mübhemât sahasında en kapsamlı ve en yararlı eser hangisidir?
++ Ebû Zür’a el-Irâkî’nin el-Müstefâd’ı
+- Hatîb’in el-Esmâü’l-mübheme’si
+- İbn Ebî Hâtim’in İlelü’l-hadîs’i
+- İbn Arrâk’ın Tenzîhü’ş-şerîa’sı
+= el-Müstefâd min mübhemâti’l-metn ve’l-isnâd fıkhî konulara göre tertiplidir ve bu sahanın en kapsamlı ve yararlı eseridir.
+
+# ---------- 10. ünite ----------
+? 10 | Istılahta sened nedir?
++ Metne ulaştıran râvi silsilelerinden meydana gelen kısım
+- Senedin bitip kelamın başladığı yer
+- Dayanılan şey
+- Hadisin hükmü
+= Sened lügatte dayanılan şey, ıstılahta metne ulaştıran râvi silsilesidir; metin ise senedin bitip kelamın başladığı yerdir.
+
+? 10 | “İsnad mü’minin silahıdır” sözü kime aittir?
++ Süfyân-ı Sevrî
+- İbnü’l-Mübârek
+- İbn Hacer
+- Zehebî
+= “İsnad dindendir…” İbnü’l-Mübârek’in, “İsnad mü’minin silahıdır” Süfyân-ı Sevrî’nin sözüdür.
+
+? 10 | Râvinin adaleti nasıl bilinir?
++ İki cerh-ta’dil âliminin belirtmesi (tansis) ya da sika olarak şöhretiyle
+- Hafızasının kuvvetiyle
+- Sika râvilere muvafakatiyle
+- Hadis sayısının çokluğuyla
+= Adalet tansis veya şöhretle (Mâlik b. Enes, Evzâî gibi) bilinir; zabt ise sika râvilere muvafakatle bilinir.
+
+? 10 | Ulema İbn Abdilberr’in adaletin sübutuyla ilgili görüşünü neden kabul etmemiştir?
++ Delil getirdiği hadis zayıf olduğu için
+- Görüş Kur’ân’a aykırı olduğu için
+- İbn Abdilberr cerh-ta’dil ehli olmadığı için
+- Görüş çok katı olduğu için
+= İbn Abdilberr cerhi açığa çıkmayan ilim ehlini adil saymış ve hadisi delil getirmiş; ulema hadis zayıf olduğu için kabul etmemiştir.
+
+? 10 | Sebep belirtmeksizin cerh ve ta’dil hakkında meşhur ve sahih görüş nedir?
++ Ta’dil sebepsiz kabul edilir, cerh sebebi açıklanmadan kabul edilmez
+- İkisi de sebepsiz kabul edilir
+- İkisi de sebepsiz kabul edilmez
+- Cerh sebepsiz kabul edilir, ta’dil edilmez
+= Ta’dilin sebepleri çok olduğu için sebepsiz kabul edilir; cerhin sebebi mutlaka belirtilmelidir.
+
+? 10 | Bir râvide cerh ve ta’dil bir araya gelirse hangisi öne geçer?
++ Cerhin sebebi açıklanmışsa cerh, açıklanmamışsa ta’dil
+- Her durumda cerh
+- Her durumda ta’dil
+- Çoğunluğun görüşü
+= Cerh etme sebebi açıklanmışsa ta’dilin önüne geçer; açıklanmamışsa ta’dil öne geçer.
+
+? 10 | Cerh ve ta’dil lafızlarını ilk olarak 4’er gruba ayıran kimdir?
++ İbn Ebî Hâtim er-Râzî
+- İbn Hacer
+- Zehebî
+- Irâkî
+= İbn Ebî Hâtim el-Cerh ve’t-ta’dîl’in mukaddimesinde lafızları 4’er gruba ayırdı; sonra ilavelerle 6’şar gruba çıktı.
+
+? 10 | Ta’dîl lafızlarına «أوثق الناس»، «أثبت الناس» gibi tafdîl sîgalarını ekleyen kimdir?
++ İbn Hacer
+- Zehebî ve Irâkî
+- İbn Ebî Hâtim
+- Yahya b. Maîn
+= Zehebî ve Irâkî tekrarlı tevsîk lafızlarını, İbn Hacer tafdîl sîgalarını eklemiş ve ta’dîl 6 grup olmuştur.
+
+? 10 | «صدوق»، «محله الصدق»، «لا بأس به» lafızları hangi seviyeyi gösterir?
++ Hasen
+- Sahih
+- Yesîrü’d-da’f
+- Mevzu
+= Râvînin zabtına işaret etmeksizin ta’dîl bildiren 4. grup ifadeler sened îtibârıyla hasen seviyesini gösterir.
+
+? 10 | Yahya b. Maîn’e göre «لا بأس به» ne anlama gelir?
++ «ثقة»
+- «صدوق»
+- «ضعيف»
+- «يعتبر به»
+= «لا بأس به» Yahya b. Maîn’e göre «ثقة»، «مأمون»، «خيار» mânâsındadır.
+
+? 10 | Ta’dîlin 6. grubundaki râvilerin rivâyetleri hakkındaki hüküm nedir?
++ Delil getirilmez; îtibâr yapmak gâyesiyle yazılabilir, ihtibârı yapılmaz
+- Delil getirilir
+- İhtibâr yapılır, uygunsa delil getirilir
+- Hiç yazılmaz
+= 6. gruptakiler zabt sahibi olmadıkları için ihtibârları yapılmaz; rivâyetleri yalnızca îtibâr için yazılır.
+
+? 10 | Cerhin 3. ve 4. grubundaki râvilerin rivâyetleri sırasıyla nasıl nitelenir?
++ Münker ve metruk
+- Mevzu ve münker
+- Zayıf ve münker
+- Metruk ve mevzu
+= 3. gruptakilerin rivâyetleri münker, 4. gruptakilerinki metruktur; her ikisi şedîdü’d-da’f seviyesindedir.
+
+? 10 | «كذاب»، «دجال»، «وضاع» lafızlarıyla nitelenen râvinin rivâyeti nedir?
++ Mevzu
+- Münker
+- Metruk
+- Zayıf ama îtibâr için yazılır
+= 5. ve 6. gruba giren râvîlerin rivâyetleri mevzu’dur.
+
+# ---------- 11. ünite ----------
+? 11 | Sahâbe kitapları özellikle hangi ayrım için önemlidir?
++ Mürsel hadisi mevsul hadisten ayırmak
+- Sahih hadisi hasenden ayırmak
+- Kudsî hadisi nebevîden ayırmak
+- Mevkufu maktu’dan ayırmak
+= Senedin sona erdiği şahsın sahâbî olmadığını bilmeyen biri mürseli mevsulden ayıramaz.
+
+? 11 | el-İsâbe’de her harfin 3. kısmında kimler yer alır?
++ Muhadramlar
+- Sahâbîliği sabit olanlar
+- Vefatta temyiz çağının altındaki çocuklar
+- Yanlışlıkla sahâbe sayılanlar
+= 3. kısım muhadramlara ayrılmıştır; bunlar tâbiîndendir ve hadisleri ittifakla mürsel sayılır.
+
+? 11 | Üsdü’l-ğâbe’de «د» rumuzu hangi kaynağı gösterir?
++ İbn Mende
+- Ebû Nuaym
+- İbn Abdilberr
+- Ebû Musa
+= İbnü’l-Esîr’in rumuzları: İbn Mende «د», Ebû Nuaym «ع», İbn Abdilberr «ب», Ebû Musa «س».
+
+? 11 | İbn Sa’d’ın et-Tabakâtü’l-kübrâ’sının 8. cildinde kimlere yer verilmiştir?
++ Hanım sahâbîlere
+- Hz. Peygamber’in hayatına
+- Bedir’e katılanlara
+- Kûfe’ye yerleşenlere
+= 1. cilt Hz. Peygamber’in hayatına, 8. cilt hanım sahâbîlere ayrılmıştır.
+
+? 11 | Buhârî et-Târîhu’l-kebîr’de hangi isimleri ilk önce zikretmiştir?
++ Adı Muhammed olanları
+- Adı Ahmed olanları
+- Aşere-i Mübeşşere’yi
+- Hanım sahâbîleri
+= Buhârî alfabetik tertibe rağmen Hz. Peygamber’in ismine hürmetle adı Muhammed olanları önce zikretmiştir.
+
+? 11 | Buhârî’nin cerhte kullandığı en ağır ibarelerden biri hangisidir?
++ “Münkerü’l-hadîs”
+- “Fîhi nazar”
+- “Sekatû anhu”
+- “Leyse bi-zâke”
+= Buhârî cerhte latif ibareler kullanır; en ağırlarından biri “münkerü’l-hadîs”tir.
+
+? 11 | Buhârî’nin bir râvi hakkında susması neyi ifade eder?
++ Ta’dil
+- Cerh
+- Râvinin meçhul olduğunu
+- Râvinin sahâbî olduğunu
+= Buhârî çoğunlukla cerh ve ta’dil ifadesi kullanmayıp susmayı tercih eder; bu, râvileri ta’dil ettiği anlamına gelir.
+
+? 11 | Kütüb-i Sitte ricâli konusunda bize ulaşan ilk ve en meşhur eser hangisidir?
++ Abdülğanî el-Makdisî’nin el-Kemâl fî esmâi’r-ricâl’i
+- Mizzî’nin Tehzîbü’l-Kemâl’i
+- Zehebî’nin el-Kâşif’i
+- İbn Hacer’in Tehzîbü’t-Tehzîb’i
+= el-Kemâl bu konuda kendisinden sonraki bütün çalışmalara asıl teşkil etmiştir.
+
+? 11 | “Benzerinin yazılmadığı ve yazılamayacağı hususunda âlimler birleşmiştir” sözü hangi eser için söylenmiştir?
++ Tehzîbü’l-Kemâl
+- el-Kemâl
+- Takrîbü’t-Tehzîb
+- Mîzânü’l-i’tidâl
+= Sübkî bu sözü Mizzî’nin Tehzîbü’l-Kemâl’i için söylemiştir.
+
+? 11 | Tehzîbü’l-Kemâl’e zeyl olarak İkmâlü Tehzîbi’l-Kemâl’i kim yazmıştır?
++ Moğoltay
+- Zehebî
+- İbn Hacer
+- Hazrecî
+= Hâfız Alâüddin Moğoltay (762) İkmâlü Tehzîbi’l-Kemâl’i yazmıştır; İbn Hacer bu eserden çokça istifade etmiştir.
+
+? 11 | Takrîbü’t-Tehzîb’de Sünen-i Erbaa’nın rumuzu nedir?
++ «عم»
+- 4
+- «ع»
+- «تمييز»
+= İbn Hacer Takrîb’de Sünen-i Erbaa’nın rumuzu olan 4’ü «عم» ile değiştirmiştir.
+
+? 11 | Takrîbü’t-Tehzîb’de «تمييز» rumuzu ne için kullanılır?
++ Kütüb-i Sitte râvilerinin dışında zikredilen râvileri belirtmek için
+- Muhadramları belirtmek için
+- İbn Hacer’in ilavelerini belirtmek için
+- Mübhem kadın râvileri belirtmek için
+= «تمييز» rumuzu kitabın konusu olan Kütüb-i Sitte râvilerinin dışında zikrettiği râviler içindir.
+
+? 11 | İbn Hacer Takrîb’in mukaddimesinde râvileri kaç tabakaya ayırmıştır?
++ 12
+- 6
+- 21
+- 4
+= Takrîb’de râvi mertebeleri 12 tabaka ile sınırlandırılmıştır.
+
+? 11 | Tehzîbü’t-Tehzîb’de «قلت» ile başlayan cümleler neyi gösterir?
++ İbn Hacer’in kendi kelamı ve ilavelerini
+- Mizzî’nin görüşlerini
+- Zehebî’nin hükümlerini
+- Moğoltay’ın zeyllerini
+= «قلت» şeklinde başlayan cümleler İbn Hacer’in kendi kelamı ve ilaveleridir.
+
+? 11 | el-Kâşif’te isimler nasıl sıralanmıştır?
++ Alfabetik; ama elif harfinde önce Ahmed, mim harfinde önce Muhammed
+- Tabakalara göre
+- Vefat tarihlerine göre
+- Kütüb-i Sitte sırasına göre
+= Zehebî el-Kâşif’te alfabetik sıralamaya uymuş, elifte Ahmed, mimde Muhammed ile başlamıştır.
+
+? 11 | Hazrecî’nin Hulâsa’sının dikkat çekilen iki kusuru nedir?
++ Çoğunda cerh-ta’dili ve birçoğunda vefat tarihini zikretmemesi
+- Alfabetik olmaması ve rumuz kullanmaması
+- Kadın râvileri almaması ve çok uzun olması
+- Senedleri vermesi ve tekrar etmesi
+= Hal tercümelerinin çoğunda cerh ve ta’dili, birçoğunda vefat tarihini zikretmemesi kusur sayılmıştır.
+
+? 11 | Zayıf râviler hakkında yazılmış en derli toplu kitap hangisidir?
++ Zehebî’nin Mîzânü’l-İ’tidâl’i
+- İbn Adî’nin el-Kâmil’i
+- Buhârî’nin ed-Duafâü’l-Kebîr’i
+- İbn Hacer’in Lisânü’l-Mîzân’ı
+= Mîzânü’l-İ’tidâl 11.053 râvi hakkında bilgi verir ve İbn Adî’nin el-Kâmil’inin metodunu izler.
+
+? 11 | İbn Hibbân’ın Kitâbü’s-Sikât’ı nasıl tertip edilmiştir?
++ Râvilerin tabakalarına göre, her tabakanın isimleri alfabetik
+- Tamamen alfabetik
+- Beldelere göre
+- Kütüb-i Sitte sırasına göre
+= İbn Hibbân kitabı tabakalara göre tertip etmiş, her tabakanın isimlerini de alfabetik yazmıştır.
+
+# ---------- 12. ünite ----------
+? 12 | Bir hadise sıhhat derecesi vermek için hangi kitaplarda geçmesi yeterli görülmüştür?
++ Buhârî ve Müslim
+- Ebû Dâvûd ve Tirmizî
+- İbn Hibbân ve Hâkim
+- Dârekutnî ve Beyhakî
+= Sahîhayn zaten sahih hadisleri içerdiği için senedinin araştırılmasına ihtiyaç yoktur.
+
+? 12 | İbnü’s-Salâh Sahîhayn’in ferd kaldığı hadisler hakkında ne der?
++ Sıhhatinde katiyyet vardır
+- Araştırılması gerekir
+- Zayıf olabilir
+- Yalnızca isnadı sahihtir
+= İbnü’s-Salâh, Sahîhayn’in hadislerinin hiçbir şüpheye yer kalmayacak şekilde katiyyet ifade ettiğini söyler.
+
+? 12 | “Sahîhayn ve İbn Huzeyme’den sonra en sahih eser” olarak anılan, fakat müellifi mütesâhil kabul edilen eser hangisidir?
++ İbn Hibbân’ın Sahîh’i
+- İbnü’s-Seken’in Sahîh’i
+- Hâkim’in Müstedrek’i
+- Tirmizî’nin Sünen’i
+= Denilir ki Sahîhayn ve İbn Huzeyme’den sonra en sahih eser İbn Hibbân’ınkidir; fakat İbn Hibbân mütesâhildir.
+
+? 12 | Senedleri hazfedilmiş, ahkâma dair sahih hadisleri bablar halinde toplayan Sahîh kimindir?
++ İbnü’s-Seken
+- İbn Huzeyme
+- İbn Hibbân
+- Hâkim
+= İbnü’s-Seken’in Sahîh’inde senedler hazfedilmiştir.
+
+? 12 | Ebû Dâvûd, Tirmizî gibi müellifler bir hadisin sıhhatine hükmetmemişse ne yapılır?
++ Araştırma yapılmadan hadisin sıhhatine hüküm verilmez
+- Hadis sahih kabul edilir
+- Hadis zayıf kabul edilir
+- Hadis terk edilir
+= Bu müellifler yalnızca sahih hadis yazmayı murad etmedikleri için hüküm verilmemiş hadis araştırılır.
+
+? 12 | Aşağıdakilerden hangisi hadisin sıhhat şartlarından biri değildir?
++ Hadisin birden çok sahâbîden rivâyet edilmesi
+- Adâletü’r-râvî
+- İttisâlü’s-sened
+- Ademü’ş-şüzûz
+= Sıhhat şartları: adâletü’r-râvî, zabtü’r-râvî, ittisâlü’s-sened, ademü’ş-şüzûz, ademü’l-illet.
+
+? 12 | Örnek isnad araştırmasında râviler için neden yalnızca Kütüb-i Sitte ricâli kitaplarına bakılmıştır?
++ Râvilerin hepsi Kütüb-i Sitte râvilerinden olduğu için
+- Diğer kitaplar kaybolduğu için
+- Hadis Buhârî’de geçtiği için
+- Râviler sahâbî olduğu için
+= Bu râvilerin hepsi Kütüb-i Sitte râvilerindendir; onları araştıran müstakil ricâl kitapları vardır.
+
+? 12 | Örnek isnad araştırmasında esas alınan ricâl kitabı hangisidir?
++ Takrîbü’t-Tehzîb
+- Tehzîbü’l-Kemâl
+- Mîzânü’l-i’tidâl
+- el-Cerh ve’t-ta’dîl
+= Örnekte Takrîbü’t-Tehzîb esas alınıp birinci râviden başlanarak tüm râviler bulunur.
+
+? 12 | Hatîb el-Bağdâdî’ye göre hadisin illetini ortaya çıkarmanın yollarından biri değildir?
++ Hadisin mevzûât kitaplarında geçip geçmediğine bakmak
+- Hadisin bütün yollarını bir araya getirmek
+- Râvilerin ihtilaflarına bakmak
+- Râvilerin hıfz konumlarına itibar etmek
+= Hatîb: bütün yolları toplamak, ihtilaflara bakmak, hıfz ve zabt-itkan konumlarını bilmek.
+
+? 12 | Metin hakkında hüküm vermek zor olduğu için araştırmacı nasıl hüküm verir?
++ Senedi baz alarak “sahîhu’l-isnâd / hasenü’l-isnâd / zayıfü’l-isnâd” der
+- Hadise hiç hüküm vermez
+- Yalnızca “sahih” veya “mevzu” der
+- Önceki âlimlerin hükmünü değiştirir
+= Araştırmacı isnad hakkında hüküm vermekle yetinir.

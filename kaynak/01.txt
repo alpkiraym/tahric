@@ -1,0 +1,63 @@
+# Tahrice Giriş
+> Tahricin sözlük ve ıstılah anlamı, masâdır-ı asliyye, tahrice duyulan ihtiyaç, tahricin faydaları ve tahric usûlünün tarihî seyri.
+
+## Tahricin Tanımı
+: Tahric (lügat) = Bir şeyi bulup çıkarmak anlamında kullanıldığı gibi, bir kısmı verimli, bir kısmı çorak arazi için de kullanılır.
+¶ “Tahric” kelimesi birkaç manada kullanılır:
+- İstinbat (fıkıhçılar kullanır)
+- Tedrib (alıştırma)
+- Tevcih (tefsirde)
+@ أَخْرَجَهُ الْبُخَارِيُّ | İnsanlara çıkış yerini beyan etti anlamındadır. Bu da hadisin senedinin ricalini zikretmekle olur.
+@ خَرَّجَهُ الْبُخَارِيُّ | Ahrecehu manasındadır. Hadisin çıkış yerini zikretti.
+### Hadisçilerce tahric
+1. İhrac kelimesinin eş anlamlısıdır: bu da hadisin ricalini zikretmek manasında.
+2. Hadisi kitaplardan çıkarıp rivayet etmek manasında.
+3. Delalet: Hadisin masâdır-ı asliyyedeki yerini göstermek. Bu da müelliflerden kimin rivayet ettiğini zikretmekle olur. Bu mana muhaddisler arasında meşhur olmuştur.
+: Tahric (ıstılah) = Hadisin isnadla nakilde bulunulan masâdır-ı asliyyedeki (ana kaynaklardaki) yerlerini belirtmektir. Sonra da ihtiyaç duyulduğunda hadisin derecesi beyan edilir.
+* Tahric ıstılahta: hadisin isnadla nakledildiği masâdır-ı asliyyedeki yerini belirtmek, gerekirse derecesini beyan etmektir.
+* Hadisçilerce tahricin 3 anlamı: ihrac (ricalini zikretmek), kitaplardan çıkarıp rivayet etmek, delalet (aslî kaynaktaki yerini göstermek; meşhur olan mana budur).
+
+## Masâdır-ı Asliyye
+: Masâdır-ı asliyye = «هِيَ الَّتِي تَرْوِي الْحَدِيثَ بِالْإِسْنَادِ» Hadisi isnadla rivayet eden kaynaklardır.
+### Masâdır-ı asliyyeden maksat
+1. Müelliflerin şeyhlerinden Hz. Peygamber’e ulaşan senedleriyle telakki ettikleri hadisleri ihtiva eden kitaplar. Ör. Kütüb-i Sitte, Muvatta’…
+2. Yukarıdaki kitaplara tabi olan hadis kitapları. Ör. Kendinden önceki kitapları bir araya getiren eserler (Humeydî’nin el-Cem’u beyne’s-Sahihayn’ı).
+3. Hadis dışındaki ilim dallarına ait kitaplar. Ör. Tefsir, tarih, fıkıh kitapları… (kendi senediyle olmak şartıyla)
+| Masâdır-ı asliyye türü | Örnek
+| **1. Senedleriyle telakki edilen hadis kitapları** | Kütüb-i Sitte, Muvatta’
+| **2. Bunlara tabi olan hadis kitapları** | Humeydî’nin el-Cem’u beyne’s-Sahihayn’ı
+| **3. Hadis dışı ilimlerin kitapları** | Tefsir, tarih, fıkıh kitapları (kendi senediyle olmak şartıyla)
+* Masâdır-ı asliyye: hadisi isnadla rivayet eden kaynaklar. 3 türü: senedle telakki edilen kitaplar (Kütüb-i Sitte, Muvatta’), bunlara tabi kitaplar (el-Cem’u beyne’s-Sahihayn), kendi senediyle rivayet eden tefsir, tarih, fıkıh kitapları.
+
+## Önemi, Hangi Açıdan İhtiyaç Duyulduğu
+¶ Tahric sayesinde hadis ilmiyle uğraşanlar hadislere imamların telif ettiği masâdır-ı asliyyedeki yerlerine ulaşır.
+¶ Tahrice duyulan ihtiyaç çok fazladır. Şöyle ki; araştırmacının, âlimlerden kimin rivayet ettiğini bilmeden bir hadisi şahid olarak kullanması veya rivayet etmesi caiz değildir. Bundan dolayı tahric, şer’î ilimlerle uğraşan veya herhangi bir araştırmacının ihtiyacıdır.
+!! Araştırmacının, âlimlerden kimin rivayet ettiğini bilmeden bir hadisi şahid olarak kullanması veya rivayet etmesi caiz değildir.
+* İhtiyaç: kimin rivayet ettiğini bilmeden bir hadisi şahid olarak kullanmak veya rivayet etmek caiz değildir.
+
+## Faydası
+- Hadisin metinlerinin karşılaştırılması suretiyle hadis metninin naklinin ne derecede dakik yapıldığı veya aksi olduğu tespit edilir.
+- Hadisin değişik rivayetlerinin incelenmesiyle, hangi hadis türüne (haber-i ahad, mütevatir…) dâhil olduğu ortaya çıkar.
+- Tahric ile hadisin şahit ve tabilerinin var olup olmadığı, böylece hadisin şahit ve tabilerle güçlenerek sahih veya hasen derecesine yükselme durumu belli olur.
+- Hadisin tahrici yapılarak rivayetlerinin bir araya getirilmesi ve karşılaştırılmasıyla varsa illetler ortaya konur.
+- Şazz rivayetler yahut sika ravilerin naklettiği ve diğer rivayetlerde yer almayan ilave ifadeler (ziyadetü’s-sikat) belirlenir. Şazz diye bilinen rivayetin şazz olup olmadığı da tespit edilebilir.
+- Çelişki olduğunda birbirini kuvvetlendiren ve tercihe şayan rivayet ve isnadların belirlenmesi sağlanabilir.
+- Senedde bulunabilecek zikredilmemiş isimler tespit edilip, hadisin munkatı’ hadis türlerinden hangisine dahil olduğu belirlenebilir.
+- Hadisin zamanını ve zeminini belirlemek, aynı şekilde nasih ve mensuhunu belirlemek.
+- Zaman zaman anlaşılmayan kelimelerin açıklamasına rastlanabilir. Gibi…
+* Faydaları: nakil dakikliği, hadis türü (ahad/mütevatir), şahit ve tabilerle sahih/hasen derecesine yükselme, illetler, şazz ve ziyadetü’s-sikat, tercih, senedde zikredilmeyen isimler (munkatı’ türü), zaman-zemin ve nasih-mensuh, garib kelimelerin açıklaması.
+
+## Tahric Usûlünün Tarihî Seyri
+¶ “İlk dönemlerde hadis ilimleriyle meşgul olan âlimler ve araştırmacılar, daha sonraları ‘Hadis Tahric Usûlü’ ismi verilecek ilmin temel kâide ve esaslarını ortaya koymaya ve çalışmalarını bunların üzerine bina etmeye ihtiyaç duymadılar. Çünkü onların temel hadis kaynakları üzerindeki vukûfiyetleri daha fazla, bunlara ulaşmaları ise daha sağlam yollarla olmaktaydı. Herhangi bir hadisle delil getirmek istediklerinde rivâyetin temel kaynaklardaki konumunu, hangi ciltte yer aldığını hemen hatırlayabilirler, en azından tam olarak yerini bilebilirlerdi. Bunun sebebi ise, bu eserlerin nasıl tertib ve te’lif edildiği bilgisine sahip olmalarıydı. Bundan dolayı kendilerine bu eserlerden istifâde etmek ve hadis tahricinde bunlara mürâcaat etmek kolay gelirdi.
+¶ Durum birkaç asır bu şekilde devam etti. Daha sonra gelen âlim ve araştırmacıların temel hadis kaynaklarına mürâcaatları azaldı. Kendilerine fıkıh, tefsir, târih gibi ilimlerle uğraşan musanniflerin eserlerinde delil olarak getirdikleri hadislerin kaynaklarına ulaşmak zor gelmeye başladı. İçlerinden bazı bilginler uyanıklık gösterdiler. Bu hususta gayret sarf etmeye başladılar. Hadis ilmi dışında tasnif edilmiş bazı kitaplardaki rivâyetleri tahric ederek işe koyuldular. Farklı varyantlarını zikrettiler. Bu rivâyetlerin tamamı veya bazıları hakkında konumlarına göre sahih, zayıf v.b. hükümler verdiler. Böylece tahric kitapları şeklinde bir isimlendirme ortaya çıkmış oldu. **Hatîb el-Bağdâdî**’nin (463/1071), içindeki hadisleri tahric ettiği kitaplar bunların ilklerindendir.
+### Hatîb el-Bağdâdî’nin ilk tahricleri
+1. Şerif Ebü’l-Kâsım el-Hüseynî’nin eserine yazdığı tahric; Tahrîcü’l-fevâidi’l-müntehabeti’s-sıhâh ve’l-ğarâib.
+2. Ebü’l-Kâsım el-Mehravânî’nin eserine yazdığı tahric; Tahrîcü’l-fevâidi’l-müntehabeti’s-sıhâh ve’l-ğarâib. (Her iki eser el yazması halinde mevcuttur).
+¶ Bu başlangıçtan sonra tahric kitapları birbiri ardına gelmeye başladı. Bu sahada onlarca eser kaleme alındı. İçindeki rivâyetlerin tahricini yaptıkları bu eserler sebebiyle hadis âlimleri büyük hizmetlere imza attılar. İlim sâliklerini Hz. Peygamber’in (s.a.v.) tertemiz sünnet-i seniyyesine kolay bir şekilde ulaştırma yolunda şükre ve övgüye lâyık çalışmalarda bulundular. Bu gayretleriyle hadis külliyâtının açıklanması noktasında büyük bir boşluğu doldurdular. Şayet onlar bu büyük sorumluluğu üstlenmeseler ve özverili çalışmalarda bulunmasalardı, bu sahada elbette büyük bir boşluk olacak ve biz bugün bu rivâyetlerin kaynağına ulaşmada çok fazla çaba sarf etmek zorunda kalacaktık.
+¶ Asrımıza geldiğimizde ise, araştırmacılar okudukları herhangi bir kitapta rastladıkları bir hadisi -bu kitap da bu hadisin kaynağına kısaca işaret etmişse- işaret edilen kaynaktaki bu hadisin metnine nasıl ulaşacaklarını bilemez hale gelmişlerdir. Çünkü bu kaynağın tertibini ve başlıklandırılmasını bilmemektedirler.
+>> **İlk dönemler:** Âlimler kaynaklara vâkıftı; tahric usûlüne ihtiyaç duymadılar.
+>> **Sonraki asırlar:** Kaynaklara mürâcaat azaldı; fıkıh, tefsir, târih kitaplarındaki hadislerin kaynağına ulaşmak zorlaştı.
+>> **Tahric kitapları:** Hatîb el-Bağdâdî (463) ile başladı, onlarca eser yazıldı.
+>> **Asrımız:** Araştırmacı, kaynağın tertibini bilmediği için işaret edilen hadise ulaşamaz hale geldi.
+* İlk tahric kitapları Hatîb el-Bağdâdî’nin (463/1071): Hüseynî’nin ve Mehravânî’nin eserlerine yazdığı Tahrîcü’l-fevâidi’l-müntehabeti’s-sıhâh ve’l-ğarâib (ikisi de el yazması).
+* Asrımızda araştırmacılar kaynakların tertibini bilmedikleri için işaret edilen hadise ulaşamaz hale geldiler.

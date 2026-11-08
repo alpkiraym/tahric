@@ -1,0 +1,26 @@
+# Dördüncü Yol (1): Bütün Konuları İçeren Eserler · Özet
+> Dördüncü fasıl: hadisin konusunu bilme yoluyla tahric. Konuya göre kitaplar üç kısımdır; A) bütün bablar üzerine olanlar.
+
+## Dördüncü Fasıl: Dördüncü Yol
+@ الطَّرِيقَةُ الرَّابِعَةُ: التَّخْرِيجُ عَنْ طَرِيقِ مَعْرِفَةِ مَوْضُوعِ الْحَدِيثِ. | Hadisin konusunu bilme yoluyla tahric yapmak.
+@ الْكُتُبُ عَلَى حَسَبِ مَوْضُوعِ الْحَدِيثِ ثَلَاثَةُ أَقْسَامٍ: | Hadisin konusuna göre kitaplar üç kısımdır.
+| Kısım | Arapça
+| **A** | «على جميع الأبواب»
+| **B** | «على أبواب الفقه»
+| **C** | «على جانب الدين»
+
+## A) Bütün Bablar Üzerine
+@ عَلَى جَمِيعِ الْأَبْوَابِ
+| Tür | Örnekler
+| **1. «الجوامع»** | «بخاري، مسلم، ترمذي»
+| **2. «المستخرج»** | «الإسماعيلي على بخاري، أبو عوانة على مسلم، أبو نعيم عليهما معا»
+| **3. «المستدركات»** | «المستدرك على الصحيحين للحاكم»
+| **4. «المجاميع»** | «مشارق الأنوار للصاغاني، يجمع بين الصحيحين؛ جامع الأصول لابن الأثير، يجمع بين الأصول الستة؛ جمع الفوائد للمغربي، يجمع الكتب التسعة ومسندي أبي يعلى والبزار ومعاجم الطبراني الثلاثة (الكبير، الأوسط، الصغير)»
+| **5. «الزوائد»** | «مصباح الزجاجة للبوصيري يحتوي زيادات ابن ماجه على باقي كتب الستة؛ مجمع الزوائد للحافظ الهيثمي يحتوي زيادات معاجم (الكبير، الأوسط، الصغير) الطبراني ومسانيد أبي يعلى وأبي بكر البزار وأحمد بن حنبل على كتب الستة»
+| **6. «مفتاح كنوز السنة»** | «مفتاح كنوز السنة»
+! Câmi’ler, bütün hadisleri toplayan kitaplardır; Mecâmi’ler ise hadis kitaplarını bir araya getiren eserlerdir.
+¶ (Miftâhu Künûzi’s-Sünne kitabı Concordance yazarı Wensinck tarafından yazılmıştır. Aralarındaki fark: diğeri ilk lafza göre, bu hadisin konusuna göre yazılmıştır; diğeri Fransızca, bu İngilizce basılmıştır; diğeri Kütüb-i Tis’a, bu 14 kitap içerir; bu ricâl hakkında bilgi verir.)
+| | Concordance | Miftâhu Künûzi’s-Sünne
+| **Esas** | Lafız | Hadisin konusu
+| **Dil** | Fransızca | İngilizce
+| **Kapsam** | Kütüb-i Tis’a | 14 kitap; ricâl hakkında bilgi verir

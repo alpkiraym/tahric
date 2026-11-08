@@ -1,0 +1,202 @@
+# Birinci Yol: Sahâbî Râvi
+> Hadisi rivayet eden sahâbî biliniyorsa başvurulan yol: müsnedler, mu’cemler ve etrâf kitapları; Tuhfetü’l-Eşrâf ve Zehâiru’l-Mevârîs.
+
+## Tahric Yolları
+¶ Hadis tahricinde takip edilmesi gereken metod: Tahric için beş ayrı metod vardır.
+1. Sahâbe râvisini bilme yolu ile tahric.
+2. Hadis metninin ilk kelimesinden yola çıkarak tahric.
+3. Kullanımı az olan bir kelimesinden araştırma yolu ile tahric.
+4. Hadisin konusundan hadisi bulma yolu ile tahric.
+5. Metin ve sened açısından hadisi göz önüne alarak tahric.
+| Yol | Ne biliniyor? | Başvurulan eserler
+| **1. Yol** | Hadisi rivayet eden sahâbî | Müsnedler, mu’cemler, etrâf kitapları
+| **2. Yol** | Metnin ilk kelimesi | Halk dilinde meşhur hadis kitapları, alfabetik eserler, fihristler
+| **3. Yol** | Metinde az kullanılan bir kelime | el-Mu’cemü’l-müfehres (Concordance)
+| **4. Yol** | Hadisin konusu | Konularına göre tertib edilmiş eserler
+| **5. Yol** | Metin ve senedin hâli | Mevzûât, müselsel, mürsel, ilel kitapları vb.
+* Tahricin 5 yolu: sahâbî râvi · ilk kelime · az kullanılan kelime · konu · metin ve sened hâli.
+
+## Birinci Yol: Sahâbe İsmine Göre Tertib Edilmiş Eserler
+¶ Sahâbe (râvi) ismine göre tertib edilmiş eserlerden yararlanma:
+- Hadisin hangi sahâbî veya sahâbîler tarafından rivayet edildiği biliniyorsa bu yönteme başvurulabilir.
+- 3 türlü tasniften yardım alırız: **Müsnedler** (el-Mesânîd), **Mu’cemler** (el-Meâcim), **Etrâf kitapları**.
+* Birinci yol: sahâbî biliniyorsa müsnedler, mu’cemler ve etrâf kitaplarından yararlanılır.
+
+## Müsnedler (el-Mesânîd)
+: Müsned = Hadisleri sahâbe isimlerine göre derleyen kitaplardır.
+- Müsnedlerdeki sahâbe isimlerinin tertibinde hece harfleri, İslam’a giriş önceliği, kabilesi, beldesi gibi farklı kriterler göz önüne alınmıştır. Hece harflerine göre tertib edilmiş müsnedlerden istifâde etmek daha kolaydır.
+- Müsned tabiri sadece sahâbe ismi esas alınan kitaplar için değil, bazen harflere ve bablara göre tertib edilmiş kitaplar için de kullanılır. Ayrıca lügavî anlamda Hz. Peygamber’e (sav) isnad edilen sözlerin hepsine müsned denir.
+- Hadis imamlarının tasnif ettiği müsned kitaplarının sayısı çoktur. **Kettânî** (ö.1345/1926) er-Risâletü’l-müstatrafe adlı eserinde 82 müsned ismi zikrettikten sonra bunlardan başka pek çok müsnedin olduğunu söyler.
+### Müsnedlerden bazı örnekler
+1. Ahmed b. Hanbel’in (ö.241/855) Müsned’i.
+2. Ebû Bekr Abdullah b. ez-Zübeyr el-Humeydî’nin (ö.219/834) Müsned’i.
+3. Ebû Dâvûd Süleyman b. Dâvûd et-Tayâlisî’nin (ö.204/819) Müsned’i.
+4. Esed b. Musa el-Emevî’nin (ö.212/827) Müsned’i.
+5. Müsedded b. Müserhed el-Esedî el-Basrî’nin (ö.228/843) Müsned’i.
+6. Nuaym b. Hammad’ın (ö.228/843) Müsned’i.
+7. Ubeydullah b. Musa el-Absî’nin (ö.213/828) Müsned’i.
+8. Ebû Hayseme Züheyr b. Harb’in (234/849) Müsned’i.
+9. Bezzâr’ın (ö.292/905) Müsned’i. (el-Bahru’z-zehhâr)
+10. Ebû Ya’lâ’nın (ö.307/919) Müsned’i.
+11. Abd b. Humeyd’in (ö.249/863) Müsned’i.
+¶ Bu müsnedlerdeki sahâbe sıralaması genel itibarıyla şöyledir: Aşere-i Mübeşşere, Ehl-i Beyt, Ashab-ı Bedr, muhacir, ensar, kabilelerden gelen sahâbîler, nâdir sahâbîler, hanım sahâbîler.
+* Müsned: hadisleri sahâbe isimlerine göre derleyen kitap. Kettânî er-Risâletü’l-müstatrafe’de 82 müsned sayar.
+* Müsnedlerde genel sıralama: Aşere-i Mübeşşere, Ehl-i Beyt, Ashab-ı Bedr, muhacir, ensar, kabileler, nâdir sahâbîler, hanım sahâbîler.
+
+## Humeydî’nin Müsned’i
+¶ Humeydî’nin (219/834) Müsned’i:
+- Ebû Bekr Abdullah b. ez-Zübeyr Îsa el-Humeydî el-Esedî Mekkeli ilk müsned musannifidir. Süfyan b. Uyeyne’nin uzun yıllar talebeliğini yapmış, İmam Buhârî’ye de hocalık etmiştir. Şâfiî’nin ders arkadaşıdır.
+- 1300 hadis ihtiva etmektedir. 180 sahâbînin müsnedi yer almaktadır.
+- Sahâbe müsnedi olup, Hz. Ebubekir sonra diğer üç halifenin hadislerini tarihe göre sıralamıştır. Ancak Talha b. Ubeydullah’ın hadislerine ulaşamadığından kitabına almamıştır. Geri kalan diğer sahâbîlerde herhangi bir tertip gözetmemiştir. Görünen tertibi önce İslam’a giriş sırası, sonra Hz. Peygamber’in zevceleri, sonra hanım sahâbîler, sonra Ensar’dan olan erkek sahâbîler şeklindedir.
+### Tahric usûlünde kullanılacak ifâde
+@ أَخْرَجَهُ الْحُمَيْدِيُّ فِي مُسْنَدِهِ (ج / ص) رَقْمُ الْحَدِيثِ: ... نَحْوَهُ / مِثْلَهُ / ... وَقَالَ الْمُحَقِّقُ حُسَيْن سَلِيم أَسَد: ...
+### Humeydî’nin Müsned’inde aradığımız hadise ulaşma şekilleri
+1. Tahkik edenlerin kendi fihristlerinden.
+2. Mevsûatü etrâfi’l-hadîs’ten; hadisin başında geçen ilk kelimenin ilk harfine göre. (Rumuzu: «حميدي»)
+3. Elfiye, Şâmile gibi çeşitli hadis CD’lerinden. (Elfiye’de hadis numaraları tutmaktadır).
+* Humeydî (219): Mekkeli ilk müsned musannifi; Süfyan b. Uyeyne’nin talebesi, Buhârî’nin hocası, Şâfiî’nin ders arkadaşı. 1300 hadis, 180 sahâbî. Talha b. Ubeydullah’ın hadislerine ulaşamamıştır.
+
+## Ahmed b. Hanbel’in Müsned’i
+¶ Ahmed b. Hanbel’in (ö.241/855) Müsned’i:
+- Hadisleri alfabetik olarak değil faziletlerine, kaldıkları yerlere ve kabilelerine vb. göre tertib etmiştir.
+- Bazen de bir hadis birkaç yerde geçer.
+- Toplam 904 sahâbî vardır.
+- Ahmed b. Hanbel’in Müsned’inin içinde oğlu Abdullah’ın ziyâdeleriyle birlikte 40.000 civârında rivâyet bulunduğu iddia edilmektedir. 10.000 kadarı mükerrerdir.
+- Tertibi: Hz. Ebubekir’den başlayarak Aşere-i Mübeşşere sahâbîler, sonra Abdurrahman b. Ebibekir, sonra Ehl-i beyt, en sonda da Şeddad b. el-Hâd ile bitirir.
+### Müsned’e yapılan bir çalışma: el-Fethu’r-Rabbânî
+¶ Hasan el-Bennâ’nın babası **Ahmed Abdurrahman el-Bennâ es-Sââtî**’nin yazdığı el-Fethu’r-Rabbânî’dir. 24 cilttir. Hadisleri konularına göre tertib etmiştir. Bülûğu’l-emânî ismiyle eserini şerh ettikten sonra el-Fethu’r-Rabbânî bu şerhle birlikte basılmıştır. Şerhinde hadislerin tahricini de yapmıştır. Hadislerin kaynağını («خ», Buhârî gibi) rumuzlarla verir. Daha sonra hadisin hükmünü belirtir. Hadisler (içindeki tekrarlar çıkınca) 12.000 civârındadır. Şârihin kendi tekrarlarını da çıkarırsak 10.000 civârında hadis kalır.
+### Tahric usûlünde kullanılacak ifâde
+@ أَخْرَجَهُ أَحْمَدُ فِي مُسْنَدِهِ (ج / ص) رَقْمُ الْحَدِيثِ: ... نَحْوَهُ / مِثْلَهُ / ... وَقَالَ الْمُحَقِّقُ شُعَيْب الْأَرْنَؤُوط / أَحْمَد مُحَمَّد شَاكِر: ...
+¶ Bu ve diğer kaynaklardaki tahric çalışmalarında dikkat edeceğimiz diğer bir nokta da şudur: Araştırdığımız hadisi başka bir sahâbî de rivâyet etmişse bu, hadisimizin şâhidinin olduğunu gösterir. Bunu da tahric çalışmalarımızda belirtmemiz gerekir:
+@ أَخْرَجَهُ أَحْمَدُ فِي مُسْنَدِهِ (ج / ص) رَقْمُ الْحَدِيثِ: ... وَلَهُ شَاهِدٌ عَنْ ... | (hangi sahâbeden ise o yazılacak)
+! «نحوه / مثله» gibi ifâdeleri şâhitlerde kullanmıyoruz.
+### Ahmed b. Hanbel’in Müsned’inde aradığımız hadise ulaşma şekilleri
+1. Concordance’den; en ğarib kelimeler tercih edilmeli.
+2. Tahkik edenlerin kendi fihristlerinden: a) Ahmed Muhammed Şâkir tahkikinin 19 ve 20. ciltleri. b) Şuayb Arnavut tahkikinin 46, 47, 48, 49, 50. ciltleri.
+¶ Hadisin şerhine bakmak isteyenler; el-Fethu’r-Rabbânî’ye bakabilir ve tek cilt halindeki hece harfi esaslı fihristinden yararlanabilirler.
+3. Miftâhu künûzi’s-sünne’den; konusuna göre.
+4. Mevsûatü etrâfi’l-hadîs’ten; hadisin başında geçen ilk kelimenin ilk harfine göre. (Rumuzu: «حم»)
+5. Kütüb-i tis’a, Elfiye, Şâmile gibi çeşitli hadis CD’lerinden.
+* Ahmed b. Hanbel’in Müsned’i: alfabetik değil; fazilet, belde, kabileye göre. 904 sahâbî, oğlu Abdullah’ın ziyâdeleriyle 40.000 civârı rivâyet (10.000’i mükerrer). Şeddad b. el-Hâd ile biter.
+* el-Fethu’r-Rabbânî: Ahmed Abdurrahman el-Bennâ es-Sââtî; Müsned’i konularına göre tertib, 24 cilt, şerhi Bülûğu’l-emânî.
+* Şâhit varsa «وله شاهد عن» yazılır; şâhitlerde «نحوه / مثله» kullanılmaz.
+
+## Mu’cemler (el-Meâcim)
+: Mu’cem = Hadislerin sahâbeye veya hocalara (şuyûh) veyahut beldelere göre, çoğu kere alfabetik olarak sıralandığı eserlere mu’cem denir.
+- Mu’cemler sahâbe ismine göre derlenmişse, müsnedlerle aynı sisteme sahiptir.
+- Mu’cemin müsnedden farkı: Hadisleri müellifin hocalarına veya ravilerin beldelerine göre de toplamalarıdır.
+| | Müsned | Mu’cem
+| **Tertib esası** | Sahâbe isimleri | Sahâbe, hocalar (şuyûh) veya beldeler
+| **Sıralama** | Hece harfleri, İslam’a giriş önceliği, kabile, belde gibi farklı kriterler | Çoğu kere alfabetik
+### En meşhur mu’cemler
+1. Taberânî’nin (ö.369/971) el-Mu’cemü’l-kebîr’i.
+2. Taberânî’nin el-Mu’cemü’l-evsat’ı.
+3. Taberânî’nin el-Mu’cemü’s-sağîr’i.
+4. İbn Lâl el-Hemedânî’nin (ö.398/1008) Mu’cemü’s-sahâbe’si.
+5. Ebû Ya’lâ Ahmed b. Ali el-Mevsılî’nin (ö.307/919) Mu’cemü’s-sahâbe’si.
+* Mu’cem: hadisler sahâbeye, hocalara veya beldelere göre, çoğu kere alfabetik sıralanır. Müsnedden farkı hocalara ve beldelere göre de toplamasıdır.
+
+## Taberânî’nin Üç Mu’cemi
+### el-Mu’cemü’l-kebîr
+- Ebü’l-Kâsım Süleyman b. Ahmed et-Taberânî.
+- 60.000 hadis içerir.
+- İlk önce Aşere-i Mübeşşere’den gelen rivâyetleri daha sonra alfabetik olarak diğer sahâbîlerden gelen rivâyetleri kitabına alır.
+- Ebû Hüreyre’den gelen rivâyetler bu eserinde bulunmamaktadır. Çünkü onları bir başka eserinde müstakil olarak derlemiştir.
+- Mu’cem mutlak olarak kullanılınca Taberânî’nin el-Mu’cemü’l-kebîr’i akla gelir. Diğer mu’cemlerde ise isimleri belirtilir.
+### el-Mu’cemü’l-evsat
+- Taberânî’nin, hocalarını alfabetik olarak sıralamasıyla meydana getirdiği eseridir. İçinde 30.000 rivâyet olduğu söylenir. 2.000’e yakın hocası vardır.
+#### el-Mu’cemü’l-evsat’ta aradığımız hadise ulaşma şekilleri
+1. Kitabın kendi fihristinden.
+2. Mevsûatü etrâfi’l-hadîs’ten; hadisin başında geçen ilk kelimenin ilk harfine göre. (Rumuzu: «طس»)
+3. Elfiye, Şâmile gibi çeşitli hadis CD’lerinden. (Elfiye’de hadis numaralarında dört beş hadis oynama vardır).
+### el-Mu’cemü’s-sağîr
+- Kitabını, hocalarının 1.000 tanesinden birer hadis derleyerek oluşturmuştur. Hocalarının isimlerini alfabetik olarak tertib etmiştir. Eserinin sonlarına doğru bazen bir hocadan iki veya daha fazla hadis naklettiği de görülmektedir.
+#### el-Mu’cemü’s-sağîr’de aradığımız hadise ulaşma şekilleri
+- Kitabın kendi fihristinden.
+- Mevsûatü etrâfi’l-hadîs’ten; hadisin başında geçen ilk kelimenin ilk harfine göre. (Rumuzu: «طص»)
+- Elfiye, Şâmile gibi çeşitli hadis CD’lerinden. (Elfiye’de hadis numaralarında kırk civarında oynama vardır.)
+| Taberânî’nin mu’cemi | Tertib | Hacim | Rumuz
+| **el-Mu’cemü’l-kebîr** | Önce Aşere-i Mübeşşere, sonra sahâbîler alfabetik; Ebû Hüreyre rivâyetleri yok | 60.000 hadis | —
+| **el-Mu’cemü’l-evsat** | Hocaları alfabetik | 30.000 rivâyet, 2.000’e yakın hoca | «طس»
+| **el-Mu’cemü’s-sağîr** | 1.000 hocasından birer hadis, hocalar alfabetik | — | «طص»
+* Mutlak “Mu’cem” = Taberânî’nin el-Mu’cemü’l-kebîr’i (60.000 hadis; Ebû Hüreyre rivâyetleri yok).
+* el-Mu’cemü’l-evsat: hocalarına göre, 30.000 rivâyet (rumuz «طس»). el-Mu’cemü’s-sağîr: 1.000 hocasından birer hadis (rumuz «طص»).
+
+## Etrâf Kitapları
+¶ Hadis edebiyâtında hadis bulmakta faydalandığımız anahtar kitaplar ve fihristler vardır. Bu konuda yazılan eserlerin başında etrâf kitapları gelir. Hadisin bir bölümünü ya da başını esas alarak asıl kaynaklarına göndermede bulunan bu etrâf kitapları daha çok Buhârî, Müslim ve Kütüb-i Sitte için kaleme alınmışlardır. Başka bir ifâde ile bu kitaplar hadisin anlam içeren (metnin başından, ortasından veya sonundan) bir bölümünü zikredip, tamamına yönlendirirler.
+!! Masâdır-ı ğayr-i asliyyeden olduğu için kaynak olarak gösterilmezler.
+¶ Etrâf kitapları, içlerinde bulunan hadislerin senedlerini özet mâhiyette bize verir. Özellikle; hadisin nerede birleştiğini, nerede ayrıldığını, nerede kopukluk olduğunu gösterir.
+¶ Bu kitaplardan, özel bir kitabın sened ve metinlerini kontrol etme şeklinde de yararlanabiliriz.
+¶ Etrâf kitabı musanniflerinden bazıları hadis metninin tamamını zikrederken, bazıları da sadece hadis metninin bir kısmını ve sahâbî ismini zikretmekle yetinmişlerdir.
+### Etrâf kitaplarının tertibleri
+- Çoğunlukla müsned tarzındadır. Yani sahâbe sıralamasına göredir. Bir sahâbeyi esas alarak araştırma yapıyorsak etrâf kitaplarına bakabiliriz. Örneğin; araştırdığımız sahâbeden ne kadar hadis nakledilmiş olduğunu görebiliriz.
+- İlk dönem etrâf kitapları çoğunlukla sahâbe ismi esas alınarak, hece harfine göre tanzim edilmişlerdir. Daha sonraki dönemlerde hadis metninin ilk harfi esas alınarak ve sahâbe ismi verilmeden hazırlandığı görülmektedir.
+### Etrâf kitaplarından bazı örnekler
+1. Dımeşkî’nin (ö.401/1011) Etrâfü’s-sahîhayn’ı.
+2. Vâsıtî’nin (ö.401/1011) Etrâfü’s-sahîhayn’ı. (Buhârî ve Müslim için).
+3. İbn Asâkir’in (ö.571/1175) el-İşrâf alâ ma’rifeti’l-eşrâf’ı.
+4. Mizzî’nin (ö.741/1340) Tuhfetü’l-eşrâf bi ma’rifeti’l-etrâf’ı. (Kütüb-i Sitte için).
+5. İbn Hacer el-Askalânî’nin (ö.852/1448) İthâfü’l-mehere bi etrâfi’l-aşere’si. Muvatta’, Şâfiî, A. b. Hanbel ve Dârimî’nin Müsned’leri, İbnü’l-Cârûd’un Müntekâ’sı, İbn Hibbân’ın Sahih’i, Hâkim’in Müstedrek’i, Ebû Avâne’nin Müstahrec’i, Tahâvî’nin Şerhu meâni’l-âsâr’ı, Dârekutnî’nin Sünen’ini içermektedir.
+6. Bûsırî’nin (ö.840/1436) Etrâfü’l-mesânîdi’l-aşere’si. Tayâlisî, Humeydî, Müsedded b. Müserhed, İbn Ebî Şeybe, İshâk b. Râhûye, İbn Ebî Ömer el-Adenî (ö.243/858), İbn Menî’ (ö.244/858), Abd b. Humeyd, İbn Ebî Üsâme (ö.282/895) ve Ebû Ya’lâ’dan oluşan 10 musannife ait Müsned’lerin etrâfıdır.
+7. en-Nablusî’nin (ö.1143/1730) Zehâiru’l-mevârîs fi’d-delâle alâ mevâzıi’l-hadîs’i. (Kütüb-i Sitte ve Muvatta’ için).
+### Etrâf kitaplarının faydaları
+1. Bir taraftan hadisin çeşitli senedlerini bir arada görürken, diğer taraftan hadisin ğarib, aziz, meşhur olup olmadığını öğrenebiliriz.
+2. Hadisin hangi aslî kaynaklarda geçtiğini ve hangi kitab ve bâb başlıkları altında incelendiğini bilebiliriz.
+3. Etrâf kitaplarından (esas aldıkları aslî kaynaklardaki) her sahâbînin yapmış olduğu rivâyet sayılarını bilebiliriz.
+! Etrâf kitapları hadisin tamamını vermez. Ayrıca hadisin manasını alır. Asıl metni işaret ettiği kaynaklardadır.
+* Etrâf kitapları: hadisin bir bölümünü zikredip tamamına yönlendirir; masâdır-ı ğayr-i asliyyedendir, kaynak olarak gösterilmez. Senedlerin nerede birleşip ayrıldığını ve kopukluğu gösterir.
+* Etrâf örnekleri: Dımeşkî ve Vâsıtî (Etrâfü’s-sahîhayn), İbn Asâkir (el-İşrâf), Mizzî (Tuhfetü’l-eşrâf, Kütüb-i Sitte), İbn Hacer (İthâfü’l-mehere, 10 kitap), Bûsırî (Etrâfü’l-mesânîdi’l-aşere, 10 müsned), Nablusî (Zehâiru’l-mevârîs, Kütüb-i Sitte + Muvatta’).
+* Etrâfın 3 faydası: senedleri bir arada görmek (ğarib, aziz, meşhur), aslî kaynaktaki kitab ve bâbı bilmek, her sahâbînin rivâyet sayısını bilmek.
+
+## Tuhfetü’l-Eşrâf bi Ma’rifeti’l-Etrâf
+- Hâfız Cemâlüddin Ebü’l-Haccâc Yusuf b. Abdurrahman el-Mizzî (ö.742).
+- Müsned ve mu’cemler gibi sahâbe isimlerine göre alfabetik olarak tertip edilmiştir.
+- Etrâf denmesinin sebebi: Belirli kitapların isnadlarını bir araya getirdiği içindir.
+- Mevzusu: Kütüb-i Sitte’ye ilaveten şu dört eserin hadisleri bir araya getirilmiştir:
+1. Sahîh-i Müslim’in Mukaddime’si.
+2. Ebû Dâvûd’un Merâsil’i.
+3. Tirmizî’nin Câmi’inin sonundaki el-İlelü’s-Sağîr’i.
+4. Tirmizî’nin Şemâil’i.
+5. Nesâî’nin Amelü’l-Yevm ve’l-Leyle’si.
+### Rumuzları
+| Rumuz | Anlamı
+| «خ» | Buhârî
+| «خت» | Buhârî - ta’lîkan
+| «م» | Müslim
+| «د» | Ebû Dâvûd
+| «مد» | Ebû Dâvûd - Merâsil
+| «ت» | Tirmizî
+| «تم» | Tirmizî - Şemâil
+| «س» | Nesâî
+| «سي» | Nesâî - Amelü’l-Yevm ve’l-Leyle
+| «ق» | İbn Mâce
+| «ز» | Musannifin ziyadeleri
+| «ك» | Musannifin İbn Asâkir’e müstedreki
+| «ع» | 6 hadis kitabının rivayetleri
+### Tertibi
+- Kitapta sahâbîler alfabetik dizildiğinden, önce ismi hemze harfiyle başlayan sahâbîlere yer verilir.
+- Çok hadisi bulunan sahâbîyi, kendisinden nakledenlere göre yeniden alt başlıklara ayırır.
+### Hadisi tekrar etmesi ve sebebi
+- Kitabı müsned olduğundan bazen bazı hadisleri birden fazla sahâbî rivayet eder. Bu da hadisin tekrarını gerektirir. Haliyle hadis sayısı 12.302 iken 19.595’e çıkmaktadır. Toplam 905 sahâbînin müsned rivayetleri ile 400 sahâbînin mürsel hadisleri yer alır.
+### Hadisleri sevketme düzeni
+- Buhârî’den başlar, sırasıyla Müslim, böylece İbn Mâce’ye kadar gider.
+### Tahric usûlünde kullanılacak ifâde
+@ ذَكَرَهُ الْمِزِّيُّ فِي تُحْفَةِ الْأَشْرَافِ (ج / ص) رَقْمُ الْحَدِيثِ: ...
+¶ Aslî kaynağa ulaşıp hadisi bulduktan sonra şu ifâde kullanılır:
+@ أَخْرَجَهُ (الْبُخَارِيُّ) فِي كِتَابِ: ... بَابِ: ... (نَحْوَهُ / مِثْلَهُ ...) | Örnek
+* Tuhfetü’l-Eşrâf: Mizzî (742); Kütüb-i Sitte + Müslim’in Mukaddime’si, Ebû Dâvûd’un Merâsil’i, Tirmizî’nin el-İlelü’s-Sağîr’i ve Şemâil’i, Nesâî’nin Amelü’l-Yevm ve’l-Leyle’si. Sahâbîler alfabetik.
+* Tuhfe’de 12.302 hadis tekrarlarla 19.595’e çıkar; 905 sahâbînin müsned, 400 sahâbînin mürsel rivayetleri.
+* Tuhfe rumuzları: «خ» Buhârî, «خت» ta’lîk, «م» Müslim, «د» Ebû Dâvûd, «مد» Merâsil, «ت» Tirmizî, «تم» Şemâil, «س» Nesâî, «سي» Amelü’l-Yevm, «ق» İbn Mâce, «ع» altı kitap.
+
+## Zehâiru’l-Mevârîs fi’d-Delâle alâ Mevâzıi’l-Hadîs
+¶ Abdülğanî en-Nablusî’nin (ö.1143/1730) Kütüb-i Sitte ve İmam Mâlik’in Muvatta’ının hadislerinin etrâfıdır. Kitapta bu eserlerin her biri rumuzlarla gösterilir. Kitap yedi ana bölümdür. Erkek sahâbîler, künyesiyle meşhur olan sahâbîler, mübhem isimli erkek sahâbîler, kadın sahâbîler, künyeleriyle bilinen kadın sahâbîler, mürsel hadisler. Her bölüm kendi içinde alfabetiktir. Her şahsın isminin altında onun yukarıda belirtilen 7 kitapta geçen hadislerinin isnadları verilir. Hadisler birden çok sahâbî tarafından nakledilmişse, tekrardan kaçınmak için bir sahâbînin adı altında zikretmekle yetinilir. Bu yüzden, hadis bulmada bazı zorluklarla karşılaşılabilir. Kitap 13302 hadis barındırır. Beyrut’ta 1 cilt olarak basılmıştır. Eserin üstünde baskı tarihi yoktur.
+### Tuhfetü’l-Eşrâf ile karşılaştırılması
+¶ Şüphesiz her bir kitabı diğer kitaplardan ayıran kendisine has bir özelliği vardır. el-Mizzî’nin kitabı, hadisin isnadı, hadis hakkında hüküm vermek, farklı tarikleri ve ravileri bakımından daha üstündür. Bu şekilde birçok sahâbînin rivayet ettiği bir hadisi onların müsnedlerinde kolaylıkla bulabilme imkânına sahip olur ki bu çok güzel bir özelliktir. Fakat “Zehâiru’l-Mevârîs”te hadisi bazı sahâbe ravilerin müsnedlerinde bulamaz, dolayısıyla bu, kitap için bir eksikliktir.
+¶ “Zehâiru’l-Mevârîs” muhtasar olması bakımından ön plandadır. Sadece hadisin metnine vakıf olmak isteyenler ve kitabın içerdiği musannef sahiplerini öğrenmek, tahric etmek isteyenler içindir. Bu şekilde araştırmacı amacına en kısa ve en kolay yoldan ulaşmış olur.
+| | Tuhfetü’l-Eşrâf (Mizzî) | Zehâiru’l-Mevârîs (Nablusî)
+| **Kapsam** | Kütüb-i Sitte + Müslim’in Mukaddime’si, Merâsil, el-İlelü’s-Sağîr, Şemâil, Amelü’l-Yevm ve’l-Leyle | Kütüb-i Sitte + Muvatta’
+| **Tekrar** | Hadisi her sahâbînin altında tekrarlar (12.302 → 19.595) | Tekrardan kaçınır, tek sahâbînin adı altında verir (13302 hadis)
+| **Üstün yanı** | İsnad, hüküm, farklı tarikler ve râviler; hadis her sahâbînin müsnedinde bulunur | Muhtasar; metne ve musannif sahiplerine kısa yoldan ulaştırır
+| **Eksiği** | — | Hadis bazı sahâbe râvilerin müsnedlerinde bulunamaz
+* Zehâiru’l-Mevârîs: Nablusî (1143), Kütüb-i Sitte + Muvatta’ etrâfı; 7 bölüm, her biri alfabetik; tekrar etmez, 13302 hadis, Beyrut’ta 1 cilt.
+* Tuhfe isnad, hüküm, tarik ve râviler bakımından üstün; Zehâir muhtasar olması bakımından ön planda.

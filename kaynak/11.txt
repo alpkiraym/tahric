@@ -1,0 +1,302 @@
+# Ricâl Kitapları
+> Ricâl edebiyatı: sahâbe kitapları, tabakât kitapları, râvilerin geneline ayrılmış eserler, hususî kitapların ricâli, Kütüb-i Sitte ricâli (el-Kemâl → Tehzîbü’l-Kemâl → Tehzîbü’t-Tehzîb → Takrîb) ve sikât, duafâ ve şehir ricâli kitapları.
+
+## Ricâl Edebiyatının Amacı
+¶ Ricâl edebiyâtı konusunda te’lif edilmiş çeşitli eserler:
+- Râvilerin biyografileri ve tarihçe-i hayatlarına dair yazılan muhtelif eserlerin temel hedefi Hz. Peygamber’in (s.a.v.) sünnetine hizmet, O’na izafe edilen yalan ve iftiraları temizlemek, iftiracıları teşhir etmek, onlara ve iftiralarına karşı halkı uyandırmaktır.
+- Bunun için, hadis rivayet eden bütün râvilerin adlarını tespit ederek hayatlarını birçok yönden inceleme konusu yapmışlar, özellikle de onları hadis ilmindeki ehliyetleri açısından, yani cerh ve ta’dil yönünden araştırmaya tabi tutmuşlardır.
+- Bu faaliyetler sebebiyle İslam dininin düşmanları bu dine ve ortaya koyduğu fikirlere karşı açıkça mukavemete girişememişler; fakat onu temelden çökertmek için hile yolunu seçmişler; bu maksatla Hz. Peygamber adına iftira, yalan ve hadis uydurma yolunu tutmuşlardır. Hadis âlimleri ise bu durumlara karşı önlem almak için ricâl kitapları yazmışlardır.
+| Ricâl eseri türü | Örnekler
+| **1. Sahâbeye dair eserler** | el-İstîâb, Üsdü’l-ğâbe, el-İsâbe
+| **2. Tabakât kitapları** | İbn Sa’d’ın et-Tabakâtü’l-kübrâ’sı, Zehebî’nin Tezkiratü’l-huffâz’ı
+| **3. Râvilerin geneline ayrılmış kitaplar** | Buhârî’nin et-Târîhu’l-kebîr’i, İbn Ebî Hâtim’in el-Cerh ve’t-ta’dîl’i
+| **4. Hususî kitapların ricâli** | Kelâbâzî, İsfahânî, İbnü’l-Kayserânî, Huzâî; Kütüb-i Sitte ricâli
+| **Sikât · duafâ · şehirler** | İclî, İbn Hibbân, İbn Şâhîn · Buhârî, Nesâî, İbn Adî, Zehebî, İbn Hacer · Târîhu Bağdâd vb.
+* Ricâl kitaplarının hedefi: sünnete hizmet, Hz. Peygamber’e izafe edilen yalan ve iftiraları temizlemek, iftiracıları teşhir etmek; râviler özellikle cerh-ta’dil yönünden araştırıldı.
+
+## Sahâbeye Dair Eserler
+¶ Ricâl edebiyâtı konusunda te’lif edilmiş eserler:
+- Bu eserler, kimin sahâbe olduğunun bilinmesi, hadisin mevsul veya mürsel türlerinden hangisine dâhil olduğunun bilinmesi bakımından önemlidir. Senedin sona erdiği şahsın sahâbî olmadığını bilmeyen biri mürsel hadisi mevsul hadisten ayırma imkânına sahip olamaz.
+### İbn Abdilberr’in el-İstîâb fî ma’rifeti’l-ashâb’ı
+¶ İbn Abdilberr (ö.463/1071).
+- Sahâbe biyografileri konusunda müstakil olarak yazılmış en erken ve en muhtevalı eserlerden biridir.
+- Sahâbenin bütününü içerdiği iddiasıyla böyle bir isimlendirme yapıldıysa da, bu iddianın haklı olmadığı ve birçok sahâbenin bu eserde bulunmadığı görülmektedir.
+- Eserin baş tarafında özel bir bölüm halinde Hz. Peygamber’in biyografisi verilmiştir.
+- 4 cilt olup içinde 3500 sahâbe vardır.
+- Alfabetik olarak tertib ettiği eserinde sahâbeyi şu şekilde sıralamıştır: a) Erkek sahâbe, b) Künyesiyle meşhur olan erkek sahâbe, c) Bin kadar hanım sahâbî, d) Künyesiyle meşhur olan hanım sahâbîler.
+### İbnü’l-Esîr’in Üsdü’l-ğâbe fî ma’rifeti’s-sahâbe’si
+¶ İbnü’l-Esîr (İzzüddin Ali el-Cezerî) (ö.630/1233).
+- Eserin baş tarafında özel bir bölüm halinde Hz. Peygamber’in biyografisi verilmiştir.
+- 7 cilt olup içinde 7554 sahâbe vardır.
+- Alfabetik olarak tertib edilmiştir.
+- Eserin sonunda künyesiyle meşhur sahâbîlerin biyografileri künyelerine göre alfabetik olarak kaydedilmiştir.
+- En sonunda da 1021 hanım sahâbenin isim ve künyelerine göre yine alfabetik olarak biyografileri verilmiştir.
+- Eserin alfabetik tertibi oldukça dikkatli yapılmış, ilk harften sonra ismin sonuna kadar ikinci, üçüncü ve diğer harfler de tertipte dikkate alınmıştır. Aynı düzenleme lakaplar, baba isimleri ve kabile isimlerinde de gözetilmiştir.
+- Biyografisini yazacağı sahâbe hakkında bilgi aldığı kaynakları rumuzlarla göstermekte, bununla da yetinmeyip bu sahâbe hakkındaki bilgilere eserlerinde yer veren müelliflerin isimlerini vermektedir. Kullandığı başlıca kaynaklar ve rumuzları: İbn Mende («د»), Ebû Nuaym («ع»), İbn Abdilberr («ب») ve Ebû Musa («س»)’nın zeyilleri. Bunların zikretmediklerini istidrak ettiği gibi, yanılgılarını da beyân etmiştir.
+- Müellifin bazı biyografilerin sonundaki (ahrecehu’s-selâse) ifadesinden maksadı, zikredilen ilk üç müelliftir.
+### İbn Hacer’in el-İsâbe fî temyîzi’s-sahâbe’si
+¶ İbn Hacer (852/1448).
+- Eser son olmanın ve öncekilerin telif ve tertiplerindeki hata ve yanlışları görmenin tesiriyle, bu konuda yazılan en düzenli ve en muhtevalı eser olmuştur.
+- Giriş bölümünde üç fasıl halinde kime sahâbe denileceği, birinin sahâbîliğini bilme yollarını ve sahâbenin adaleti konularını ele almaktadır.
+- Eserini, sırasıyla sahâbe isimleri, künyeleri, hanım sahâbîler, künyeleri şeklinde alfabetik olarak tertib etmiştir. Mübhem sahâbîler bölümünü tamamlayamamıştır. Her harf ise dört bölüme ayrılmıştır:
+1. Kısımda sahâbî olduğu kendisinin veya başkalarının rivayetiyle sabit olanların biyografileri verilmiştir.
+2. Kısımda Hz. Peygamber’in vefatı sırasında henüz çocuk olup temyiz çağının altında bulunanlar zikredilmiştir.
+3. Kısım muhadramların biyografilerine tahsis edilmiştir. Bunlar Hz. Peygamber’le görüşmedikleri için sahâbe değil tâbiînden sayılmaktadırlar ve Hz. Peygamber’e nispetle naklettikleri hadisler ittifakla mürsel sayılmaktadır. Sahâbeye tahsis edilmiş bir kitapta muhadramların yer almasının ana nedeni, bu gruptan kimselerin sahâbe ile sık sık karıştırılmaları ve sahâbe zannedilmeleridir. Bu yönüyle eser bu türden diğer çalışmalardan farklı ve orijinaldir.
+4. Kısımda sahâbe biyografisi konusunda daha önce yazılan eserlerde sahâbe olmadıkları halde sehven sahâbe gibi zikredilenler derlenmiştir. İbn Hacer bu hususta ilk defa eser yazanın kendisi olduğunu belirtmektedir.
+- Eserin son bölümünde hanım sahâbîler ve bazı hanım tâbiîlerden 1545 kişinin biyografisi ve künyesiyle meşhur olan şahıslar, yine dörtlü tasnif halinde ele alınmaktadır.
+- Biyografi sayısı 12267’dir: ricâlden isimleriyle tanınanlar 9477 kişi, künyeleriyle tanınanlar 1268 kişi, bayanlardan isim ve künyesiyle tanınanlar 1522 kişidir.
+| Eser | Müellif | Cilt / sayı | Öne çıkan
+| **el-İstîâb** | İbn Abdilberr (463) | 4 cilt, 3500 sahâbe | En erken ve muhtevalı; “hepsini içerir” iddiası haklı değil
+| **Üsdü’l-ğâbe** | İbnü’l-Esîr (630) | 7 cilt, 7554 sahâbe | Çok dikkatli alfabetik tertip; kaynak rumuzları
+| **el-İsâbe** | İbn Hacer (852) | 12267 biyografi | En düzenli ve muhtevalı; her harf 4 kısım
+* Sahâbe kitapları mürseli mevsulden ayırmak için önemlidir. el-İstîâb (İbn Abdilberr, 4 cilt, 3500), Üsdü’l-ğâbe (İbnü’l-Esîr, 7 cilt, 7554), el-İsâbe (İbn Hacer, 12267 biyografi).
+* Üsdü’l-ğâbe rumuzları: «د» İbn Mende, «ع» Ebû Nuaym, «ب» İbn Abdilberr, «س» Ebû Musa; “ahrecehu’s-selâse” = ilk üç müellif.
+* el-İsâbe’de her harf 4 kısım: sahâbîliği sabit olanlar · vefatta temyiz çağının altındaki çocuklar · muhadramlar (tâbiîn; hadisleri mürsel) · yanlışlıkla sahâbe sayılanlar (bu kısımda ilk eser).
+
+## Tabakât Kitapları
+- Bu tür kitaplar sahâbe döneminden başlayarak kitabın müellifinin zamanına kadar hadis râvilerinin biyografilerini tabakalar halinde tasnif edip kronolojik bir sıraya göre tertip edilmiştir.
+- Kimisi genel olarak ricâl tabakaları ile ilgili iken, kimisi de Zehebî’nin “Tabakâtü’l-Huffâz”ı, Ebû Amr ed-Dânî’nin “Tabakâtü’l-Kurrâ”sı ve Sübkî’nin “Tabakâtü’ş-Şâfiiyye”si gibi özel kimseler hakkındadır.
+### İbn Sa’d’ın et-Tabakâtü’l-kübrâ’sı
+¶ Ebû Abdillah Muhammed İbn Sa’d Kâtibü’l-Vâkıdî (230/844), et-Tabakâtü’l-kübrâ.
+- Kitabın doğru ismi: Kitâbü’t-Tabakâti’l-kebîr.
+- Bu eserde Hz. Peygamber’den başlayarak sahâbe, tâbiîn, etbâu’t-tâbiîn vd. gibi müellifin zamanına kadar yaşayan şahısların biyografileri verilmektedir.
+1. Ciltte Hz. Peygamber’in hayatı ele alınmıştır.
+2. Ciltte Peygamberimizin gazveleri, hastalığı ve vefatı anlatıldıktan sonra, Medine’de fetva verecek ehliyette olanlar, Hz. Peygamber zamanında ve sonrasında Kur’ân’ın bütününü cem’ eden sahâbîler ile Hz. Peygamber sonrası Medine’de fetva veren Ensar ve Muhacir ele alınmıştır. Eser bu yönüyle de Hz. Peygamber hakkında yazılan ve kaynak olma özelliği taşıyan ilk ve en geniş biyografilerden biridir.
+3. Ciltte Bedir savaşına katılan Ensar ve Muhacirlerin biyografileri verilmektedir.
+4. Ciltte Bedir savaşına katılamamış, ancak Müslümanlıkta kıdemli olanlar ile Mekke’nin fethinden önce Müslüman olanların biyografileri verilmektedir.
+5. Ciltte Mekke, Taif, Yemen, Yemame, Bahreyn’e yerleşmiş olan sahâbîler, bu beldelerdeki tâbiîler ve takipçileri ile Medineli tâbiîlere yer verilmiştir.
+6. Ciltte Kûfe’ye tahsis edilerek buraya yerleşen sahâbe, tâbiîn ve takipçileri ile müellifin zamanına kadar buradan yetişmiş âlim, râvi ve fakihlerin biyografileri anlatılmıştır.
+7. Ciltte farklı belde ve kasabalara yerleşmiş sahâbe, tâbiîn ile müellifin zamanına kadarki takipçilerinin biyografilerine yer verilmiştir. Bu kısımda Basra, Şam ve Mısır’a yerleşenler zikredilmiş olup, diğer beldelere yerleşmiş olanlardan zikredilenler çok az sayıdadır.
+8. Ciltte hanım sahâbîlere yer verilmiştir.
+- Âlimler cerh-ta’dilde İbn Sa’d’ın sözünü makbul kabul ettiği için kitabı hadis ricâli biyografileri kaynaklarından güvenilir bir kaynak olarak itibar görmüştür.
+### Zehebî’nin Tezkiratü’l-huffâz’ı
+¶ Ebû Abdillah Muhammed b. Ahmed b. Osmân ez-Zehebî (748/1347), Tezkiratü’l-huffâz.
+- Adından da anlaşıldığı gibi müellife göre sadece hadis ilminde hâfızlık ünvanına erişmiş, cerh-ta’dil konusunda içtihat ve görüşlerine başvurulan kişilerin biyografilerini ihtiva etmektedir.
+- Eserde sahâbe tabakasından başlamak üzere müellifin şeyhlerinin tabakasına kadar 1176 önemli râvinin ve hadis ilimlerinde müctehid olan şahısların biyografisine yer verilmektedir. Bu şahıslar 21 tabakaya tasnif olunarak incelenmektedir.
+- Sekiz asırlık bir zaman aralığındaki güvenilir hadis imamları ve râvilerini tanıma konusunda gerçekten önemli olan bu esere bazı âlimler tarafından zeyiller yazılarak eksiklikleri tamamlanmaya çalışılmıştır.
+* Tabakât: râviler sahâbeden müellifin zamanına kadar tabakalar halinde, kronolojik. Özel tabakâtlar: Zehebî (huffâz), Dânî (kurrâ), Sübkî (Şâfiiyye).
+* İbn Sa’d’ın et-Tabakâtü’l-kübrâ’sı (doğru adı Kitâbü’t-Tabakâti’l-kebîr): 8 cilt; 1. cilt Hz. Peygamber, 8. cilt hanım sahâbîler. İbn Sa’d’ın cerh-ta’dildeki sözü makbuldür.
+* Zehebî’nin Tezkiratü’l-huffâz’ı: 1176 hâfız, 21 tabaka; zeyiller yazıldı.
+
+## Râvilerin Geneline Ayrılmış Kitaplar
+- Bu tür eserler belirli bir kitaptaki râvilerle sınırlı değildir. Râvi niteliğine göre tasnif edilen eserlerde olduğu gibi, sika, zayıf ve benzeri belirli bir niteliğe sahip râvilerle de sınırlı değildir. Her nitelikte râvilerin biyografilerini ihtiva eden eserlerdir.
+### Buhârî’nin et-Târîhu’l-kebîr’i
+¶ Muhammed b. İsmail Buhârî (256/870), et-Târîhu’l-kebîr.
+- 18 yaşındayken Medine’de Hz. Peygamber’in kabri başında yazmış.
+- Muhtevasında 12315 kişinin biyografisi vardır.
+- Buhârî, bu eserini alfabetik olarak tertip etmiş olmasına rağmen, Hz. Peygamber’in ismine hürmetle adı Muhammed olanları ilk önce zikretmiştir. Tabii Hz. Peygamber’in biyografisiyle başlar.
+- Her harfin evvelinde adı o harfle başlayan sahâbîleri zikretmiştir. Sıralamada sahâbeye mahsus olarak sadece sahâbî isimlerinin harflerini dikkate almış, babalarının isimlerine itibar etmemiştir. Alfabetik tertipte aynı ismi taşıyanların sıralamasında baba ve dedelerinin ismi dikkate alınmış ve onlarda da alfabetik sıralamaya riayet edilmiştir. Bu durumda aranan şahsın babasının adının bilinmesi bu şahsı bulmayı kolaylaştıracaktır.
+- Buhârî, cerh ve ta’dil lafızlarını zikreder. Ancak cerhte latif ibareler kullanır. Mesela; “fîhi nazar”, “sekatû anhu” der. Bunlarla hadisleri terk edilmişleri ifade eder. Kullandığı en ağır ibarelerden biri “münkerü’l-hadîs” ifadesidir ki bununla rivayetini almanın caiz olmadığı kişileri kastetmektedir.
+- Çoğunlukla hakkında cerh ve ta’dil ifadeleri kullanmayıp susmayı tercih eder. Bu, râvileri ta’dil ettiği anlamına gelir.
+| Buhârî’nin ifadesi | Anlamı
+| **“Fîhi nazar”, “sekatû anhu”** | Hadisleri terk edilmiş
+| **“Münkerü’l-hadîs”** | Rivayetini almak caiz değil (en ağır ibarelerinden)
+| **Sükût** | Ta’dil
+### İbn Ebî Hâtim’in Kitâbü’l-Cerh ve’t-Ta’dîl’i
+¶ İbn Ebî Hâtim er-Râzî (240-327/854-939), Kitâbü’l-Cerh ve’t-Ta’dîl.
+- Müellif bu eseri, genelde Buhârî’nin et-Târîhu’l-kebîr’ini ölçüt alarak te’lif etmiştir. Râvilerin cerh ve ta’dilinde söylenenleri zikretmeye önem vermiş, bu kavilleri özetlemiş ve çoğunda da kendi içtihadını ortaya koymuştur.
+- Mukaddimesiyle beraber 8 cilt olarak basılmıştır.
+- Müellif bu çalışmasına cerh-ta’dille ilgili önemli konuların olduğu bir mukaddime ile başlamıştır.
+- Biyografileri genelde kısadır; bir ile beş satır arasında değişir.
+- Eserde önce biyografisi verilecek olan şahsın adının ilk harfi ve babasının adının ilk harfi dikkate alınarak sıralama yapılmıştır. Ancak müellif, bir harf içerisinde öncelikle sahâbe ismini ve aynı şekilde çokça tekrar eden ismi takdim eder.
+- Verdiği biyografilerde râvinin ismini, babasının ismini, nisbetini, künyesini, meşhur hocalarını kaydeder, bazen de biyografi sahibinin rivayet ettiği hadislerinden zikreder.
+- Yine râvinin memleketini, seyahatlerini, konakladığı veya yerleştiği yerlerini anlattığı gibi Ehl-i sünnete aykırı ise akidesinden bahseder.
+- Bazen de ölüm tarihine işaret eder.
+* et-Târîhu’l-kebîr: Buhârî 18 yaşında Medine’de kabr-i şerif başında yazdı; 12315 biyografi; alfabetik ama önce “Muhammed” adlılar; her harfte önce sahâbîler.
+* Buhârî cerhte latif ibare kullanır: “fîhi nazar”, “sekatû anhu”; en ağırı “münkerü’l-hadîs”. Sükûtu ta’dildir.
+* İbn Ebî Hâtim’in el-Cerh ve’t-ta’dîl’i: et-Târîhu’l-kebîr’i ölçüt alır; 8 cilt; biyografiler 1-5 satır; ismin ve baba isminin ilk harfine göre.
+
+## Hususî Hadis Kitaplarının Ricâli
+- Hususî biyografik eserler, çalışma hangi kitap veya kitaplar üzerine yapılmışsa sadece o kitaplardaki râvilerin biyografilerini kapsar. Adı bu kitaplarda geçmeyen râvilerin biyografileri bulunmaz.
+- Bu kitapların yazılış amacı konu edindikleri kitaplardaki râvilerin güvenirliğini ispat etmek ve bu yolla eserdeki rivayetlerin sağlamlığını kanıtlamaktır. Bunun aksinin olması, yani eleştirmek ve itibardan düşürmek amacıyla böyle çalışmaların yapılmış olması da mümkündür.
+- Bu tür kitaplar, hususî eserler ve râvileri üzerine çalışma yapacakların işlerini kolaylaştırırlar.
+- Öte yandan hususî ve sınırlı araştırma yapan müelliflerin araştırdıkları râviler hakkında daha detaylı bilgilere ulaşmaları ve genel muhtevalı ricâl kitaplarında bulunamayacak incelikleri sunabilmeleri de mümkündür.
+### Bazı örnekler
+1. Ebû Nasr Ahmed b. Muhammed el-Kelâbâzî (398), el-Hidâye ve’l-İrşâd fî Ma’rifeti Ehli’s-Sikati ve’s-Sedâd: Sahîh-i Buhârî’ye hastır.
+2. Ebû Bekr Ahmed b. Ali el-İsfahânî (438), Ricâlü Sahîhi Müslim.
+3. Ebü’l-Fazl Muhammed b. Tâhir el-Makdisî (İbnü’l-Kayserânî) (507/1113), el-Cem’u beyne’s-Sahîhayn: Kelâbâzî ve İsfahânî’nin kitaplarını birleştirmiştir. Müellif çalışmasında tamamlayıcı ve tehzib edici bazı tasarruflarda bulunmuş ve eserde takip ettiği usulünü yazdığı mukaddimede belirtmiştir. Alfabetik olarak tertip edilmiştir.
+4. Muhammed Yahya el-Huzâî et-Temîmî, et-Ta’rîf bi-Ricâli’l-Muvatta’.
+5. Kütüb-i Sitte ve benzeri mecmuaların ricâli üzerine yapılan çalışmalar.
+| Eser | Müellif | Hangi kitabın ricâli?
+| **el-Hidâye ve’l-İrşâd** | Kelâbâzî (398) | Sahîh-i Buhârî
+| **Ricâlü Sahîhi Müslim** | Ebû Bekr el-İsfahânî (438) | Sahîh-i Müslim
+| **el-Cem’u beyne’s-Sahîhayn** | İbnü’l-Kayserânî (507) | Sahîhayn (Kelâbâzî + İsfahânî)
+| **et-Ta’rîf bi-Ricâli’l-Muvatta’** | Muhammed Yahya el-Huzâî | Muvatta’
+* Hususî ricâl kitapları yalnızca konu edindikleri kitabın râvilerini kapsar; amaç râvilerin ve rivayetlerin güvenirliğini ispattır.
+* Buhârî ricâli: Kelâbâzî’nin el-Hidâye ve’l-İrşâd’ı; Müslim ricâli: İsfahânî; ikisini birleştiren İbnü’l-Kayserânî; Muvatta’ ricâli: Huzâî.
+
+## el-Kemâl ve Tehzîbü’l-Kemâl
+¶ Abdülğanî el-Makdisî’nin (ö.600/1203) el-Kemâl fî esmâi’r-ricâl’i. Bu eser Kütüb-i Sitte ricâli konusunda yazılan ve bize kadar ulaşabilen ilk ve en meşhur eserlerdendir. Bu konuda kendisinden sonra yapılan bütün çalışmalara asıl teşkil etmiştir. Bu eser üzerine birçok tehzib, ihtisar vs. çalışmaları yapılmıştır:
+1. Mizzî (ö.742/1341), Tehzîbü’l-Kemâl.
+2. Zehebî (748/1347), Tezhîbü’t-Tehzîb.
+3. Zehebî, el-Kâşif.
+4. İbn Hacer (773-852/1371-1448), Tehzîbü’t-Tehzîb adlı eseriyle ihtisar etmiştir.
+5. İbn Hacer ise Takrîbü’t-Tehzîb isimli eseriyle özetlemiştir.
+6. Zehebî’nin Tezhîb’i üzerinde Safiyyüddîn el-Hazrecî’nin (ö.923/1518) Hulâsatü Tezhîbi’t-Tehzîb isimli özeti vardır.
+>> «الكمال في أسماء الرجال» → Abdülğanî el-Makdisî
+>> «تهذيب الكمال» → Mizzî
+>> «تذهيب التهذيب» → «الكاشف» (Zehebî) · «خلاصة تذهيب» (Hazrecî)
+>> «تهذيب التهذيب» → «تقريب التهذيب» (İbn Hacer)
+### Kütüb-i Sitte ricâli ve tevâbiinin tercemelerini ihtiva eden eserler
+#### el-Kemâl fî Esmâi’r-Ricâl
+¶ Kütüb-i Sitte ricâliyle alakalı elimize ulaşan en eski eserlerden biri; el-Kemâl fî Esmâi’r-Ricâl kitabıdır. Kitabın müellifi Hâfız Abdülğanî b. Abdülvâhid el-Makdisî’dir (v.600).
+¶ Bu eser, kendisinden sonra yazılan eserler için bir altyapı teşkil eder. Ancak bu eserde müellif gereksiz uzatmalar yapmıştır. Bununla beraber bu eserdeki bazı biyografiler ilaveye, bazı mevzular izaha, birçok örnek ve görüşlerin ise düzenlenmeye ihtiyacı vardır. Hâfız İbn Hacer şöyle der: “Bu eser hadis râvilerini bilme hususunda eserlerin en değerlilerinden olup araştırmacıların en çok müracaat ettiği eserlerdendir.”
+#### Tehzîbü’l-Kemâl
+¶ Yukarıda zikrettiğimiz eserin tertib ve izaha ihtiyacı olduğunu belirtmiştik. Bu çalışmayı yapan ise Hâfız Ebü’l-Haccâc Yusuf b. ez-Zekî el-Mizzî olmuştur. Bu eseri düzenleyip ve eksik yönlerini tamamlayarak “Tehzîbü’l-Kemâl” ismini vermiştir. Hâfız İbn Hacer’in de belirttiği gibi bu çalışmasında çok başarılı olmuştur. Sübkî şöyle der: “Benzerinin yazılmadığı ve yazılamayacağı hususunda âlimler birleşmiştir.”
+#### İkmâlü Tehzîbi’l-Kemâl
+¶ Hâfız Alâüddin Moğoltay (v.762) Tehzîbü’l-Kemâl üzerine bir zeyl yazmış ve bu eserine İkmâlü Tehzîbi’l-Kemâl adını vermiştir. Bu eser de birçok faydalar ihtiva eden değerli bir eserdir. Hâfız İbn Hacer bu eserden çokça istifade ettiğini belirtmiştir.
+* el-Kemâl fî esmâi’r-ricâl (Abdülğanî el-Makdisî, 600): Kütüb-i Sitte ricâlinde bize ulaşan ilk eser; sonraki çalışmaların aslı.
+* Tehzîbü’l-Kemâl: Mizzî; Sübkî: “benzeri yazılmadı ve yazılamaz.” Zeyli: Moğoltay’ın İkmâlü Tehzîbi’l-Kemâl’i.
+
+## Mizzî’nin Tehzîbü’l-Kemâl’deki Yolu
+¶ Hâfız el-Mizzî Tehzîbü’l-Kemâl eserinde şöyle bir yol izlemiştir:
+1. Öncelikle Kütüb-i Sitte ricâli ve Kütüb-i Sitte yazarlarının diğer eserlerindeki ricâlin biyografilerini işlemiştir. Müelliflerin tarih kitaplarındaki ricâline değinmemiştir. Zira bu eserlerdeki hadisler ihticac maksadı taşımamaktadır.
+2. Her biyografide, râviden hadisi rivayet eden eserlere işaret eden rumuzlar kullanmıştır.
+3. Eserinde zikrettiği râvilerin talebe ve şeyhlerine bilgisi nisbetinde değinmiştir.
+4. Biyografisini anlattığı râvilerin şeyh ve talebelerinin isimlerini alfabetik sıralamaya bağlı kalarak zikretmiştir.
+5. Zikrettiği râvinin vefat yılını zikretmiştir. Aynı zamanda vefat yılı hakkında âlimler arasındaki ihtilafları da zikretmiştir.
+6. Halleri hakkında bir malumat sahibi olmadığı birçok râviyi zikretmiş ve “şundan rivayette bulundu” şeklinde değinmiştir. Bu râvîlerin sika mı sakat mı olduğu hakkında bilgi sahibi olmaması garipsenecek bir şey değildir. Zira binlerce râvinin halini bilmek basit bir şey değildir. Bununla beraber ahvalini bilmediği râvi sayısı eserinde küçük bir yer tutar.
+7. Kitabı, kendi rivayeti olan âlî senetli bazı hadislerle uzatmış ve bu rivayetler kitabın yaklaşık üçte biri kadar bir hacmine tekabül etmektedir.
+8. Biyografisini yazdığı râvileri alfabetik sıralamayla zikretmiştir.
+9. Cerh ve ta’dil hususunda olan görüşleri sahiplerine nisbet etmiştir. Bu görüşlerden bir kısmını ise senetsiz zikretmiştir.
+10. Kapalı ve mübhem olan bazı isimlerin ya da bunlara benzeyenlerin tertibine dikkati çekmiştir. Künyelerine, kabile ve şehirlerine değinmiştir.
+11. Eserinde üç fasıl zikretmiştir. Bu fasıllardan birincisi: eimme-i sittenin şartları ile alakalıdır. İkincisi: sikalardan rivayete özen gösterilmesi ile alakalıdır. Üçüncüsü ise; Peygamber Efendimiz’in (s.a.v.) sîreti ile alakalıdır.
+12. Kitabın aslı olan el-Kemâl’de bulunan bazı tercüme-i halleri hazfetmiştir. Zira el-Kemâl’in sahibi her ne kadar rivayetleri Kütüb-i Sitte’de var diye zikretmişse de kendisi onlara ait herhangi bir rivayet bulamadığından hazfetmeyi uygun bulmuştur.
+### Mizzî’nin bu eserinde kullanmış olduğu rumuzlar ve anlamları
+| Rumuz | Anlamı
+| «ع» | Sitte
+| 4 | Dört Sünen
+| «خ» | Buhârî
+| «م» | Müslim
+| «د» | Ebû Dâvûd
+| «ت» | Tirmizî
+| «س» | Nesâî
+| «ق» | İbn Mâce
+| «خت» | Buhârî - Ta’lîk
+| «بخ» | Buhârî - el-Edebü’l-Müfred
+| «ي» | Fî Cüz’i Ref’i’l-Yedeyn
+| «عخ» | Halku Ef’âli’l-İbâd
+| «ز» | Cüz’ü’l-Kırâeti Halfe’l-İmâm
+| «مق» | Müslim - Sahîh’inin Mukaddimesi
+| «مد» | Ebû Dâvûd - Merâsil
+| «قد» | Fi’l-Kader
+| «خد» | Fi’n-Nâsih ve’l-Mensûh
+| «ف» | Fî Kitâbi’t-Teferrüd
+| «صد» | Fî Fezâili’l-Ensâr
+| «ل» | Fi’l-Mesâil
+| «كد» | Müsned-i Mâlik
+| «تم» | Tirmizî - Şemâil
+| «سي» | Nesâî - Amelü’l-Yevm ve’l-Leyl
+| «كن» | Müsned-i Mâlik
+| «ص» | Fî Hasâisi Alî
+| «عس» | Müsned-i İmam Alî
+| «فق» | İbn Mâce - Tefsîr
+* Tehzîbü’l-Kemâl: Kütüb-i Sitte ve yazarlarının diğer eserlerinin ricâli (tarih kitapları hariç); şeyh ve talebeler alfabetik; vefat ihtilafları; âlî senetli hadisler kitabın üçte biri; üç fasıl (eimme-i sittenin şartları, sikalardan rivayet, sîret).
+* Mizzî rumuzları: «ع» sitte, 4 dört sünen, «خت» ta’lîk, «بخ» el-Edebü’l-Müfred, «مق» Müslim’in Mukaddimesi, «مد» Merâsil, «تم» Şemâil, «سي» Amelü’l-Yevm ve’l-Leyl, «فق» İbn Mâce Tefsîr.
+
+## Zehebî’nin Tezhîbü’t-Tehzîb’i ve el-Kâşif’i
+### Tezhîbü’t-Tehzîb
+¶ İmam Zehebî (v.748), şeyhi İmam Mizzî’nin eseri üzerine iki kitap telif etmiştir. Bu eserler, biri geniş hacimli “Tezhîbü’t-Tehzîb” ve daha küçük hacimli “el-Kâşif fî Ma’rifeti Men Lehû Rivâyetün fi’l-Kütübi’s-Sitte” isimli eserlerdir.
+¶ Hâfız İbn Hacer bu eserle alakalı şöyle demektedir: “İbareyi genelde uzatmakla beraber, Tehzîb’te olana ek bir şey söylememiştir. Bazen zan ve tahmin üzere uzatmalar, bazen de bazı râvilerin menkıbelerini zikretmiştir. Ancak ihmal etmemesi gereken cerh ve ta’dil hususunda ihmalde bulunmuştur. Oysa rivayetin zayıf yahut sahih olması buna bağlıdır.” Bununla beraber şeyhi el-Mizzî’nin zikretmediği bazı tercemelere çalışmasında yer vermiştir.
+### el-Kâşif
+¶ el-Kâşif, Zehebî’nin Tehzîbü’l-Kemâl üzere yapmış olduğu bir muhtasardır. Musannif bu eserinde: râvînin ismi, bazen babası ve dedesinin ismi, künyesi, nisbeti, en meşhur şeyhleri, en meşhur öğrencilerinden iki ya da üç tanesi, râvinin cerh ve ta’dil cihetinden hali, vefat yılı vb. bilgilere yer vermiştir. Kütüb-i Sitte yazarlarından hangisi ondan rivayet etmiş remizlerle belirtmiştir. İsimleri alfabetik sıralamaya göre zikretmiş, ancak elif harfine Ahmed, mim harfine ise Muhammed isimleri ile başlamıştır.
+¶ Kullandığı rumuzlar: «خ» Buhârî, «م» Müslim, «د» Ebû Dâvûd, «ت» Tirmizî, «س» Nesâî, «ق» İbn Mâce, 4 Dört Sünen.
+* Zehebî’nin Mizzî üzerine iki eseri: geniş Tezhîbü’t-Tehzîb ve küçük el-Kâşif. İbn Hacer’e göre Tezhîb ek bir şey söylemez, cerh-ta’dilde ihmalde bulunur.
+* el-Kâşif: alfabetik ama elif harfinde önce Ahmed, mim harfinde önce Muhammed; rumuzları «خ م د ت س ق» ve 4.
+
+## İbn Hacer’in Tehzîbü’t-Tehzîb’i
+¶ Daha sonra Hâfız İbn Hacer el-Askalânî (v.852) gelip Tehzîbü’l-Kemâl’i düzenleyip üzerine bir ihtisar çalışması yapmıştır. Bu eserine de “Tehzîbü’t-Tehzîb” ismini vermiştir. Eserini telif ederken aşağıdaki yolu izlemiştir:
+1. Cerh ve ta’dil ile ilgili faydalı bilgileri vermekle yetinmiştir.
+2. Kitabın üçte bire yakın kısmını teşkil eden, [[Mizzî]]’nin âlî isnadıyla rivayet ettiği hadisleri hazfetmiştir.
+3. Biyografisi zikredilen râvinin birçok şeyhini hazfedip, aralarından en meşhurlarının zikriyle yetinmiştir.
+4. Genelde kısa biyografilerden bir şey hazfetmeden olduğu gibi almıştır.
+5. Biyografisi zikredilen râvinin şeyh ve talebelerini alfabetik bir sıralamaya tabi tutmamıştır. Bunun aksine sıralamada yaş, ilim vb. dikkate almıştır.
+6. Cerh ve ta’dile delalet etmeyen birçok şeyi hazfetmiştir.
+7. Kitabın dışında cerh ve ta’dil hakkında farklı ulemanın görüşlerinden ilavelerde bulunmuştur.
+8. Gerekli ilaveler yapmaktan geri durmamıştır.
+9. Biyografisini zikrettiği şahsın vefatıyla alakalı tartışmaları hazfetmiş, ancak bir maslahat gördüğünü bırakmıştır.
+10. Tehzîbü’l-Kemâl’in ricâlinden kimseyi hazfetmemiştir.
+11. Bazı biyografiler ilave edip kendi ilavesi olanların isimlerini ve babalarının isimlerini kırmızı yazıyla belirtmiştir.
+12. «قلت» şeklinde başlayan cümleler İbn Hacer’in kendi kelamı ve ilaveleridir.
+13. «ص»، «مق»، «سي» rumuzları dışında Mizzî’nin rumuzlarına bağlı kalmıştır.
+14. Mizzî’nin zikrettiği üç faslı zikretmemiştir.
+15. Zehebî’nin Tezhîbü’t-Tehzîb’inde ve Moğoltay’ın İkmâlü Tehzîbi’l-Kemâl’inde gördüğü faydalı bilgileri ilave etmiştir.
+| | Tehzîbü’l-Kemâl (Mizzî) | Tehzîbü’t-Tehzîb (İbn Hacer)
+| **Şeyh ve talebeler** | Alfabetik | Yaş, ilim vb.ne göre; yalnız en meşhurları
+| **Âlî isnadlı hadisler** | Var (kitabın ~üçte biri) | Hazfedildi
+| **Üç fasıl** | Var | Yok
+| **Rumuzlar** | Mizzî’nin rumuzları | «ص»، «مق»، «سي» hariç aynı
+| **İlaveler** | — | «قلت» ile başlar; ilave biyografilerin isimleri kırmızı
+* Tehzîbü’t-Tehzîb (İbn Hacer): cerh-ta’dile odaklanır; âlî isnadlı hadisleri ve üç faslı atar; şeyh ve talebeleri yaş ve ilme göre sıralar; kimseyi hazfetmez; ilaveleri «قلت» ile, ilave biyografi isimleri kırmızı.
+
+## Takrîbü’t-Tehzîb
+¶ Çok muhtasar bir eser olup, Hâfız İbn Hacer bu eserinde Tehzîbü’t-Tehzîb isimli eserini ihtisar etmiştir. Bu kitap Tehzîbü’t-Tehzîb eserinin altıda biri kadar bir hacme sahiptir. Bu eserini, bir arkadaşının kendisinden Tehzîbü’t-Tehzîb eserinde yazılı biyografilerin sadece isimlerini zikretmesini istemesi üzerine kaleme almıştır.
+### Bu eserinde şu yolu izlemiştir
+1. Tehzîbü’t-Tehzîb eserindeki biyografilere ilaveten, Kütüb-i Sittenin râvileriyle yetinmemiş, başka eserlerdeki râvilerin biyografilerine de değinmiştir.
+2. Tehzîbü’t-Tehzîb eserindeki rumuzlara bağlı kalmış, ancak Sünen-i Erbaa’nın rumuzu olan 4’ü «عم» ile değiştirmiştir. Bununla beraber Tehzîbü’t-Tehzîb’te olmayan «تمييز» rumuzuna da yer vermiştir. Bu rumuzu kitabın konusu olan Kütüb-i Sitte râvilerinin dışında zikrettiği râvileri belirtmek için kullanmıştır.
+3. Mukaddimede, râvilerin mertebelerini zikretmiş, bu tabakaları 12 tabakayla sınırlandırmıştır. Her mertebede kullanılan cerh ve ta’dil lafızlarını zikretmiş; bu yüzden bu kitapta araştırma yapan kimse, bu mertebelere ve mukabil geldikleri cerh ve ta’dil lafızlarına dikkat etmeli ki hata ve karışıklığa düşmesin. Zira bazılarında bu kitaba has bazı terimler kullanmıştır.
+4. Yukarıda da zikrettiğimiz gibi râvi tabakalarını 12 ile sınırlandırmıştır. Bu yüzden bu kitaptan istifade etmek isteyen araştırmacının bu tabakaları bilmesi gerekir. Ta ki İbn Hacer’in bu kitaba has ıstılahlarını bilsin.
+5. Tehzîb’ine ilave olarak bu eserine bir fasıl eklemiştir. Bu fasılda: kadın râvilerden isimleri mübhem/bilinmeyenlere yer vermiş ve bu râvileri kendilerinden rivayet eden erkek ve kadın râvilere göre tertib etmiştir.
+¶ Eser güzel olup bu ilmin mübtedileri için yeterli bir eserdir.
+* Takrîbü’t-Tehzîb: İbn Hacer, Tehzîbü’t-Tehzîb’in altıda biri; Sünen-i Erbaa rumuzu 4 yerine «عم»; Kütüb-i Sitte dışı râviler için «تمييز»; mukaddimede 12 tabaka; mübtediler için yeterli.
+
+## Hulâsatü Tezhîbi Tehzîbi’l-Kemâl
+@ خُلَاصَةُ تَذْهِيبِ تَهْذِيبِ الْكَمَالِ
+¶ Hâfız Safiyyüddin Ahmed b. Abdullah el-Hazrecî el-Ensârî, Zehebî’nin “Tezhîbü’t-Tehzîb” isimli kitabını büyük bir ciltte “Hulâsatü Tezhîbi Tehzîbi’l-Kemâl” ismiyle özetledi. Musannif bu kitabın mukaddimesinde şöyle diyor: “Bu kitapta çoğunlukla kaydedilmesi gereken şeyleri kaydettim. Sağlam nakillerden, güvenilir kitaplardan birçok vefat tarihleri ve faydalı ilaveler ekledim.”
+### Musannif kitabında şu yöntemi takip etmiş
+1. Zehebî’nin Tezhîb’inde hal tercümelerini aldığı Kütüb-i Sitte’nin ve meşhur musanneflerin ricâlinden tahrici yapılan ricâlin hal tercümelerini yapıyor. Bu musannefler Mizzî’nin bizzat Tehzîb’inde zikrettiği, Kütüb-i Sitteyle beraber 25 musanneftir.
+2. Kitabın mukaddimesinde bu musanneflerin rumuzlarını zikredip 27 rumuz olarak belirledi ki, Mizzî’nin, sonra Zehebî’nin Tezhîb’de zikrettiği rumuzlardır. Bunlara ilaveten sadece “temyîz” kelimesini ekledi.
+3. Kitabı 2 kısma ayırdı. Birinci kitabı; erkeklerin hal tercümelerine mahsus kıldı. İkinci kitabı da kadınlara mahsus kıldı. Erkeklerin hal tercümelerine tahsis ettiği kitabı iki kısım ve hâtimeye ayırdı. Birinci kısmı isimlere göre tertip etti. İkinci kısmı künyelere göre tertip edip onu da ikiye ayırdı. Hâtimeyi 8 bölüme ayırdı.
+4. İsimleri harflere göre tertip etti. Ancak alfabetik sırayı takip etmeyip mesela hemze harfine Ahmed, mim harfine Muhammed ismiyle başladı.
+5. Zehebî’nin kitabındaki hal tercümelerine bazı ilaveler yaptı. Bu ilaveleri “temyîz” kelimesiyle ifade etti.
+6. Hal tercümelerini İbn Hacer’in et-Takrîb’inde yaptığı gibi muayyen bir tarzda şekillendirmeyip bazen cerh veya tevsiki zikrediyor, bazen de zikretmiyor. Bazen vefat tarihini zikrediyor bazen de zikretmiyor. Hal tercümesini yaptığı kişinin bazı hoca ve talebelerini devamlı zikredip 1 ile 3 arası hoca ve talebe ismi sayıyor. Cerh ve ta’dil imamlarının, hal tercümesi yapılan hakkındaki görüşlerinin tamamını özetlemeyip sadece “falanca sika dedi, filanca zayıf dedi” diye zikrediyor.
+### Kitap hakkındaki son sözler
+¶ Şüphesiz Hazrecî, Zehebî’nin Tezhîbü’t-Tehzîb’ini özetlerken çok emek sarf etti. Ancak bu hususta dikkat çekilmesi gereken 2 mühim şey var.
+!! Birincisi, hal tercümesini yaptıklarının çoğunda cerh ve ta’dili zikretmemesi ki, bu açık bir kusurdur ve kitabın ilmî değerini düşürüyor. Çünkü bu kitaba müracaat edenin gayelerinin başlıcalarındandır, hal tercümesine baktığı râvinin cerh ve ta’dil ile ilgili durumunu bilmek. İkincisi ise birçok hal tercümesinde vefat tarihlerini zikretmemesi.
+* Hulâsa: Hazrecî, Zehebî’nin Tezhîb’inin özeti; 25 musannef, 27 rumuz + “temyîz”; hemzede önce Ahmed, mimde önce Muhammed. Kusurları: çoğunda cerh-ta’dil ve birçoğunda vefat tarihi yok.
+
+## Diğer Ricâl Eserleri
+### et-Tezkira bi-Ricâli’l-Aşera
+@ التَّذْكِرَةُ بِرِجَالِ الْعَشَرَةِ
+¶ Ebû Abdullah Muhammed b. Ali el-Hüseynî ed-Dımaşkî (v.765).
+¶ Bu kitap Mizzî’nin Tehzîbü’l-Kemâl’inde konu edindiği Kütüb-i Sitte’ye 4 mezheb imamının müsnedlerini ilave ederek 10 hadis kitabındaki ricâlin hal tercümelerini kapsıyor. Ancak o da hocası Mizzî gibi Kütüb-i Sitte’nin müelliflerinin bazı eserlerindeki ricâli zikretmiyor. 4 mezheb imamını şöyle rumuzlandırıyor: İmam Mâlik («ك»), İmam Şâfiî («فع»), Ebû Hanîfe («فه»), İmam Ahmed («ا»); Abdullah b. Ahmed’in babasının dışındakilerden rivayetini («عب») diye vasıflandırıyor. Kütüb-i Sitte’nin rumuzlarını aynı bırakıyor. Bu kitap çok faydalı olmakla birlikte basılmamıştır.
+### Ta’cîlü’l-Menfaa bi-Zevâidi Ricâli’l-Eimmeti’l-Erbaa
+@ تَعْجِيلُ الْمَنْفَعَةِ بِزَوَائِدِ رِجَالِ الْأَئِمَّةِ الْأَرْبَعَةِ
+¶ Hâfız İbn Hacer el-Askalânî. İbn Hacer bu kitapta Mizzî’nin Tehzîb’inde almadığı 4 mezheb imamının meşhur hadis kitaplarındaki ricâli ele alıyor.
+| | et-Tezkira bi-Ricâli’l-Aşera | Ta’cîlü’l-Menfaa
+| **Müellif** | el-Hüseynî ed-Dımaşkî (765) | İbn Hacer
+| **Kapsam** | Kütüb-i Sitte + 4 mezheb imamının müsnedleri = 10 kitap | Tehzîb’de olmayan, 4 imamın kitaplarındaki ricâl
+| **Rumuzlar** | «ك» Mâlik, «فع» Şâfiî, «فه» Ebû Hanîfe, «ا» Ahmed, «عب» Abdullah b. Ahmed | —
+### Sadece sikâtı anlatan kitaplar
+1. Kitâbü’s-Sikât: Ebü’l-Hasen Ahmed b. Abdullah b. Sâlih el-İclî (v.261).
+2. Kitâbü’s-Sikât: Muhammed b. Ahmed b. Hibbân el-Bustî (v.354). Müellif kitabı râvilerin tabakalarına göre tertip etmiş, her tabakanın isimlerini de alfabetik olarak yazmış.
+3. Târîhu Esmâi’s-Sikât mimmen nukile anhümü’l-ilm: Ömer b. Ahmed b. Şâhîn (385). Müellif kitabında râvilerin isimlerini alfabetik olarak zikrediyor.
+### Sadece zayıf râvileri anlatan kitaplar
+1. ed-Duafâü’l-Kebîr: Buhârî.
+2. ed-Duafâü’s-Sağîr: Buhârî.
+3. Kitâbü’d-Duafâ: Nesâî.
+4. Ma’rifetü’l-Mecrûhîn mine’l-Muhaddisîn: Ebû Hâtim Ahmed b. Hibbân el-Bustî (v.354).
+5. el-Kâmil fî Duafâi’r-Ricâl: Ebû Ahmed Abdullah b. Adî el-Cürcânî (v.365).
+6. Mîzânü’l-İ’tidâl: Zehebî. Zayıf râviler hakkında yazılmış en derli toplu kitaptır. 11.053 râvi hakkında bilgi veriyor. Kitabın yazımında İbn Adî’nin el-Kâmil’de takip ettiği metod izlenmiş.
+7. Lisânü’l-Mîzân: İbn Hacer el-Askalânî. Bu kitapta müellif Mîzânü’l-İ’tidâl’deki hal tercümelerini alıp, Tehzîbü’l-Kemâl’de olmayanlara ilave olarak eklemeler yapmıştır. Kitap alfabetik olarak hazırlanmış, isimlerden sonra künyeler zikrediliyor.
+### Belirli şehirlerdeki ricâli anlatan kitaplar
+1. Târîhu Vâsıt: Ebü’l-Hasen el-Vâsıtî (v.288).
+2. Muhtasaru Tabakâti Ulemâi İfrîkıyye ve Tûnus: Ebü’l-Arab Ahmed el-Kayrevânî (v.333).
+3. Târîhu Rakka: Muhammed b. Saîd el-Kuşeyrî (v.334).
+4. Dâreyyâ: Abdülcebbâr el-Cevlânî ed-Dârânî (v.370).
+5. Zikru Ahbâri İsbahân: Ebû Nuaym el-İsbahânî (v.370).
+6. Târîhu Bağdâd: Hatîb el-Bağdâdî (v.463).
+| Tür | Eser | Müellif
+| **Sikât** | Kitâbü’s-Sikât | İclî (261)
+| **Sikât** | Kitâbü’s-Sikât (tabakalara göre) | İbn Hibbân (354)
+| **Sikât** | Târîhu Esmâi’s-Sikât | İbn Şâhîn (385)
+| **Duafâ** | ed-Duafâü’l-Kebîr · ed-Duafâü’s-Sağîr | Buhârî
+| **Duafâ** | Kitâbü’d-Duafâ | Nesâî
+| **Duafâ** | Ma’rifetü’l-Mecrûhîn | İbn Hibbân (354)
+| **Duafâ** | el-Kâmil fî Duafâi’r-Ricâl | İbn Adî (365)
+| **Duafâ** | Mîzânü’l-İ’tidâl (11.053 râvi) | Zehebî
+| **Duafâ** | Lisânü’l-Mîzân | İbn Hacer
+| **Şehir** | Târîhu Bağdâd | Hatîb el-Bağdâdî (463)
+* Sikât kitapları: İclî (261), İbn Hibbân (354, tabakalara göre), İbn Şâhîn (385, alfabetik).
+* Duafâ kitapları: Buhârî (Kebîr, Sağîr), Nesâî, İbn Hibbân (el-Mecrûhîn), İbn Adî (el-Kâmil), Zehebî (Mîzânü’l-İ’tidâl, en derli toplu, 11.053 râvi, el-Kâmil’in metodu), İbn Hacer (Lisânü’l-Mîzân).
+* Şehir ricâli: Târîhu Vâsıt, İfrîkıyye ve Tûnus, Rakka, Dâreyyâ, İsbahân (Ebû Nuaym), Târîhu Bağdâd (Hatîb).

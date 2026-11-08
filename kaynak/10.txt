@@ -1,0 +1,157 @@
+# Sened Tenkidi ve Cerh-Ta’dîl
+> İsnad tenkidi ve hadis hakkında hüküm verme; sened ve metin, isnadın önemi, rivayeti makbul râvinin şartları, adalet ve zabtın bilinmesi, cerh-ta’dîl meseleleri ve lafızlarının mertebeleri.
+
+## Sened Tenkidi ve Hadis Hakkında Hüküm
+¶ Sened tenkidi (cerh ve ta’dîl):
+: İsnad tenkidi = İsnadda geçen râvilerin tabakat kitaplarından araştırılması, sika ve zayıf râvilerin bilinmesi, râvilerin doğum-ölüm tarihlerine bakarak isnadda inkıta ve ittisalin bilinmesi, özellikle muan’an ise senedde tedlisin olup olmadığının bilinmesi, cerh ve ta’dil âlimlerinin görüşlerine muttali olma, senedde herkesin fark edemeyeceği gizli illeti tespit etmek için senedin derinliklerine dalma, mürsel ile mevsulu ve mevkufu maktu’dan ayırt edebilmek için sahâbe ve tâbiîni tanıma… demektir.
+¶ Hadis isnadı hakkında hüküm vermekten amaç, isnad tenkidini ince kâide ve usuller neticesinde varılan hükmü, örneğin: “bu isnad sahihtir”, “bu isnad zayıftır” veya “bu isnad mevzudur” diye belirtmektir.
+¶ Hadis metni hakkında hüküm: Sened incelemesi yaptıktan sonra hadis hakkında “Bu sened sahihtir”, “Bu sened zayıftır” şeklinde hüküm vermektir. Bu da ancak uzun süre sened araştırması yapıp da tecrübe sahibi olan birisinin yapabileceği ince kural ve sınırlı usullerle gerçekleşebilir. Bu ise sadece sened hakkındaki hükümdür.
+!! Metin hakkında hüküm vermek için ekstra araştırmalar yapmak lazımdır. Metinde şüzûz ve cerhedici bir illet var mı yok mu? Veya bu hadis hükmünün değişmesine sebep olabilecek şekilde başka bir sened veya senedlerle rivayet edildi mi edilmedi mi?… Bu araştırmalar neticesinde ancak “Bu hadis sahihtir”, “Bu hadis zayıftır” hükmü verilebilir.
+| | İsnad hakkında hüküm | Hadis (metin) hakkında hüküm
+| **İfade** | “Bu isnad sahihtir / zayıftır / mevzudur” | “Bu hadis sahihtir / zayıftır”
+| **Gerektirdiği** | Sened incelemesi, ince kural ve usuller | Ek olarak şüzûz, illet ve başka senedlerin araştırılması
+* İsnad tenkidi: râvileri tabakat kitaplarından araştırmak, sika-zayıfı bilmek, doğum-ölümle ittisal ve inkıtaı, muan’anda tedlisi, gizli illeti tespit etmek, mürsel-mevsul ve mevkuf-maktu’ ayrımı için sahâbe ve tâbiîni tanımak.
+* “Bu sened sahihtir” yalnızca sened hükmüdür; metin için şüzûz, illet ve başka senedler ayrıca araştırılır.
+
+## Sened ve Metin
+¶ Hadis sened ve metin olarak iki kısma ayrılır.
+: Sened = Lügatte “dayanılan şey” demektir. Istılahta ise; “metne ulaştıran râvi silsilelerinden meydana gelen kısımdır.”
+: Metin = Lügatte “sert ve yüksek yer” demektir. Istılahta ise; “senedin bitip de kelamın başladığı yerdir.”
+* Sened: lügatte dayanılan şey; ıstılahta metne ulaştıran râvi silsilesi. Metin: lügatte sert ve yüksek yer; ıstılahta senedin bitip kelamın başladığı yer.
+
+## İsnadın Değeri ve Önemi
+¶ İsnad ümmet-i Muhammed’e has bir özelliktir. Daha önceki ümmetlerde böyle bir özellik olmadığı için Peygamberlerinin sahih haberleri kaybolduğu gibi, semâvî kitapları da tahrif edilmiştir. Rivâyetlerin senedli olarak nakledilmesi, bu ümmetin üzerinde titizlikle durarak takib ettikleri bir yoldur. Bundan dolayı; Hz. Peygamber’in hadislerinin ve selefe ait haberlerin senedli olarak nakledilmesi, müslümanın üzerine düşen bir görev olmuştur.
+¶ Bu konuda **İbnü’l-Mübârek** “İsnad dindendir, isnad olmasaydı dileyen dilediğini söylerdi”, **Süfyân-ı Sevrî** “İsnad mü’minin silahıdır” diyerek isnadın önemini vurgulamışlardır.
+¶ Bir rivâyette sened zincirinin bulunmasının önemi, rivâyetin Hz. Peygamber’e (sav) ulaşıp ulaşmadığının bilinmesinde ortaya çıkar. Bu da râvilerinin hallerini terceme kitaplarında araştırmakla olur. Sened olmasaydı haberlerin doğrusunu yalanından ayırt edemezdik. Bid’at ve bâtıl ehli hadis uydurmaya cüret ederdi.
+| Söz | Söyleyen
+| **“İsnad dindendir, isnad olmasaydı dileyen dilediğini söylerdi.”** | İbnü’l-Mübârek
+| **“İsnad mü’minin silahıdır.”** | Süfyân-ı Sevrî
+* İsnad bu ümmete hastır; önceki ümmetlerde olmadığı için sahih haberler kayboldu, kitaplar tahrif edildi.
+* “İsnad dindendir…” İbnü’l-Mübârek; “İsnad mü’minin silahıdır” Süfyân-ı Sevrî.
+
+## Cerh ve Ta’dîl ve Ricâl İlmine İhtiyaç
+¶ İsnad tenkidi cerh-ta’dil ve râvilerin tarihi ilmine dayanıyor. Cerh ve ta’dil ilminin aşamaları şöyledir:
+### Cerh ve ta’dil ilmine duyulan ihtiyaç
+¶ Senette bulunan râviler hakkında hüküm vermek ve hadisin mertebelerini bilmek için cerh ve ta’dil ilmine ihtiyaç vardır. Çünkü isnad hakkında hüküm vermeden hadis hakkında hüküm vermek mümkün değildir. Bu yüzden münekkid âlimlerin dayandığı cerh ve ta’dil kuralları, makbul râvinin şartları, adalet ve zabtın sübutunun nasıllığı gibi hususları bilmek gerekir.
+¶ Araştırmacı seneddeki râvilerin biyografilerini içeren kitapları okurken, cerh ve ta’dil kurallarını, bu sanat erbabının kullandıkları ıstılah lafızlarını ve bu lafızların derecelerini adalet mertebesinin en yukarısından cerh mertebelerinin en düşüğüne kadar bilmeden herhangi bir neticeye varması düşünülemez.
+### Rivayeti makbul râvinin şartları
+: Adalet = Râvinin müslüman, âkil, bâliğ olması, büyük günah işlememesi, mürûetini zedeleyecek davranışlardan uzak durması demektir.
+: Zabt = Râvinin hafızasının kötü olmaması, çok hata yapmaması, sika râvilere muhalif olmaması, aşırı gafil olmaması demektir.
+### Adalet nasıl bilinir?
+¶ Cerh ve ta’dil âlimlerinden iki tanesinin o râvinin adil olduğunu cerh ve ta’dil kitaplarında belirtmesi gerekir (tansis). Ya da sika özelliği ile şöhret bulması gerekir. Böylesi râvilerin cerh ve ta’dil kitaplarında araştırılmasına gerek yoktur. Mâlik b. Enes, Evzâî gibi.
+### İbn Abdilberr’in adaletin sübutu ile ilgili görüşü
+¶ Bütün ilim ehlinin yaptıkları (söyledikleri), cerhi açığa çıkmadığı sürece adalete hamledilir. Kimsenin adaletini sorgulamaya ihtiyaç duymayız diyor ve hadisi delil olarak getiriyor. Fakat ulema, bu görüşü hadisin zayıf olmasından ötürü kabul etmemiştir.
+### Râvinin zaptı nasıl bilinir?
+¶ Râvinin zaptı, mutkin ve sika râvilere muvafakati ile bilinir. Az muhalefeti zarar vermez. Eğer muhalefeti çok olursa zabtı zedelenir ve hüccet olmaz.
+| | Nasıl bilinir?
+| **Adalet** | İki cerh-ta’dil âliminin belirtmesi (tansis) ya da sika olarak şöhret (Mâlik b. Enes, Evzâî)
+| **Zabt** | Mutkin ve sika râvilere muvafakat; az muhalefet zarar vermez, çok muhalefet zabtı zedeler
+* Adalet: müslüman, âkil, bâliğ, büyük günah işlememe, mürûeti zedeleyecek davranıştan uzak durma. Zabt: hafızası kötü değil, çok hata yapmaz, sikalara muhalif değil, aşırı gafil değil.
+* Adalet tansis (iki âlimin belirtmesi) veya şöhretle bilinir. İbn Abdilberr: cerhi açığa çıkmayan her ilim ehli adildir; ulema hadis zayıf olduğu için kabul etmedi.
+
+## Cerh ve Ta’dîl Meseleleri
+### Sebep belirtmeksizin cerh ve ta’dil kabul edilir mi?
+1. Meşhur ve sahih olan görüşe göre ta’dil, sebeplerini belirtmeksizin kabul edilir. Çünkü ta’dil sebepleri çok olduğundan hepsini tek tek belirtmek zordur.
+2. Cerh ise sebebini açıklamaksızın kabul edilmez. Çünkü insanlar çeşitli şeylerden ötürü cerh edilirler; o yüzden sebebini mutlaka belirtmesi gerekir.
+### Cerh ve ta’dil bir kişi ile gerçekleşir mi?
+¶ Sahih olan görüşe göre cerh ve ta’dil, cerh ve ta’dil ehli olan bir kişiden, köle veya kadın olsa bile kabul edilir.
+### Bir râvide cerh ve ta’dilin bir araya gelmesi
+¶ Cerh etme sebebi açıklanmışsa bu, ta’dilin önüne geçirilir. Açıklanmamışsa ta’dil cerhin önüne geçirilir.
+| Mesele | Hüküm
+| **Sebepsiz ta’dil** | Kabul edilir (sebepleri çok olduğundan)
+| **Sebepsiz cerh** | Kabul edilmez (sebebi mutlaka belirtilmeli)
+| **Tek kişinin cerh-ta’dili** | Ehilse kabul edilir; köle veya kadın olsa bile
+| **Cerh ve ta’dil bir arada** | Cerhin sebebi açıklanmışsa cerh; açıklanmamışsa ta’dil öne geçer
+* Ta’dil sebepsiz kabul edilir; cerh sebebi açıklanmadan kabul edilmez. Ehil tek kişinin (köle veya kadın olsa bile) cerh-ta’dili kabul edilir.
+* Cerh ve ta’dil çatışırsa: cerhin sebebi açıklanmışsa cerh, değilse ta’dil öne geçer.
+
+## Cerh ve Ta’dîl Lafızlarının Mertebeleri
+¶ **İbn Ebî Hâtim er-Râzî** (ö.327/938) el-Cerh ve’t-ta’dîl isimli kitabının mukaddimesinde cerh ve ta’dîl lafızlarını 4’er gruba ayırmış ve her birinin hükmünü açıklamıştır. **Zehebî** ve **Irâkî**, Râzî’nin 1. grupta mütâlaa ettiği ta’dîl lafızlarının üzerine «ثقة ثقة»، «ثقة حجة» gibi tevsîk («التوثيق») lafızlarını tekrarlayarak ilâvede bulunmuştur.
+¶ **İbn Hacer el-Askalânî** ise, Zehebî ve Irâkî’nin eklediği tevsîk lafızlarının üzerine «أوثق الناس»، «أثبت الناس» gibi tafdîl («التفضيل») sîgaları kullanarak ayrı bir ilâvede bulunmuş, böylece ta’dîl lafızları 6 grupta mütâlaa edilmiştir.
+¶ Aynı şekilde Râzî’nin 4’e ayırarak ifâde ettiği cerh lafızlarının üzerine hadis âlimleri ilâvelerde bulunmuş, dolayısıyla cerh lafızlarından müteşekkil grup da altıya çıkmıştır.
+>> **İbn Ebî Hâtim er-Râzî:** cerh ve ta’dîl lafızları 4’er grup
+>> **Zehebî ve Irâkî:** tekrarlanan tevsîk lafızları («ثقة ثقة»، «ثقة حجة»)
+>> **İbn Hacer:** tafdîl sîgaları («أوثق الناس»، «أثبت الناس») → ta’dîl 6 grup; cerh de 6 grup
+* Lafız mertebeleri: İbn Ebî Hâtim 4’er grup; Zehebî ve Irâkî tekrarlı tevsîk ekledi; İbn Hacer tafdîl sîgalarını ekledi → 6’şar grup.
+
+## Ta’dîl Lafızlarının Mertebeleri
+### 1. Grup
+¶ Güvenilir (sika) olma konusunda mübâlağa üslûbu veya tafdîl sîgasıyla kullanılan ifâdeler:
+@ فُلَانٌ إِلَيْهِ الْمُنْتَهَى فِي التَّثَبُّتِ | Falanca doğrulukta son noktaya ulaştı.
+@ لَا أَعْرِفُ لَهُ نَظِيرًا فِي الدُّنْيَا | Dünyada onun benzerini görmedim.
+@ فُلَانٌ أَثْبَتُ النَّاسِ | Falanca insanların en sağlamı.
+@ فُلَانٌ أَوْثَقُ الْخَلْقِ | Falanca yaratılmışların en güvenilir olanı.
+@ فُلَانٌ أَوْثَقُ مَنْ أَدْرَكْتُ مِنَ الْبَشَرِ | Karşılaştığım insanların en güvenilir olanı.
+### 2. Grup
+¶ Tevsîk (güvenilir olduğunu) bildiren lafızların peş peşe veya te’kidli olarak kullanıldığı ifâdeler:
+@ ثِقَةٌ ثِقَةٌ، ثِقَةٌ ثَبْتٌ، ثَبْتٌ حُجَّةٌ، ثِقَةٌ مَأْمُونٌ، ثِقَةٌ حَافِظٌ
+### 3. Grup
+¶ Tevsîk bildiren ancak te’kidsiz kullanılan ifâdeler:
+@ ثِقَةٌ، حُجَّةٌ، ثَبْتٌ، كَأَنَّهُ مُصْحَفٌ، عَدْلٌ ضَابِطٌ
+- İlk 3 grupta yer alan ifâdeler hadisin sened îtibârıyla sahih seviyesinde olduğunu gösterir.
+### 4. Grup
+¶ Râvînin zabtına işâret etmeksizin ta’dîl (râvînin âdil olduğunu) bildiren ifâdeler:
+@ صَدُوقٌ، مَحَلُّهُ الصِّدْقُ، لَا بَأْسَ بِهِ
+! «لا بأس به» ifâdesi Yahya b. Maîn’e göre «ثقة»، «مأمون»، «خيار» mânâsındadır. Bu grupta yer alan ifâdeler hadisin sened îtibârıyla hasen seviyesinde olduğunu gösterir.
+### 5. Grup
+¶ Kendisinde tecrîh ve tevsîk ile ilgili bir mânâ bulunmayan ifâdeler:
+@ فُلَانٌ شَيْخٌ، رَوَى عَنْهُ النَّاسُ، إِلَى الصِّدْقِ مَا هُوَ، وَسَطٌ، شَيْخٌ وَسَطٌ
+### 6. Grup
+¶ Cerh (tecrîh) edilmeye yakın bulunduğuna işâret eden ifâdeler:
+@ فُلَانٌ صَالِحُ الْحَدِيثِ، يُكْتَبُ حَدِيثُهُ، يُعْتَبَرُ بِهِ، مُقَارِبُ الْحَدِيثِ، صَالِحٌ
+! «يعتبر به» ifâdesi “hadisin îtibarı yapılır” mânâsındadır. 5. ve 6. grupta yer alan ifâdeler hadisin sened îtibârıyla «يسير الضعف» seviyesinde olduğunu gösterir.
+### Bu mertebelerin hükmü
+1. Her ne kadar derece îtibârıyla birbirinden farklılık arz etse de, ilk 3 grupta yer alan râvîlerin rivâyetleriyle delil getirilir.
+2. 4 ve 5. grupta yer alan râvîlerin rivâyetleriyle delil getirilmez. Ancak rivâyetleri yazılır. Zabt yönleri incelenir (ihtibâr). Rivâyetleri sika (mutkın) olan râvîlerin rivâyetlerine arz edilir. Uygunluk bulunuyorsa delil getirilir. Aksi halde delil getirilmez.
+3. 6. grupta yer alan râvîlerin rivâyetleriyle delil getirilmez. Rivâyetleri, îtibâr yapmak (rivâyetin şâhit veya mütâbisinin olup olmadığını araştırmak) gâyesiyle yazılabilir. Zabt sahibi olmadıkları için rivâyetlerinin ihtibârı yapılmaz.
+### Ta’dîl tabakaları, lafızları ve verilen hükümleri gösteren tablo
+| Tabaka | Lafızlar | Hüküm
+| **1** | «فلان إليه المنتهى في التثبت - لا أعرف له نظيرا في الدنيا - فلان أثبت الناس - أوثق الخلق - أوثق من أدركت من البشر» | «صحيح»
+| **2** | «ثقة ثقة - ثقة ثبت - ثبت حجة - ثقة مأمون - ثقة حافظ» | «صحيح»
+| **3** | «ثقة - حجة - ثبت - كأنه مصحف - عدل ضابط» | «صحيح»
+| **4** | «صدوق - محله الصدق - مأمون - خيار - لا بأس به (عند غير ابن معين)» | «حسن»
+| **5** | «فلان شيخ - روى عنه الناس - إلى الصدق ما هو - وسط - شيخ وسط» | «ضعيف»
+| **6** | «فلان صالح الحديث - يكتب حديثه - يعتبر به - مقارب الحديث - صالح» | «ضعيف»
+* Ta’dîl 1-3. grup (mübâlağa/tafdîl, tekrarlı tevsîk, tek tevsîk) → sahih; delil getirilir.
+* Ta’dîl 4. grup («صدوق»، «محله الصدق»، «لا بأس به») → hasen; 4-5. grup ihtibâr yapılır, uygunsa delil.
+* Ta’dîl 5-6. grup → «يسير الضعف»; 6. grup yalnızca îtibâr için yazılır. Yahya b. Maîn’e göre «لا بأس به» = sika.
+
+## Cerh Lafızlarının Mertebeleri
+### 1. Grup
+¶ Rivâyetinde zayıflık (telyin, lîn) olduğunu bildiren ifâdeler:
+@ فُلَانٌ لَيِّنُ الْحَدِيثِ | Falanın hadisi zayıf.
+@ فِيهِ مَقَالٌ | Hakkında tenkit var.
+@ فِي حَدِيثِهِ ضَعْفٌ | Hadisinde zayıflık var.
+@ لَيْسَ بِذَلِكَ
+@ لَيْسَ بِمَأْمُونٍ | Güvenilir değil.
+### 2. Grup
+¶ Rivâyetiyle delil getirilemeyeceği açıkça bildirilen ifâdeler:
+@ فُلَانٌ لَا يُحْتَجُّ بِهِ، ضَعِيفٌ، لَهُ مَنَاكِيرُ، وَاهٍ، ضَعَّفُوهُ | «له مناكير»: sikaya muhalefet ettiği zamanlar olmuştur.
+¶ 1 ve 2. gruba giren râvîlerin rivâyetleriyle delil getirilmez. Ancak bunların îtibârı yapılabilir.
+### 3. Grup
+¶ Rivâyetinin yazılamayacağını açıkça bildiren ifâdeler:
+@ فُلَانٌ لَا يُكْتَبُ حَدِيثُهُ، لَا تَحِلُّ الرِّوَايَةُ عَنْهُ، ضَعِيفٌ جِدًّا، وَاهٍ بِمَرَّةٍ، طَرَحُوا حَدِيثَهُ
+### 4. Grup
+¶ Râvînin yalanla itham edildiğini bildiren ifâdeler:
+@ فُلَانٌ مُتَّهَمٌ بِالْكَذِبِ، مُتَّهَمٌ بِالْوَضْعِ، يَسْرِقُ الْحَدِيثَ، سَاقِطٌ، لَيْسَ بِثِقَةٍ
+¶ 3. gruptaki râvîlerin rivâyetleri münker, 4. gruptakilerinki ise metruktur. Her iki gruba dâhil olan râvîlerin rivâyetleri şedîdü’d-da’f seviyesindedir.
+### 5. Grup
+¶ Râvîde yalancılık vasfının bulunduğunu bildiren ifâdeler:
+@ فُلَانٌ كَذَّابٌ، دَجَّالٌ، وَضَّاعٌ، يَكْذِبُ، يَضَعُ، زِنْدِيقٌ
+### 6. Grup
+¶ Râvînin aşırı derecede yalancı olduğunu bildiren ifâdeler:
+@ فُلَانٌ أَكْذَبُ النَّاسِ، إِلَيْهِ الْمُنْتَهَى فِي الْكَذِبِ، هُوَ رُكْنُ الْكَذِبِ، هُوَ مَعْدِنُ الْكَذِبِ، إِلَيْهِ الْمُنْتَهَى فِي الْوَضْعِ
+¶ 5 ve 6. gruba giren râvîlerin rivâyetleri mevzu’dur.
+### Bu mertebelerin hükmü
+1. 1 ve 2. gruba dâhil olan râvîlerin rivâyetleriyle delil getirilmez. Rivâyetleri sadece îtibar yapmak üzere yazılabilir.
+2. 3, 4, 5 ve 6. gruba dâhil olan râvîlerin rivâyetleriyle delil getirilmez. Hadisleri yazılmaz. Birbirlerini destekleyip kuvvetlendirmeye uygun olmadıkları için de îtibarı yapılmaz.
+### Cerh tabakaları, lafızları ve verilen hükümleri gösteren tablo
+| Tabaka | Lafızlar | Hüküm
+| **1** | «فلان لين الحديث - فيه مقال - في حديثه ضعف - ليس بذلك - ليس بمأمون» | «لا يحتج به بل يكتب للاعتبار»
+| **2** | «فلان لا يحتج به - ضعيف - له مناكير - واه - ضعفوه» | «لا يحتج به بل يكتب للاعتبار»
+| **3** | «فلان لا يكتب حديثه - لا تحل الرواية عنه - ضعيف جدا - واه بمرة - طرحوا حديثه» | «منكر لا يحتج به ولا يعتبر به»
+| **4** | «فلان متهم بالكذب - متهم بالوضع - يسرق الحديث - ساقط - ليس بثقة» | «متروك لا يحتج به ولا يعتبر به»
+| **5** | «فلان كذاب - دجال - وضاع - يكذب - يضع - زنديق» | «موضوع لا يحتج به ولا يعتبر به»
+| **6** | «إليه المنتهى في الكذب - هو ركن الكذب - إليه المنتهى في الوضع - هو معدن الكذب» | «موضوع لا يحتج به ولا يعتبر به»
+* Cerh 1-2. grup (lîn; delil olmaz) → delil getirilmez, îtibâr için yazılır.
+* Cerh 3. grup münker, 4. grup metruk (ikisi şedîdü’d-da’f); 5-6. grup (kezzâb, vaddâ’; ileri derece yalancı) mevzu’. 3-6. grup yazılmaz, îtibârı yapılmaz.

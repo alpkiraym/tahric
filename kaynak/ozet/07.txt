@@ -1,0 +1,13 @@
+# Dördüncü Yol (2): Konuların Çoğunu İçeren Eserler · Özet
+> B) Fıkıh babları üzerine olanlar: sünenler, musannefler, muvatta’lar ve bunlar üzerine müstahrecler.
+
+## B) Fıkıh Babları Üzerine
+@ عَلَى أَبْوَابِ الْفِقْهِ
+| Tür | Örnekler
+| **1. «السنن»** | «أبو داود، النسائي، ابن ماجه، البيهقي، الدارقطني، الدارمي»
+| **2. «المصنفات»** | «ابن أبي شيبة، عبد الرزاق، حماد بن سلمة»
+| **3. «الموطآت»** | «الإمام مالك، ابن أبي ذئب، المروزي»
+| **4. «المستخرجات عليها»** | «المستخرجات على ما ذكر في القسم الثاني من الكتب وهي السنن والمصنفات والموطآت»
+- **Sünenler** sadece **merfu’** hadisleri içerir.
+- **Musannefler merfu’, mevkuf ve maktu’** hadisleri içerir.
+- Muvatta’lar da musannefler gibidir, sadece isim farkı vardır. İmam Mâlik “ben kitabımı 70 âlime sundum ve onay aldım” demiştir.

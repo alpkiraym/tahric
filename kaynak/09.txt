@@ -1,0 +1,73 @@
+# Beşinci Yol: Metin ve Sened Hâli
+> Hadisin metni ve senedi üzerinde düşünülerek belirlenen vasıflardan yola çıkarak arama: metin bakımından (mevzûât, kudsî hadisler), sened bakımından (isnad latîfeleri, müselsel, mürsel, zayıf râvi), hem metin hem sened açısından (illet ve ibham).
+
+## Bu Yöntemin Maksadı
+¶ Hadisin metin ve sened bakımından tahrici: Burada söz konusu olan, hadisin metni ve senedi üzerinde derin bir şekilde tefekkür ettikten sonra, metin ve sened bakımından belirlenen bir takım vasıflardan yola çıkarak arama yapmaktır.
+| Bakılan yön | Vasıf | Başvurulan eserler
+| **1. Metin** | Uydurma alâmetleri | Mevzûât kitapları
+| **1. Metin** | Kudsî hadis | Kudsî hadisleri toplayan kitaplar
+| **2. Sened** | İsnad latîfesi (babanın oğlundan rivâyeti) | Rivâyetü’l-âbâ’ ani’l-ebnâ’
+| **2. Sened** | Müselsel | Müselsel rivâyetleri derleyen eserler
+| **2. Sened** | Mürsel | Merâsil kitapları
+| **2. Sened** | Zayıf râvi | Duafâ kitapları (Mîzânü’l-i’tidâl)
+| **3. Metin ve sened** | İllet ve ibham | İlel ve mübhemât kitapları
+* Beşinci yol: hadisin metni ve senedi üzerinde düşünülür; belirlenen vasıflardan yola çıkılarak aranır. 3 kısım: metin · sened · hem metin hem sened.
+
+## Metin Bakımından
+### Uydurma alâmetleri
+¶ Hadis metninde uydurma alâmetleri belirdiğinde -ki bunlar; lafızlarda rekâket (zayıflık, gevşeklik), mânâda bozukluk, Kur’ân’ın sarih anlamına zıtlık gibi konularda göze çarpar- böyle bir durumda hadis hakkında bilgi sâhibi olmak için en uygun yol; mevzûât kitaplarına mürâcaat etmektir. Ne var ki bu kitapların tahric ve tahkikli olanlarının sayısı azdır.
+¶ Mevzûât kitaplarından bir kısmı alfabetik olarak bir kısmı da konularına göre tertib edilmiştir. Bu kitaplardan konularına göre tertib edilenler ise daha fazladır.
+#### Alfabetik olarak tasnif edilenler
+- Ali el-Kârî el-Herevî’nin (ö.1014/1605) el-Masnû’ fî ma’rifeti’l-hadîsi’l-mevzû’u (el-Mevzûâtü’s-suğrâ).
+#### Konularına göre tasnif edilenler
+- Ebü’l-Hasan Ali b. Muhammed b. Arrâk el-Kinânî’nin (ö.963/1555) Tenzîhü’ş-şerîati’l-merfûa ani’l-ehâdîsi’ş-şenîati’l-mevzûa’sı.
+### Kudsî hadis olursa
+¶ O zaman sadece kudsî hadisleri toplayan kitaplardan araştırılır. Çünkü bu tür kitaplar hem hadisi hem de tahric edenlerin kaynağını veriyorlar.
+1. Muhyiddin İbnü’l-Arabî’nin (ö.638/1241) Mişkâtü’l-envâr fî mâ ruviye anillâhi sübhânehû ve teâlâ mine’l-ahbâr’ı. Eserinde senedleriyle birlikte 101 hadisi bir araya getirmiştir.
+2. Şeyh Abdurrauf el-Münâvî’nin (ö.1031/1622) el-İthâfâtü’s-seniyye bi’l-ehâdîsi’l-kudsiyye’si. Eserinde senedsiz olarak 272 hadisi bir araya getirmiş ve bunları alfabetik olarak tertib etmiştir.
+| Eser | Müellif | Özellik
+| **el-Masnû’ (el-Mevzûâtü’s-suğrâ)** | Ali el-Kârî (1014) | Mevzûât, alfabetik
+| **Tenzîhü’ş-şerîa** | İbn Arrâk el-Kinânî (963) | Mevzûât, konularına göre
+| **Mişkâtü’l-envâr** | Muhyiddin İbnü’l-Arabî (638) | Kudsî, senedli 101 hadis
+| **el-İthâfâtü’s-seniyye** | Münâvî (1031) | Kudsî, senedsiz 272 hadis, alfabetik
+* Uydurma alâmetleri: lafızda rekâket, mânâda bozukluk, Kur’ân’ın sarih anlamına zıtlık → mevzûât kitapları. Alfabetik: Ali el-Kârî’nin el-Masnû’u; konulara göre: İbn Arrâk’ın Tenzîhü’ş-şerîa’sı.
+* Kudsî hadisler: İbnü’l-Arabî’nin Mişkâtü’l-envâr’ı (senedli 101) ve Münâvî’nin el-İthâfâtü’s-seniyye’si (senedsiz 272, alfabetik).
+
+## Sened Bakımından
+### Senedde isnad latîfeleri bulunabilir
+¶ Babanın oğlundan hadis rivâyet ettiği mevcut ise; bu durumda hadisin tahricine ulaşmada en uygun yol, babaların çocuklarından yaptıkları rivâyetleri derleyen (Rivâyetü’l-âbâ’ ani’l-ebnâ’ gibi) eserlere mürâcaat etmektir.
+~ Ebû Bekr Ahmed b. Ali el-Hatîb el-Bağdâdî’nin (ö.463/1071) Rivâyetü’l-âbâ’ ani’l-ebnâ’ı.
+### Sened müselsel olabilir
+¶ Bu takdirde müselsel rivâyetleri derleyen eserlere mürâcaat edilir. Bu konuda kaleme alınan eserlerden bazıları şunlardır:
+1. Süyûtî’nin (911) el-Müselselâtü’l-kübrâ’sı. Eserinde 85 rivâyeti bir araya getirmiştir.
+2. Muhammed b. Abdülbâkî el-Eyyûbî’nin (ö.1364/1944) el-Menâhilü’s-selsele fi’l-ehâdîsi’l-müselsele’si. Eserinde 212 rivâyeti bir araya getirmiştir.
+### Sened mürsel olabilir
+¶ Bu takdirde mürsel rivâyetleri derleyen eserlere mürâcaat edilir:
+1. Ebû Dâvûd es-Sicistânî’nin (ö.275/888) el-Merâsil mea’l-esânîd’i. Konularına göre düzenlenmiş bir eserdir.
+2. İbn Ebî Hâtim er-Râzî’nin (ö.327/938) Kitâbü’l-merâsil’i.
+### Senedde zayıf râvi olabilir
+¶ Bu takdirde zayıf râvîler hakkında yazılmış (ed-Duafâ gibi) eserlere bakılır: ez-Zehebî’nin (ö.748/1374) Mîzânü’l-i’tidâl fî nakdi’r-ricâl’i.
+| Sened vasfı | Eser | Müellif
+| **Babanın oğlundan rivâyeti** | Rivâyetü’l-âbâ’ ani’l-ebnâ’ | Hatîb el-Bağdâdî (463)
+| **Müselsel** | el-Müselselâtü’l-kübrâ (85 rivâyet) | Süyûtî (911)
+| **Müselsel** | el-Menâhilü’s-selsele (212 rivâyet) | Muhammed b. Abdülbâkî el-Eyyûbî (1364)
+| **Mürsel** | el-Merâsil (konularına göre) | Ebû Dâvûd (275)
+| **Mürsel** | Kitâbü’l-merâsil | İbn Ebî Hâtim (327)
+| **Zayıf râvi** | Mîzânü’l-i’tidâl | Zehebî (748)
+* İsnad latîfesi (babanın oğlundan rivâyeti) → Hatîb’in Rivâyetü’l-âbâ’ ani’l-ebnâ’ı.
+* Müselsel → Süyûtî’nin el-Müselselâtü’l-kübrâ’sı (85), Eyyûbî’nin el-Menâhilü’s-selsele’si (212). Mürsel → Ebû Dâvûd ve İbn Ebî Hâtim’in Merâsil’leri. Zayıf râvi → Zehebî’nin Mîzânü’l-i’tidâl’i.
+
+## Hem Sened Hem Metin Açısından
+¶ İllet ve ibham gibi bazı hususlar vardır ki; bunlar bâzen senedde bâzen metinde olabilir. Bu takdirde hadislerdeki illetleri ve kapalılıkları îzah eden kitaplara mürâcaat etmek gerekir.
+! Seneddeki kapalılık cerh ve ta’dil yapmayı ortadan kaldırması sebebiyle hadis kritiği açısından hadise zarar verirken, metindeki kapalılık hadise zarar vermez.
+### Bu eserlerden bazıları
+1. İbn Ebî Hâtim er-Râzî’nin (ö.327/938) İlelü’l-hadîs’i. Eser konulara göre tertib edilmiştir. Her konunun altında illetli hadisler zikredilir. İllet sebepleri güzel bir şekilde açıklanır.
+2. Hatîb el-Bağdâdî’nin (ö.463/1071) el-Esmâü’l-mübheme fi’l-enbâi’l-muhkeme’si. Eserde, metindeki mübhem isimleri kapsayan hadisler zikredilir. Daha sonra kendisinde mübhem ismin sarih olarak zikredildiği başka bir tarik verilmek sûretiyle bu mübhem isim beyân edilir. Eser, mübhem isimlere nisbet edilerek alfabetik tarzda hazırlanmıştır.
+!! Fakat bu mübhem ismi tespit etmek gerçekten zordur. Çünkü bu mübhem şahsı bilen kişi zaten onu araştırmaya ihtiyaç duymaz. Bu mübhem şahsı bilmeyen kişi de zaten onun hadisin neresinde olduğunu bilemez.
+3. Ebû Zür’a Ahmed b. Abdirrahim el-Irâkî’nin (ö.826/1422) el-Müstefâd min mübhemâti’l-metn ve’l-isnâd’ı. Eser fıkhî konulara göre tertib edilmiş olup, bu sahada kaleme alınmış eserlerin en kapsamlısı ve en yararlısıdır.
+| Eser | Müellif | Konu ve tertip
+| **İlelü’l-hadîs** | İbn Ebî Hâtim (327) | İllet; konulara göre
+| **el-Esmâü’l-mübheme** | Hatîb el-Bağdâdî (463) | Mübhem isimler; alfabetik
+| **el-Müstefâd min mübhemâti’l-metn ve’l-isnâd** | Ebû Zür’a el-Irâkî (826) | Mübhemler; fıkhî konulara göre, en kapsamlısı
+* Hem metin hem sened (illet ve ibham): İbn Ebî Hâtim’in İlelü’l-hadîs’i; Hatîb’in el-Esmâü’l-mübheme’si (alfabetik); Ebû Zür’a el-Irâkî’nin el-Müstefâd’ı (en kapsamlı ve yararlı).
+* Seneddeki kapalılık hadise zarar verir (cerh-ta’dil yapılamaz); metindeki kapalılık zarar vermez.
